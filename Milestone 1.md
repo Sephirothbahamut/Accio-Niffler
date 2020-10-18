@@ -15,7 +15,7 @@ Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands S
 The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthemore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed verically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a  sky created by an magic spell. For each recurrence the hall is embelished, like Christmas or the Yule Ball. 
 
 ### Classrooms
-![GreatHall](Pictures\Locations\Hogwarts\Hogwarts_Classrooms.jpg)
+![Classrooms](Pictures/Locations/Hogwarts/Hogwarts_Classroom.jpg)
 The classorooms are located in varius castle zone, both inside and outside.The lessons inside the school, they are divided into theoretical and practical: the classrooms hosting the pratical lessons were embellished according to the lessons, like the Potion-Mixing Room has for each bench has a culdron where the student use it. The classroms ouside the castle, are the greenhouse and the Quidditch field for the lesson whit the broom.
 
 ### Dormitories
