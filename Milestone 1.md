@@ -7,11 +7,11 @@
 
 ## 2. Settings
 ###  Hogwarts
-![Hogwarts](Pictures\Locations\Hogwarts\Hogwarts_Castle.png)
+![Hogwarts](Pictures/Locations/Hogwarts/Hogwarts_Castle.png)
 Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands Scots, in the Unitied Kingdom. Sorrounded by the Black Lake and the Forbidden, the school is a castle which has its roots at the end of 10th century, for all this time its grandeur made it one the school more important in the magical world. On the outside, there are many towes that connect the various areas, moreover it has many meadows, Quidditch field, and other annexed structures: like the hut of the Keeper of the keys, game and grounds and the green house, where the erbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other misterious rooms. The school has of 142 stairways, each of them seems to have a live of its own as they have fun a change their position and cause poor students to go astray. And it is wrapped by many magical protections, making it invisible to Muggles, this means that only wizards live in the castle. 
 
 ### Great Hall
-![GreatHall](Pictures\Locations\Hogwarts\Hogwarts_GreatHall.jpg)
+![GreatHall](Pictures/Locations/Hogwarts/Hogwarts_GreatHall.jpg)
 The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthemore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed verically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a night sky created by an magic spell. For each recurrence the hall is embelished, like Christmas or the Yule Ball. 
 
 ### Classrooms
@@ -19,23 +19,23 @@ The Great Hall is a common place, where all students, the professors, the princi
 The classorooms are located in varius castle zone, both inside and outside.The lessons inside the school, they are divided into theoretical and practical: the classrooms hosting the pratical lessons were embellished according to the lessons, like the Potion-Mixing Room has for each bench has a culdron where the student use it. The classroms ouside the castle, are the greenhouse and the Quidditch field for the lesson whit the broom.
 
 ### Dormitories
-![Dorms](Pictures\Locations\Hogwarts\Hogwarts_Dorms.png)
+![Dorms](Pictures/Locations/Hogwarts/Hogwarts_Dorms.png)
 
 ### Quidditch field
-![QuidditchField](Pictures\Locations\Hogwarts\Hogwarts_QuiddichField.jpg)
+![QuidditchField](Pictures/Locations/Hogwarts/Hogwarts_QuiddichField.jpg)
 
 ### Chambers of Secrets
-![ChambersSecrets](Pictures\Locations\Hogwarts\Hogwarts_ChamberSecrets.png)
+![ChambersSecrets](Pictures/Locations/Hogwarts/Hogwarts_ChamberSecrets.png)
 
 ### Forbidden Forest
-![GreatHall](Pictures\Locations\Hogwarts\Hogwarts_ForbiddenForest.jpg)
+![GreatHall](Pictures/Locations/Hogwarts/Hogwarts_ForbiddenForest.jpg)
 
 ### Hogsmeade
 Hogsmeade: pozioni, negozio di dolci
-![Hogsmeade](Pictures\Locations\Hogsmeade_location.jpg)
+![Hogsmeade](Pictures/Locations/Hogsmeade_location.jpg)
 
 ### Diagon Alley
-![DiagonAlley](Pictures\Locations\DiagonAlley_location.jpg)
+![DiagonAlley](Pictures/Locations/DiagonAlley_location.jpg)
 Diagon Alley: pozioni, animali, libri, banca, potenziamenti bacchetta.
 
 ##  3. Synopsis
