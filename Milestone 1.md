@@ -109,6 +109,8 @@ _max 250 words_
 ## 7. Characters
 ### Minerva McGonagall
 
+<img src="Pictures/Characters/Minerva_McGonagall.png" style="zoom: 67%;" />
+
 #### Description
 
 Minerva is a black-haired half-blood witch, the only daughter of his muggle father and her witch mother.
@@ -127,11 +129,11 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 #### Circumplex
 
-...
+![](Pictures/Characters/Circumplexes/Minerva_Circumplex.png)
 
 #### Map of relationships
 
-....
+![](Pictures/Characters/Relations_Maps/Minerva_Relationship_Map.png)
 
 
 
@@ -139,7 +141,7 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 #### Description
 
-...
+<img src="Pictures/Characters/Delphini_Lestrange.png" style="zoom:50%;" />
 
 #### Backstory
 
@@ -157,21 +159,27 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 ### Albus Dumbledore
 
+<img src="Pictures/Characters/Albus_Dumbledore.png" style="zoom: 25%;" />
+
 #### Description
 
-Role as professor...
+Albus Percival Wulfric Brian Dumbledore is an auburn-haired half-blood wizard.
+
+He is currently teaching at Hogwarts: formerly a Defense against the Dark Arts professor, now presides over the Transfiguration class. Amongst its students we can find the proficient Minerva McGonagall, with whom he had developed a friendly mentorship, the eerie but clever Tom Riddle and the newcomer Delphini Lestrange, which sparked some suspicions because of her unusual arrival.
 
 #### Backstory
 
-Knows about the pure-blooded threat from past exp (grindelwald)
+Albus childhood was marked by tragedy by the attack of some muggle boys on her sister Ariana, who saw her performing magic and were frightened by what they saw. Some anti-muggle prejudice did develop in his early years, especially when he was in his relationship with Gellert Grindelwald, however he soon saw the error of his intent and changed his mind. This lead him to break his relationship with Grindelwald, followed by such a violent discussion that her sister Ariana was killed while trying to stop their fight. 
+
+From that experience, Albus changed completely, repudiating any possible anti-muggle or mage-elitist movement and fighting against them.
 
 #### Circumplex
 
-...
+![](Pictures/Characters/Circumplexes/Albus_Circumplex.png)
 
 #### Map of relationships
 
-....
+![](Pictures/Characters/Relations_Maps/Albus_Relationship_Map.png)
 
 
 
@@ -179,7 +187,7 @@ Knows about the pure-blooded threat from past exp (grindelwald)
 
 #### Description
 
-...
+<img src="Pictures/Characters/Tom_Riddle.png" style="zoom:50%;" />
 
 #### Backstory
 
@@ -199,7 +207,7 @@ Knows about the pure-blooded threat from past exp (grindelwald)
 
 #### Description
 
-...
+<img src="Pictures/Characters/Myrtle_Warren.png" style="zoom:50%;" />
 
 #### Backstory
 
@@ -218,6 +226,8 @@ Knows about the pure-blooded threat from past exp (grindelwald)
 ### Rubeus Hagrid
 
 #### Description
+
+<img src="Pictures/Characters/Rubeus_Hagrid.png" style="zoom:50%;" />
 
 ...
 
