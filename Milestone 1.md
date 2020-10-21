@@ -219,19 +219,23 @@ Tom Riddle was born in an orphanage in London, where his mother died shortly aft
 
 #### Description
 
-...
+Myrtle Elizabeth Warren is a brown-haired muggle-born witch. She is currently a student at Hogwarts and was sorted into the house of Ravenclaw because of her witty and individual personality. However this also backfired, as she was constantly bullied and mistreated for her peculiar aspect and temperament, gaining her the name of Moaning Myrtle because of her endless laments.
+
+Nonetheless, she managed to make some friends, including the young Minerva McGonagall and the newcomer Delphini Lestrange.
+
+As the events develop, she will die from the Basilisk petrifying stare, right after the opening of the Chamber of Secrets by the hand of Tom Riddle. She'll return in a ghostly form, presiding the bathroom where she passed away
 
 #### Backstory
 
-...
+She was born in a rather normal muggle family, discovering in time about her magical capabilities and receiving the Hogwarts enrollment letter. Muggle-born people were always discriminated against because of their unusual heritage and Myrtle was no exception: adding this to her shyness and looks made her the laughing stock amongst her classmates.
 
 #### Circumplex
 
-...
+![](Pictures/Characters/Circumplexes/Myrtle_Circumplex.png)
 
 #### Map of relationships
 
-....
+![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
 
 
 
