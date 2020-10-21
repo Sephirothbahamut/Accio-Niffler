@@ -139,21 +139,25 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 ### Delphini Lestrange
 
+<img src="Pictures/Characters/Delphini_Lestrange.png" style="zoom:50%;" />
+
 #### Description
 
-<img src="Pictures/Characters/Delphini_Lestrange.png" style="zoom:50%;" />
+Delphini is an half-blood witch, born in secret in 1998 as the result of the relationship between Bellatrix Lestrange and Lord Voldemort. She appears as a pale girl, with silvery hair and blue tips.
+
+After being grown and taught magic by Rodolphus, the "official" husband of his mother Bellatrix, she is prepared and resolute about going into the past with the intent of changing the weave of fate, in order to avert his parents' premature death. Her mission is to try to corrupt a young promising student into helping Tom Riddle, her father, to win the First Wizarding War: that student will later be found in Minerva McGonagall. 
 
 #### Backstory
 
-...
+Delphini was left as an orphan as a result of the Second Wizarding War: in her early years she was raised by Euphermia Rowle, a witch probably paid by her stepfather Rodolphus while he was convicted in Azkaban as a result of the Battle of Hogwarts. For this reason, she did not attend Hogwarts and had little to no contact with other children: her main instruction came from her caretaker and Rodolphus himself, when he got released, making her a cold calculator just like her father.
 
 #### Circumplex
 
-...
+![](Pictures/Characters/Circumplexes/Delphini_Circumplex.png)
 
 #### Map of relationships
 
-....
+![](Pictures/Characters/Relations_Maps/Delphini_Relationship_Map.png)
 
 
 
@@ -185,29 +189,37 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 ### Tom Riddle
 
+<img src="Pictures/Characters/Tom_Riddle.png" style="zoom:50%;" />
+
 #### Description
 
-<img src="Pictures/Characters/Tom_Riddle.png" style="zoom:50%;" />
+Tom Marvolo Riddle is a black-haired half-blood wizard. He is currently a student at Hogwarts, where he was sorted into the Slytherin House, a nod to his ancestor Salazar Slytherin.
+
+He is often seen as a "model scholar", gaining the sympathy of many amongst the Hogwarts staff and students, thanks to his particular charisma and oratory abilities, including professor Slughorn. 
+
+The sole exception to this was Dumbledore, who never forgot about his misdeeds at his orphanage, nor his unsettling behaviour during their first meeting: this made Tom realize his mistake of showing too much of his real self to Dumbledore, growing up to fear and despise him, unable to manipulate him anymore.
 
 #### Backstory
 
-...
+Tom Riddle was born in an orphanage in London, where his mother died shortly after giving birth to him. He grew up there completely unaware of his wizarding heritage until he discovered that he could "make things move without touching them, speak to snakes and... make bad things happen to mean people". He finally understood the meaning of that after the meeting with Dumbledore, which convinced him to deepen his knowledge at Hogwarts, albeit feeling hindered by the rules.
 
 #### Circumplex
 
-...
+![](Pictures/Characters/Circumplexes/Tom_Circumplex.png)
 
 #### Map of relationships
 
-....
+![](Pictures/Characters/Relations_Maps/Tom_Relationship_Map.png)
 
 
 
 ### Myrtle Warren
 
+<img src="Pictures/Characters/Myrtle_Warren.png" style="zoom:50%;" />
+
 #### Description
 
-<img src="Pictures/Characters/Myrtle_Warren.png" style="zoom:50%;" />
+...
 
 #### Backstory
 
@@ -225,9 +237,9 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 ### Rubeus Hagrid
 
-#### Description
-
 <img src="Pictures/Characters/Rubeus_Hagrid.png" style="zoom:50%;" />
+
+#### Description
 
 ...
 
