@@ -3,20 +3,32 @@
 # Main story and detailed story of your level
 
 ## 1. High concept
-"Minerva titolo" è un RPG single-player, top-down graphics e stile di combattimento D&D. Il gioco racconta di Delphini, viene affidata alla scuola di Hog, ma all'età di diciassette anni,  Rodolphus Lestrange gli racconta la verità sulla sua famiglia: i suoi genitori sono Voldermort e Bellatrix, gli viene affidato il Timeturner e un compito fondamentale: tornare indietro nel tempo, incontrare la maga più forte e portarla al lato oscuro (Rodo le insegnerà ad usare la magia perché lei non sapeva di essere una maga, gli dice che se Voldemort avesse vinto la prima guerra sarbbero morte meno persone).  Andrà nell'anno 1942, incontrerà  una giovane Minerva alle prese con la scuola di magia, vedrà in lei un forte potenziale e deciderà che sarà la sua preda. (cose da inserire, tra cui il rapporto con Dumbledore, scopo di Dephini e cose cosi) Nello scontro finale, il giocare dovrà scegliere se lottare a fianco della sua più cara amica o con Dumbledore.
+
+"The Dark Lady awakenes" is set  iin the Hogwarts's school and sorroundings, the story tells of a young girl, Minerva McGonagall, struggling with  school life. During her seventh year,  she will make friends with a strange student, Delphini Lestrange, whose life seems to be wrapped in mystery. Minerva is unaware of Delphini's true intensios, whose only goals is to find a promising student and help her father, Tom Riddle, win the First Wizarding War, so as to prevent the death of his parent.
+The Minerva's tranquility  will  be shaken when, during the shool year, her dear friend is foud dead in the girls' bathroom, and they are not found guilty. Minerva will have a void inl her heart for life, which will never be filled.Blinded with rage, she asks for help  Delphni and the professor Albus Dumbledore for help in findign the guiltys. But between SIlente and Delphini there is no good blood, indeed ttwo will blame each other for the events tht happened.
+Minerva is situated between two fire and according the level friendship with Delphini and the player's choices, will decide which side to take: Delphini or Dumbledore?
+
 
 ## 2. Settings
 ###  Hogwarts
-![Hogwarts](Pictures/Locations/Hogwarts/Hogwarts_Castle.png)
+
 Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school is a castle which has its roots at the end of 10th century, for all this time its grandeur made it one the school more important in the magical world. On the outside, there are many towers that connect the various areas, moreover it has many meadows, Quidditch pitch, and other annexed structures: like the hut of the Keeper of the keys, game and grounds and the green house, where the herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has of 142 stairways, each of them seems to have a live of its own as they have fun a change their position and cause poor students to go astray. And it is wrapped by many magical protections, making it invisible to Muggles, this means that only wizards live in the castle. 
 
+![Hogwarts](Pictures/Locations/Hogwarts/Hogwarts_Castle.png)
+
 ### Great Hall
+
+The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthermore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed vertically, one for each of the houses present in the school, and one large table placedhorizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a  sky created by an magic spell. For each recurrence the hall is embellished, like Christmas or the Yule Ball. 
+
 ![GreatHall](Pictures/Locations/Hogwarts/Hogwarts_GreatHall.jpg)
-The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthermore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a  sky created by an magic spell. For each recurrence the hall is embellished, like Christmas or the Yule Ball. 
+
 
 ### Classrooms
-![Classrooms](Pictures/Locations/Hogwarts/Hogwarts_Classroom.jpg)
+
 The classrooms are located in various castle zone, both inside and outside. The lessons inside the school, they are divided into theoretical and practical: the classrooms hosting the practical lessons were embellished according to the lessons, like the Potion-Mixing Room has for each bench has a cauldron where the student use it. The classrooms outside the castle, are the greenhouse and the Quidditch pitch for the lesson whit the broom.
+
+![Classrooms](Pictures/Locations/Hogwarts/Hogwarts_Classroom.jpg)
+
 
 ### Dormitories
 
@@ -257,4 +269,24 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Map of relationships
 
-....
+...
+
+# Level Script
+
+# World Diagram
+
+# World Maps
+![Maps](Pictures/Locations/Hogwarts/Hogwarts_Map.png)
+
+| 1    | Hogwarts        |
+| ---- | --------------- |
+| 2    | Quidditch field |
+| 3    | Forbid forest   |
+| 4    | Hogsmeade       |
+
+
+
+
+# Goals outline
+
+# Data organization document
