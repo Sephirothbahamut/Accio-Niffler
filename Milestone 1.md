@@ -282,14 +282,14 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 <img src="Pictures\Maps\Hogwarts_Map.png" alt="Hogwarts_Map" style="zoom:33%;" />
 
-| Legend |                 |
-| ------ | --------------- |
-| 1      | Hogwarts        |
-| 2      | Quidditch pitch |
-| 3      | Forbid forest   |
-| 4      | Blake Lake      |
-| 5      | Hogsmeade       |
-| 6      | Diagon Alley    |
+| *Legend* |                 |
+| -------- | --------------- |
+| 1        | Hogwarts        |
+| 2        | Quidditch pitch |
+| 3        | Forbid forest   |
+| 4        | Black Lake      |
+| 5        | Hogsmeade       |
+| 6        | Diagon Alley    |
 
 
 # Goals outline
