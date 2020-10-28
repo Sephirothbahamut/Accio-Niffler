@@ -4,21 +4,21 @@
 
 ## 1. High concept
 
-"The Dark Lady awakenes" is set  iin the Hogwarts's school and sorroundings, the story tells of a young girl, Minerva McGonagall, struggling with  school life. During her seventh year,  she will make friends with a strange student, Delphini Lestrange, whose life seems to be wrapped in mystery. Minerva is unaware of Delphini's true intensios, whose only goals is to find a promising student and help her father, Tom Riddle, win the First Wizarding War, so as to prevent the death of his parent.
-The Minerva's tranquility  will  be shaken when, during the shool year, her dear friend is foud dead in the girls' bathroom, and they are not found guilty. Minerva will have a void inl her heart for life, which will never be filled.Blinded with rage, she asks for help  Delphni and the professor Albus Dumbledore for help in findign the guiltys. But between SIlente and Delphini there is no good blood, indeed ttwo will blame each other for the events tht happened.
+"The Dark Lady awakened" is set  in the Hogwarts's school and surroundings, the story tells of a young girl, Minerva McGonagall, struggling with  school life. During her seventh year,  she will make friends with a strange student, Delphini Lestrange, whose life seems to be wrapped in mystery. Minerva is unaware of Delphini's true intension, whose only goals is to find a promising student and help her father, Tom Riddle, win the First Wizarding War, so as to prevent the death of his parent.
+The Minerva's tranquility  will  be shaken when, during the school year, her dear friend is found dead in the girls' bathroom, and they are not found guilty. Minerva will have a void in her heart for life, which will never be filled. Blinded with rage, she asks for help  Delphni and the professor Albus Dumbledore for help in finding the guilty. But between Silent and Delphini there is no good blood, indeed two will blame each other for the events the happened.
 Minerva is situated between two fire and according the level friendship with Delphini and the player's choices, will decide which side to take: Delphini or Dumbledore?
 
 
 ## 2. Settings
 ###  Hogwarts
 
-Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school is a castle which has its roots at the end of 10th century, for all this time its grandeur made it one the school more important in the magical world. On the outside, there are many towers that connect the various areas, moreover it has many meadows, Quidditch pitch, and other annexed structures: like the hut of the Keeper of the keys, game and grounds and the green house, where the herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has of 142 stairways, each of them seems to have a live of its own as they have fun a change their position and cause poor students to go astray. And it is wrapped by many magical protections, making it invisible to Muggles, this means that only wizards live in the castle. 
+Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school is a castle which has its roots at the end of 10th century, for all this time its grandeur made it one the school more important in the magical world. On the outside, there are many towers that connect the various areas, moreover it has many meadows, Quidditch pitch, and other annexed structures: like the hut of the Keeper of the keys, game and grounds and the green house, where the herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has of 142 stairways, each of them seems to have a live of its own as they have fun a change their position and cause poor students to go astray. And it is wrapped by many magical protections, making it invisible to muggles, this means that only wizards live in the castle. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_Castle.png" alt="Hogwarts" style="zoom: 33%;" />
 
 ### Great Hall
 
-The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthermore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed vertically, one for each of the houses present in the school, and one large table placedhorizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a  sky created by an magic spell. For each recurrence the hall is embellished, like Christmas or the Yule Ball. 
+The Great Hall is a common place, where all students, the professors, the principal and other staff members of school, gather for the various meals of the day. Furthermore, acts as the study room, leisure room and ceremonies room. Its composed by four large table placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a  sky created by an magic spell. For each recurrence the hall is embellished, like Christmas or the Yule Ball. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_GreatHall.jpg" alt="GreatHall" style="zoom: 67%;" />
 
@@ -32,19 +32,19 @@ The classrooms are located in various castle zone, both inside and outside. The 
 
 ### Dormitories
 
-The students are sorted in one of the four Houses present at Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, Slytherin  The Dormitorories serve as a meeting point for students  form the same house and for sleep. Each Houses is different, in particular for the colours because each houses are a different colours.  The dormitories is entrusted to a professor and two prefects (last year students chosen to enfoforce the rules within their house). The dormitories rooms are shared for multiple students with four-poster beds, except for the prefects who have their own private room.<img src="Pictures/Locations/Hogwarts/Hogwarts_Dorms.png" alt="Dorms" style="zoom: 25%;" />
+The students are sorted in one of the four Houses present at Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, Slytherin. The Dormitories serve as a meeting point for students  form the same house and for sleep. Each Houses is different, in particular for the colors because each houses are a different colors.  The dormitories is entrusted to a professor and two prefects (last year students chosen to enforce the rules within their house). The dormitories rooms are shared for multiple students with four-poster beds, except for the prefects who have their own private room.<img src="Pictures/Locations/Hogwarts/Hogwarts_Dorms.png" alt="Dorms" style="zoom: 25%;" />
 
 
 
 ### Quidditch pitch
 
-Huge pitch where you play and train Quidditch. It's oval in shape, is about 165 meters long and about 60 meters wide, at each there are a three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually gradd, but in some cases it can be sand or even water. There are several towers for spectators.
+Huge pitch where you play and train Quidditch. It's oval in shape, is about 165 meters long and about 60 meters wide, at each there are a three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually grads, but in some cases it can be sand or even water. There are several towers for spectators.
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_QuiddichField.jpg" alt="QuidditchField" style="zoom:33%;" />
 
 ### Chambers of Secrets
 
-It's a secret room under the Hohwarts foundation. The entrances are located in the girls' bathroom on the second floor and by saying a word in Parseltongue, a secret passage opens up. The room is gloomy and dark, has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statute by Salazar Serpevederde.It's a secret room under the Hohwarts foundation. The entrances are located in the girls' bathroom on the second floor and by saying a word in Parseltongue, a secret passage opens up. The room is gloomy and dark, has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statute by Salazar Serpevederde.
+It's a secret room under the Hogwarts foundation. The entrances are located in the girls' bathroom on the second floor and by saying a word in parseltongue, a secret passage opens up. The room is gloomy and dark, has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statute by Salazar Slytherin. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_ChamberSecrets.png" alt="ChambersSecrets" style="zoom:33%;" />
 
@@ -54,6 +54,15 @@ It is a large wood that surrounds part of the castle. It is an area that holds m
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_ForbiddenForest.jpg" alt="GreatHall" style="zoom: 33%;" />
 
+### Black Lake
+
+A large body of water located south of the castle. It is home to numerous sea creature such as a giant squid, mermaids and other mysterious creatures. The seabed temperature is very cold and rich in algae which make it a favorable environment for mermaids attacks.
+
+![Black Lake](Pictures\Locations\Hogwarts\Hogwarts_BlackLake.jpg)
+
+
+
+
 ### Hogsmeade
 
 Picturesque little village near Hogwarts, inhabited only by wizards. Students can go on holidays or weekends. Students are attracted to this village because there are numerous entertainment, pubs and shops, such as The Three Broomsticks or the Zonko's  joke shop. It is also the location of the station where the Hogwarts Express ends. 
@@ -62,7 +71,7 @@ Picturesque little village near Hogwarts, inhabited only by wizards. Students ca
 
 ### Diagon Alley
 
-Is a magical street accessibile from muggle London, behind Leake Cauldron. To enter Diagon Alley, you need to give a tap for right bricks of the wall behind Leake Cauldron, which will move and reveal the entrance to the street. It can also be accessed via Flying Dust or Dematerialization. The magic street has varius important shop, such as Olivander's shop.
+Is a magical street accessible from muggle London, behind Leakey Cauldron. To enter Diagon Alley, you need to give a tap for right bricks of the wall behind Leakey Cauldron, which will move and reveal the entrance to the street. It can also be accessed via Flying Dust or dematerialization. The magic street has various important shop, such as Olivander's shop.
 
 <img src="Pictures/Locations/DiagonAlley_location.jpg" alt="DiagonAlley" style="zoom: 67%;" />
 
