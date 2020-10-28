@@ -4,8 +4,8 @@
 
 ## 1. High concept
 
-"The Dark Lady awakened" is set  in the Hogwarts's school and surroundings, the story tells of a young girl, Minerva McGonagall, struggling with  school life. During her seventh year,  she will make friends with a strange student, Delphini Lestrange, whose life seems to be wrapped in mystery. Minerva is unaware of Delphini's true intension, whose only goals is to find a promising student and help her father, Tom Riddle, win the First Wizarding War, so as to prevent the death of his parent.
-The Minerva's tranquility  will  be shaken when, during the school year, her dear friend is found dead in the girls' bathroom, and they are not found guilty. Minerva will have a void in her heart for life, which will never be filled. Blinded with rage, she asks for help  Delphni and the professor Albus Dumbledore for help in finding the guilty. But between Silent and Delphini there is no good blood, indeed two will blame each other for the events the happened.
+"The Dark Lady awakened" is set  in the Hogwarts's school and surroundings, the story is about  a young girl, Minerva McGonagall, struggling with school life. During her seventh year, she will become friends with a strange student, Delphini Lestrange, whose life seems to be wrapped in mystery. Minerva is unaware of Delphini's true intension, whose only goals is to find a promising student and help her father, Tom Riddle, win the First Wizarding War, so as to prevent the death of his parent.
+The Minerva's tranquility  will  be shaken when, during the school year, her dear friend is found dead in the girls' bathroom, and no guilty was found. Minerva will have a void in her heart for life, which will never be filled. Blinded with rage, she asks for help  Delphni and the professor Albus Dumbledore for help in finding the guilty. But between Dumbledore and Delphini there is bad blood, indeed two will blame each other for the events the happened.
 Minerva is situated between two fire and according the level friendship with Delphini and the player's choices, will decide which side to take: Delphini or Dumbledore?
 
 
