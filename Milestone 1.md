@@ -154,7 +154,7 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Minerva_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Minerva_Relationship_Map.png)
 
 
 
@@ -178,7 +178,7 @@ Delphini was left as an orphan as a result of the Second Wizarding War: in her e
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Delphini_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Delphini_Relationship_Map.png)
 
 
 
@@ -204,7 +204,7 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Albus_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Albus_Relationship_Map.png)
 
 
 
@@ -230,7 +230,7 @@ Tom Riddle was born in an orphanage in London, where his mother died shortly aft
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Tom_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Tom_Relationship_Map.png)
 
 
 
@@ -256,29 +256,7 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
-
-
-
-### Rubeus Hagrid
-
-<img src="Pictures/Characters/Rubeus_Hagrid.png" style="zoom:50%;" />
-
-#### Description
-
-...
-
-#### Backstory
-
-...
-
-#### Circumplex
-
-...
-
-#### Map of relationships
-
-...
+![](Pictures/Characters/Relations_maps/Myrtle_Relationship_Map.png)
 
 # Level Script
 
