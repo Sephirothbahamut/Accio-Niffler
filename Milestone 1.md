@@ -138,13 +138,13 @@ Minerva is a black-haired half-blood witch, the only daughter of his muggle fath
 
 She is a talented student at the Hogwarts School of Witchcraft and Wizardry: after an Hatstall, which took the Sorting Hat five and a half minutes to decide if she was Gryffindor or Ravenclaw, she was Sorted into Gryffindor House. 
 
-Minerva is a Quidditch enthusiast and is particularly gifted at it too: for this reason she is also an active member in the Gryffindor Quidditch Team. This made her quite popular, letting her make a handful of friends, including the shy and overlooked Myrtle Warren of the Ravenclaw House.
+Minerva is a Quidditch enthusiast and is particularly gifted at it too: this made her quite popular, letting her make a handful of friends, including the shy and overlooked Myrtle Warren of the Ravenclaw House.
 
 She has a soft spot for Transfiguration classes, a quality that made her the most outstanding student in this subject; her professor Dumbledore, charmed by her wits and her resourcefulness, decided to take her under his wing, ready to prepare Minerva for the greatest of the transfiguration skills: the Animagus transformation.
 
 #### Backstory
 
-Minerva was born in a complicated family: her father Robert was a muggle Reverend while her mother Isobel was a successful Hogwarts-educated witch. Her mother was moody for many reasons: since she married a muggle, she couldn't progress in her career and maintaining her magic abilities secret to his husband was no easy task. Isobel could not handle the pressure anymore and, in the end, confessed to Robert, which remained shocked and speechless. The trust between the spouses suffered a heavy hit, however they decided to stay together for the sake of their love and their children.
+Minerva was born in a complicated family: her father Robert was a muggle Reverend while her mother Isobel was a successful Hogwarts-educated witch. After many years she confessed to her husband, which remained shocked and speechless. The trust between the spouses suffered a heavy hit, however they decided to stay together for the sake of their love and their children.
 
 This event left a scar in Minerva, making her aware of the difficulties of the relationship between muggles and mages; for this reason, she tried her best to help his two brothers to accept and control their magic abilities while growing in an all-muggle world.
 
