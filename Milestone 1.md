@@ -58,7 +58,7 @@ It is a large wood that surrounds part of the castle. It is an area that holds m
 
 A large body of water located south of the castle. It is home to numerous sea creature such as a giant squid, mermaids and other mysterious creatures. The seabed temperature is very cold and rich in algae which make it a favorable environment for mermaids attacks.
 
-![Black Lake](Pictures\Locations\Hogwarts\Hogwarts_BlackLake.jpg)
+<img src="Pictures\Locations\Hogwarts\Hogwarts_BlackLake.jpg" alt="Black Lake" style="zoom: 67%;" />
 
 
 
@@ -258,33 +258,39 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 ![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
 
-
-
-### Rubeus Hagrid
-
-<img src="Pictures/Characters/Rubeus_Hagrid.png" style="zoom:50%;" />
-
-#### Description
-
-...
-
-#### Backstory
-
-...
-
-#### Circumplex
-
-...
-
-#### Map of relationships
-
-...
-
 # Level Script
+
+***** Dire ai ragazzi il fatto della bacchetta disarmata che cambia proprietario*
+
+
+
+![HogwartsBridge](Pictures/Level/Bridge.png)
+
+
+
+<img src="Pictures/Level/Sirena.jpg" alt="Sirena" style="zoom:50%;" />
+
+
+
+![avvincino](Pictures/Level/avvincino.jpg)
+
+![map_lake_avvincino](Pictures/Level/map_lake_avvincino.jpg)
+
+<img src="Pictures/Level/Left_Path.png" alt="Left_Path" style="zoom:50%;" />
+
+
+
+![wand_delphini](Pictures/Level/wand_delphini.png)
+
+
+
+![map_lake_avvincinoAttack](Pictures/Level/avvincino_sottosopra.jpg)
+
+
 
 # World Diagram
 
-![](Pictures\Maps\WorldDiagram.png)
+![](Pictures/Maps/WorldDiagram.png)
 
 # World Maps
 <img src="Pictures\Maps\DiagonAlley_Map.png" alt="Maps" style="zoom: 25%;" />
