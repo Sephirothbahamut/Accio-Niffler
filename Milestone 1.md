@@ -125,7 +125,14 @@ If Minerva sides with Albus Dumbledore and her relationship with Delphini is wea
 ![Story flowchart](Pictures/Story_flowchart.png)
 
 ## 6. Themes
-_max 250 words_
+- Friendship is powerful
+  - Bonding with other people is essential to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety of the Wizarding World or its early demise by the hand of Tom Riddle.
+- Question everything (poni tutto in discussione)
+  - It's easy to trust blindfully one person because of a blood or friendly relationship; however one must always to develop a critical eye and ready to question everything and everyone. Minerva doesn't know that she is brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead on an early discovery of an impending calamity.
+- Mistakes happen, everyone deserve a second chance (mi convince poco)
+  - If someone truly repents of its misdeeds, it should not be ostracized but helped to redeem itself. Even if Delphini manipulated Minerva, the latter recognizes that it was because of her past and her father influence and eventually forgives her.
+- Actions have consequences
+  - Every effect follow its cause. Shall Minerva follow Delphini blindly until the very end, she will become a death eater and join Tom Riddle in his escalation for power. On the other hand, if Minerva will be able to find fallacies or contradictions in Delphini's background and motivations, through clues or discussion, she might disrupt the foul plan, potentially saving her friend from vengeance lust.
 
 ## 7. Characters
 ### Minerva McGonagall
@@ -156,7 +163,9 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 ![](Pictures/Characters/Relations_maps/Minerva_Relationship_Map.png)
 
+After the premature death of her dear friend Myrtle:
 
+![](Pictures/Characters/Relations_maps/Minerva_Relationship_Map_After_Event.png)
 
 ### Delphini Lestrange
 
@@ -180,7 +189,9 @@ Delphini was left as an orphan as a result of the Second Wizarding War: in her e
 
 ![](Pictures/Characters/Relations_maps/Delphini_Relationship_Map.png)
 
+After Delphini changes her mind thanks to Minerva's friendship:
 
+![](Pictures/Characters/Relations_maps/Delphini_Relationship_Map_After_Event.png)
 
 ### Albus Dumbledore
 
@@ -206,7 +217,9 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 ![](Pictures/Characters/Relations_maps/Albus_Relationship_Map.png)
 
+After Delphini changes her mind thanks to Minerva's friendship:
 
+![](Pictures/Characters/Relations_maps/Albus_Relationship_Map_After_Event.png)
 
 ### Tom Riddle
 
