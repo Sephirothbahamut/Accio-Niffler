@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 ![Logo](Pictures/Logo.png)
 
 # Main story and detailed story of your level
@@ -126,7 +136,7 @@ If Minerva sides with Albus Dumbledore and her relationship with Delphini is wea
 
 ## 6. Themes
 - Friendship is powerful
-  - Bonding with other people is essential to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety of the Wizarding World or its early demise by the hand of Tom Riddle.
+  - Bonding with other people is essential to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety of the Wizarding World or **its early demise by the hand of Tom Riddle.**
 - Question everything (poni tutto in discussione)
   - It's easy to trust blindfully one person because of a blood or friendly relationship; however one must always to develop a critical eye and ready to question everything and everyone. Minerva doesn't know that she is brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead on an early discovery of an impending calamity.
 - Mistakes happen, everyone deserve a second chance (mi convince poco)
@@ -272,7 +282,106 @@ She was born in a rather normal muggle family, discovering in time about her mag
 <<<<<<< HEAD
 ![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
 
+![](Pictures/Characters/Relations_maps/Myrtle_Relationship_Map.png)
+
 # Level Script
+
+***** Dire ai ragazzi il fatto della bacchetta disarmata che cambia proprietario, e i lestrange sono una fmiglia di maghi molto conosciuta*
+
+#### Level 2/3: The kidnapping of Myrte and first meeting between Delphini and Minerva.
+
+Minerva and Myrtle walk on the bridge that leads to the Black Lake, they decide to go there to relax after studying all day in the library. 
+
+![HogwartsBridge](Pictures/Level/Bridge.png)
+
+When they to arrive at shore they hear and quickly approaches: a girl being attacked by a mermaid. Minerva point the wand at the mermaid. 
+
+<img src="Pictures/Level/Sirena.jpg" alt="Sirena" style="zoom:50%;" />
+
+| Dialogue 1.                  |
+| ---------------------------- |
+| **Minerva**: Stunning Spell! |
+
+Minerva hits the mermaid, but the only thighs that happens is that the mermaid gets even more angry and lashes out of her and Myrtle. The mermaid kidnapping Myrtle and dive in the lake. Meanwhile, the girl tries to cast a spell, hits the mermaid, but a groups of Grindylows emerge from the waters, the Grindylows they hurl themselves on the girl and they steal her wand and they run away.
+
+![avvincino](Pictures/Level/avvincino.jpg)
+
+| Dialogue 2.                                                  |
+| ------------------------------------------------------------ |
+| **Mysterious Girl**: My wand!                                |
+| **Minerva**: Myrtle, no!                                     |
+| **Mysterious Girl**: Why my wand should be called Myrtle?    |
+| **Minerva**: Myrtle is my friend! We must save her!          |
+| **Mysterious Girl**: Good luck then.                         |
+| **Minerva**: Can you help me?                                |
+| **Mysterious Girl**: If you will help me find my wand, i will help you. |
+| **Minerva**: Let's get to work.                              |
+
+The two girls go in search of traces to find where the Grindylow is hidden. Minerva can use the spells to search the Grindylow. When they follow the footsteps, they understand that they must to go at left of the Black Lake.
+
+<img src="Pictures/Level/Left_Path.png" alt="Left_Path" style="zoom:50%;" />
+
+While they search the wand, the Grindylows appears along the path and so they must defeat them. After defeating the Grindylows, they keep following the footsteps until the footsteps are finished, they understand that the wands is near.
+
+![map_lake_avvincino](Pictures/Level/map_lake_avvincino.jpg)
+
+| Dialogue 3.                                                  |
+| ------------------------------------------------------------ |
+| **Mysterious Girl**: Where the hell is my wand               |
+| **Minerva**: Language!                                       |
+| **Mysterious Girl**: May I ascertain the whereabouts of my hell-ish wand? |
+
+While they search the wand, another  group of Grindylows attack. 
+
+| Dialogue 4.                             |
+| --------------------------------------- |
+| **Mysterious Girl**: They have my wand! |
+
+<img src="Pictures/Level/map_lake_avvincinoAttack.jpg" alt="map_lake_avvincinoAttack" style="zoom: 80%;" />
+
+Minerva starts to attack holding her wand and defeats all enemies. With an Accio, Minerva retrieves the Mysterious girl's wand and hands it to her. A Grindylow tries to run away but the girl casts a Levicorpus (incantesimo creato da piton) and the creature is lifted upside down in the air.
+
+
+
+![map_lake_avvincinoAttack](Pictures/Level/avvincino_sottosopra.jpg)
+
+| Dialogue 5.                                     |
+| ----------------------------------------------- |
+| **Mysterious Girl**: Tell me where is the girl! |
+
+The Grindylow don't answer, then the girl  shake the wand and so the Grindylow 
+
+| Dialogue 6.                                          |
+| ---------------------------------------------------- |
+| **Mysterious Girl**: Do you want me to vaporize you? |
+
+The Grindylow scared, points the opposite shore of the lake. The girl then toss him away.
+
+| Dialogue 7.                                                  |
+| ------------------------------------------------------------ |
+| **Minerva**:  Where did you learn that spell? I have never read about it in the books. |
+| **Mysterious Girl**: In my country is a popular spell        |
+| **Minerva**. Where are you from? And what's your name? I have never seen you before. |
+| **Delphini**: My name is Delphini Lestrange, and i form in...Irland and I'm a new student. |
+| **Minerva**: Oh, that's why you have a strange accent        |
+
+They are arrive of the opposite shore lake, they come across a cave
+
+<img src="Pictures/Level/grotta.png" alt="grotta" style="zoom:50%;" />
+
+
+
+
+
+| Dialogue 8.                                    |
+| ---------------------------------------------- |
+| **Minerva**: Maybe, we have to enter the cave. |
+| **Delphini**: Okay.                            |
+| **Minerva**. Myrtle... i'm coming!             |
+
+The girls enter in the cave and find the mermaid and near Myrtle. The combat is started, Minerva e Delphini fight the mermaid, defeat her and save Myrtle.
+
+
 
 
 
