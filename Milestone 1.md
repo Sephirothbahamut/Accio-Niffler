@@ -150,15 +150,15 @@ This event left a scar in Minerva, making her aware of the difficulties of the r
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Minerva_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Minerva.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Minerva_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Minerva.png)
 
 After the premature death of her dear friend Myrtle:
 
-![](Pictures/Characters/Relations_maps/Minerva_Relationship_Map_After_Event.png)
+![](Pictures/Characters/Relations_maps/Minerva_2.png)
 
 ### Delphini Lestrange
 
@@ -176,15 +176,15 @@ Delphini was left as an orphan as a result of the Second Wizarding War: in her e
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Delphini_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Delphini.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Delphini_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Delphini.png)
 
 After Delphini changes her mind thanks to Minerva's friendship:
 
-![](Pictures/Characters/Relations_maps/Delphini_Relationship_Map_After_Event.png)
+![](Pictures/Characters/Relations_maps/Delphini_2.png)
 
 ### Albus Dumbledore
 
@@ -204,15 +204,15 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Albus_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Albus.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Albus_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Albus.png)
 
 After Delphini changes her mind thanks to Minerva's friendship:
 
-![](Pictures/Characters/Relations_maps/Albus_Relationship_Map_After_Event.png)
+![](Pictures/Characters/Relations_maps/Albus_2.png)
 
 ### Tom Riddle
 
@@ -232,11 +232,11 @@ Tom Riddle was born in an orphanage in London, where his mother died shortly aft
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Tom_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Tom.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Tom_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Tom.png)
 
 
 
@@ -258,14 +258,13 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Myrtle_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Myrtle.png)
 
 #### Map of relationships
 
-<<<<<<< HEAD
-![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
+#### ![](Pictures/Characters/Relations_Maps/Myrtle.png)
 
-![](Pictures/Characters/Relations_maps/Myrtle_Relationship_Map.png)
+
 
 # Level Script
 
