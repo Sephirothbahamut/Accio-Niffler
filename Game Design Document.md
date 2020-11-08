@@ -270,7 +270,7 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_Maps/Myrtle.png)
+![](Pictures/Characters/Relations_maps/Myrtle.png)
 
 # Level Script
 
