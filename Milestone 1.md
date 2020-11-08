@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 ![Logo](Pictures/Logo.png)
 
 # Main story and detailed story of your level
@@ -97,39 +87,32 @@ Atto 4.2 Scontro finale Delphini e Minerva contro Dumbledore
 ## 4. Story
 
 #### Background
-
-It's been few years since the Battle of Hogwarts which marked the end of the Second Wizarding War, when Delphini Lestrange receives an unexpected visit by her step-father Rodolphus Lestrange. He had escaped from Azkaban to meet her, and he came with ill plans. He reveled to Delphini that she was Voldemort's daughter, and began teaching her all he knew.
-Fast forward to the year 2007, Delphini has learned a lot from her stepfather. He had convinced her that had Voldemort won the First Wizarding War, the Second one would have never happened, and all of her family would still be alive. During her birthday, Rodolphus gifted her a timeturner, a falsified Hogwarts School of Witchcraft and Wizardry Acceptance Letter for the year 1942, a mission, to find some promising and powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family members.
-
-Greeting her step-father, Delphini used the timeturner to go back in 1942, and soon enough she settled on her target choice: Minerva McGonagall.
+Few years after the Battle of Hogwarts Delphini Lestrange is visited by her step-father Rodolphus Lestrange, who escaped from Azkaban to meet her and reveal that she was Voldemort's daughter.
+Fast forward to 2007, Delphini learned a lot from her stepfather. He convinced her that had Voldemort won the First Wizarding War, the Second one wouldn't have happened, and her family would still be alive. During her birthday, Rodolphus gifted her a timeturner, a falsified Hogwarts Acceptance Letter for the year 1942, a mission, to find some powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family. 
 
 #### Introduction
-
-It's Minerva's 7th year at  the Hogwarts School of Witchcraft and Wizardry. She quickly became acquainted with a new student: Delphini Lestrange. Minerva had few friends, one of which was Myrtle Warren (now 14 years old).
-Minerva was the ideal student, investing most of her time focusing in her studies.
+It's Minerva's 7th year at Hogwarts. She became acquainted with a new student: Delphini. Minerva had few friends, one was Myrtle Warren.
 
 #### Rising Action
-
-Minerva quickly got closer to Delphini and they started studying together. Sometimes Delphini would surprise her telling her about spells and concepts she was not aware about. In particular Delphini helped her getting more familiar with her Animagus powers to which she had already been introduced by her Transfiguration teacher, Albus Dumbledore.
-In the meanwhile Delphini met her real father, Tom Riddle. She told him some things about the future, and began warning him about the opposition he would meet during the First Wizarding War, which would have led to his inevitable defeat; then offered to help him winning that war.
-Dumbledore was secretly keeping an eye on Delphini, having found out her letter had been falsified, and having troubles discovering anything about her past.
+Minerva quickly got closer to Delphini, they started studying together. Sometimes Delphini would surprise her teaching her things she didn't know. Delphini also helped her getting more familiar with the Animagus powers to which she had been introduced by her Transfiguration teacher, Dumbledore.
+Meanwhile Delphini met her father, Tom Riddle. She told him about the future, began warning him about the opposition during the First Wizarding War, which would lead to his defeat; then offered to help him winning it.
+Dumbledore was secretly keeping an eye on Delphini, having found out her letter was falsified, and having troubles discovering anything about her past.
 
 #### Climax
-
-One day Delphini told Riddle about Salazar Slytherin's Chamber of Secrets. Riddle opened the Chamber and found the Basilisk, left there from his ancestor Salazar. In the following days many students were found petrified around the school, causing a general atmosphere of fear amongst the students. It all escalated when the Basilisk petrified Minerva's best friend, Myrtle. There were voices about the school being shut down for the rest of the year.
+One day Delphini told Riddle about Slytherin's Chamber of Secrets. Riddle opened the Chamber and found the Basilisk. In the following days students were found petrified, causing an atmosphere of fear. All escalated when Myrtle was found petrified. There were voices about the school being shut down for the rest of the year.
 
 #### Falling Action
-Minerva and Delphini started to seriously investigate about what was going on. Delphini slowly started suspecting her father was behind the attacks, but never revealed her suspects.
-When Tom Riddle found out about Rubeus Hagrid keeping in secret a pet Acromantula, named Aragog, in order to prevent the school from being shut down he reported that to the then headmaster of the school, Armando Dippet, implying that Aragog was behind the attacks. As a result Hagrid was expelled from the school and the school remained open.
-Riddle never told Delphini the truth, and she started suspecting that Hagrid was the real villain. She began pushing the investigation with Minerva towards that path, and started pointing out how Albus Dumbledore kept defending Hagrid.
+Minerva and Delphini started to investigate about what was going on. Delphini began suspecting her father was behind the attacks, but never revealed these suspects.
+When Tom Riddle found out about Hagrid keeping in secret an Acromantula, Aragog, in order to prevent the school from being shut he reported that to the headmaster of the school, Dippet, implying Aragog was behind the attacks. Hagrid was then expelled and the school remained open.
+Riddle never told Delphini the truth, and she started suspecting Hagrid was the real villain. She began pushing the investigation towards that path, and started pointing out how Dumbledore kept defending Hagrid.
 
 #### Resolution
+At that point Minerva had to make a choice: support Dumbledore, or Delphini?
+(Minerva sides with Delphini) they go confront Dumbledore, who by then found out the truth about Delphini. Dumbledore tries to attack Delphini, but retains from harming Minerva despite Minerva helping her friend. Finally Minerva disarms Dumbledore, when suddenly Tom Riddle reaches the room and kills Albus.
 
-At that point Minerva had to make a choice: support her Transfiguration teacher Albus Dumbledore, or her new friend Delphini?
-If Minerva sides with Delphini they would go confront Dumbledore, who by then would have found out the truth about Delphini. Dumbledore tries to attack Delphini, but retains from harming Minerva despite Minerva helping her friend. Finally Minerva managed to disarm Dumbledore, when suddenly Tom Riddle emerged in the room to cast Avada Kedavra, killing Albus. Only then would Minerva realize what she had done.
+(Minerva sides with Dumbledore and her relationship with Delphini is strong) Delphini will follow Minerva to Dumbledore's office and reveal the truth about her admission, her mission, and reveal her suspicion about Riddle being behind the attacks. The three would be interrupted by Riddle, and a fight would start; as soon as Riddle realizes he is going to lose, he escapes in a cloud of smoke.
 
-If Minerva sides with Albus Dumbledore and her relationship with Delphini is strong, Delphini will follow her to Dumbledore's office and reveal the truth about her admission to Hogwarts, her mission given by her step-father, and reveal her suspicion about Tom Riddle being behind the attacks in the school. The three would be interrupted by Tom Riddle, and a fight would start; as soon as Tom realizes he is going to lose, he turns himself in a cloud of smoke an runs away.
-If Minerva sides with Albus Dumbledore and her relationship with Delphini is weak, Delphini will follow her to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
+(Minerva sides with Dumbledore and her relationship with Delphini is weak) Delphini will follow Minerva to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
 
 ## 5. Story flowchart
 ![Story flowchart](Pictures/Story_flowchart.png)
