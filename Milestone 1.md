@@ -4,9 +4,9 @@
 
 ## 1. High concept
 
-"The Dark Lady awakens" is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery since her arrival at Hogwarts. Minerva is unaware of Delphini's true intentions, whose only goal is to find a promising student in order to help her father, Tom Riddle, win the First Wizarding War, hoping that will prevent the death of her parents.
-Minerva will be shaken during the same school year when she will come to know that her dear friend Myrtle is found dead in the girls' bathroom, with no suspect to accuse. With a void in her heart, which could never be filled, overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there is bad blood between Dumbledore and Delphini for several reasons, thus there is no doubt the two will blame each other for the events that happened.
-Minerva is forced to choose who to believe and discover the truth behind the crime through the player's choices: will she side with Dumbledore or with Delphini? Will she be able to discover Delphini's plan and make her desist or she will fight her?
+"The Dark Lady awakens" is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
+Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
+Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: will she side with Dumbledore or with Delphini? Will she be able to discover Delphini's plan and make her desist or will she fight her?
 
 
 ## 2. Settings
@@ -88,18 +88,18 @@ Atto 4.2 Scontro finale Delphini e Minerva contro Dumbledore
 
 #### Background
 Few years after the Battle of Hogwarts Delphini Lestrange is visited by her step-father Rodolphus Lestrange, who escaped from Azkaban to meet her and reveal that she was Voldemort's daughter.
-Fast forward to 2007, Delphini learned a lot from her stepfather. He convinced her that had Voldemort won the First Wizarding War, the Second one wouldn't have happened, and her family would still be alive. During her birthday, Rodolphus gifted her a timeturner, a falsified Hogwarts Acceptance Letter for the year 1942, a mission, to find some powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family. 
+Fast forward to 2007, Delphini learned a lot from her stepfather. He convinced her that had Voldemort won the First Wizarding War, the Second one wouldn't have happened, and her family would still be alive. During her birthday, Rodolphus gifted her a Timeturner, a falsified Hogwarts Acceptance Letter for the year 1942, a mission, to find some powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family. 
 
 #### Introduction
 It's Minerva's 7th year at Hogwarts. She became acquainted with a new student: Delphini. Minerva had few friends, one was Myrtle Warren.
 
 #### Rising Action
 Minerva quickly got closer to Delphini, they started studying together. Sometimes Delphini would surprise her teaching her things she didn't know. Delphini also helped her getting more familiar with the Animagus powers to which she had been introduced by her Transfiguration teacher, Dumbledore.
-Meanwhile Delphini met her father, Tom Riddle. She told him about the future, began warning him about the opposition during the First Wizarding War, which would lead to his defeat; then offered to help him winning it.
+Meanwhile Delphini met her father, Tom Riddle. She told him about his future defeat during the First Wizarding War, then offered to help him winning it.
 Dumbledore was secretly keeping an eye on Delphini, having found out her letter was falsified, and having troubles discovering anything about her past.
 
 #### Climax
-One day Delphini told Riddle about Slytherin's Chamber of Secrets. Riddle opened the Chamber and found the Basilisk. In the following days students were found petrified, causing an atmosphere of fear. All escalated when Myrtle was found petrified. There were voices about the school being shut down for the rest of the year.
+One day Delphini told Riddle about Slytherin's Chamber of Secrets. Riddle opened the Chamber and found the Basilisk. In the following days students were found petrified, causing an atmosphere of fear. All escalated when Myrtle was found petrified.
 
 #### Falling Action
 Minerva and Delphini started to investigate about what was going on. Delphini began suspecting her father was behind the attacks, but never revealed these suspects.
@@ -107,25 +107,28 @@ When Tom Riddle found out about Hagrid keeping in secret an Acromantula, Aragog,
 Riddle never told Delphini the truth, and she started suspecting Hagrid was the real villain. She began pushing the investigation towards that path, and started pointing out how Dumbledore kept defending Hagrid.
 
 #### Resolution
-At that point Minerva had to make a choice: support Dumbledore, or Delphini?
-(Minerva sides with Delphini) they go confront Dumbledore, who by then found out the truth about Delphini. Dumbledore tries to attack Delphini, but retains from harming Minerva despite Minerva helping her friend. Finally Minerva disarms Dumbledore, when suddenly Tom Riddle reaches the room and kills Albus.
+At that point Minerva had to make a choice:
+- **side with Delphini**
+	- they go confront Dumbledore, who by then found out the truth about Delphini. Dumbledore tries to attack Delphini, but retains from harming Minerva despite Minerva helping her friend. Finally Minerva disarms Dumbledore, when suddenly Tom Riddle reaches the room and kills Albus.
 
-(Minerva sides with Dumbledore and her relationship with Delphini is strong) Delphini will follow Minerva to Dumbledore's office and reveal the truth about her admission, her mission, and reveal her suspicion about Riddle being behind the attacks. The three would be interrupted by Riddle, and a fight would start; as soon as Riddle realizes he is going to lose, he escapes in a cloud of smoke.
+- **side with Dumbledore; her relationship with Delphini is strong**
+	- Delphini will follow Minerva to Dumbledore's office and reveal the truth about her admission, her mission, and reveal her suspicion about Riddle being behind the attacks. The three would be interrupted by Riddle, and a fight would start; as soon as Riddle realizes he is going to lose, he escapes in a cloud of smoke.
 
-(Minerva sides with Dumbledore and her relationship with Delphini is weak) Delphini will follow Minerva to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
+- **side with Dumbledore; her relationship with Delphini is weak**
+	- Delphini will follow Minerva to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
 
 ## 5. Story flowchart
 ![Story flowchart](Pictures/Story_flowchart.png)
 
 ## 6. Themes
 - Friendship is powerful
-  - Bonding with other people is essential to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety of the Wizarding World or **its early demise by the hand of Tom Riddle.**
-- Question everything (poni tutto in discussione)
-  - It's easy to trust blindfully one person because of a blood or friendly relationship; however one must always to develop a critical eye and ready to question everything and everyone. Minerva doesn't know that she is brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead on an early discovery of an impending calamity.
-- Mistakes happen, everyone deserve a second chance (mi convince poco)
-  - If someone truly repents of its misdeeds, it should not be ostracized but helped to redeem itself. Even if Delphini manipulated Minerva, the latter recognizes that it was because of her past and her father influence and eventually forgives her.
+  - Bonding with others is essential in order to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety or the early demise of the Wizarding World as we know it.
+- Question everything
+  - It's easy to trust blindfully one person because of a blood or friendship relationship; however one must always develop a critical eye and be ready to question everything and everyone. Minerva isn't aware she's being brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead to an early discovery of an impending calamity.
+- Mistakes happen, everyone deserves a second chance
+  - If someone truly repents of his misdeeds, he should not be ostracized but helped to redeem himself. Even if Delphini manipulated Minerva, the latter recognizes it was because of her past and her father's influence, eventually forgiving her.
 - Actions have consequences
-  - Every effect follow its cause. Shall Minerva follow Delphini blindly until the very end, she will become a death eater and join Tom Riddle in his escalation for power. On the other hand, if Minerva will be able to find fallacies or contradictions in Delphini's background and motivations, through clues or discussion, she might disrupt the foul plan, potentially saving her friend from vengeance lust.
+  - Should Minerva blindly follow Delphini until the very end, she will become a death eater and join Tom Riddle in his escalation for power. On the other hand, if Minerva will be able to find fallacies or contradictions in Delphini's background and motivations, through clues or discussion, she might disrupt the foul plan, potentially saving her friend from hers lust for vengeance.
 
 ## 7. Characters
 ### Minerva McGonagall
@@ -134,11 +137,11 @@ At that point Minerva had to make a choice: support Dumbledore, or Delphini?
 
 #### Description
 
-Minerva is a black-haired half-blood witch, the only daughter of his muggle father and her witch mother.
+Minerva is a black-haired half-blood witch, daughter of his muggle father and her witch mother.
 
 She is a talented student at the Hogwarts School of Witchcraft and Wizardry: after an Hatstall, which took the Sorting Hat five and a half minutes to decide if she was Gryffindor or Ravenclaw, she was Sorted into Gryffindor House. 
 
-Minerva is a Quidditch enthusiast and is particularly gifted at it too: this made her quite popular, letting her make a handful of friends, including the shy and overlooked Myrtle Warren of the Ravenclaw House.
+Minerva is a Quidditch enthusiast and is particularly gifted at it too: this made her quite popular, letting her make a handful of friends including the shy and overlooked Myrtle Warren of the Ravenclaw House.
 
 She has a soft spot for Transfiguration classes, a quality that made her the most outstanding student in this subject; her professor Dumbledore, charmed by her wits and her resourcefulness, decided to take her under his wing, ready to prepare Minerva for the greatest of the transfiguration skills: the Animagus transformation.
 
@@ -146,7 +149,7 @@ She has a soft spot for Transfiguration classes, a quality that made her the mos
 
 Minerva was born in a complicated family: her father Robert was a muggle Reverend while her mother Isobel was a successful Hogwarts-educated witch. After many years she confessed to her husband, which remained shocked and speechless. The trust between the spouses suffered a heavy hit, however they decided to stay together for the sake of their love and their children.
 
-This event left a scar in Minerva, making her aware of the difficulties of the relationship between muggles and mages; for this reason, she tried her best to help his two brothers to accept and control their magic abilities while growing in an all-muggle world.
+This event left a scar in Minerva, making her aware of the difficulties of the relationship between muggles and wizards; for this reason, she tried her best to help his two brothers to accept and control their magic abilities while growing in an all-muggle world.
 
 #### Circumplex
 
@@ -168,11 +171,11 @@ After the premature death of her dear friend Myrtle:
 
 Delphini is an half-blood witch, born in secret in 1998 as the result of the relationship between Bellatrix Lestrange and Lord Voldemort. She appears as a pale girl, with silvery hair and blue tips.
 
-After being grown and taught magic by Rodolphus, the "official" husband of his mother Bellatrix, she is prepared and resolute about going into the past with the intent of changing the weave of fate, in order to avert his parents' premature death. Her mission is to try to corrupt a young promising student into helping Tom Riddle, her father, to win the First Wizarding War: that student will later be found in Minerva McGonagall. 
+After being grown and taught magic by Rodolphus, the husband of his mother Bellatrix, she is prepared and resolute about going into the past with the intent of changing the weave of fate, in order to avert his parents' premature death. Her mission is to try corrupt a young promising student into helping Tom Riddle, her father, win the First Wizarding War: that student will later be found in Minerva McGonagall. 
 
 #### Backstory
 
-Delphini was left as an orphan as a result of the Second Wizarding War: in her early years she was raised by Euphermia Rowle, a witch probably paid by her stepfather Rodolphus while he was convicted in Azkaban as a result of the Battle of Hogwarts. For this reason, she did not attend Hogwarts and had little to no contact with other children: her main instruction came from her caretaker and Rodolphus himself, when he got released, making her a cold calculator just like her father.
+Delphini was left orphan as a result of the Second Wizarding War: in her early years she was raised by Euphermia Rowle, a witch probably paid by her stepfather Rodolphus while he was convicted in Azkaban after the Battle of Hogwarts. For this reason, she did not attend Hogwarts and had little to no contact with other children: her main instruction came from her caretaker and Rodolphus himself, when he got released, making her a cold calculator just like her father.
 
 #### Circumplex
 
@@ -204,15 +207,15 @@ From that experience, Albus changed completely, repudiating any possible anti-mu
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Albus_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Albus_circumplex.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Albus_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Albus_relationship_map.png)
 
 After Delphini changes her mind thanks to Minerva's friendship:
 
-![](Pictures/Characters/Relations_maps/Albus_Relationship_Map_After_Event.png)
+![](Pictures/Characters/Relations_maps/Albus_relationship_map_after_event.png)
 
 ### Tom Riddle
 
@@ -220,23 +223,21 @@ After Delphini changes her mind thanks to Minerva's friendship:
 
 #### Description
 
-Tom Marvolo Riddle is a black-haired half-blood wizard. He is currently a student at Hogwarts, where he was sorted into the Slytherin House, a nod to his ancestor Salazar Slytherin.
+Tom Marvolo Riddle is a black-haired half-blood wizard. He is currently a model student at Hogwarts where he was sorted into the Slytherin House, a nod to his ancestor Salazar Slytherin; there he gained the sympathy of many amongst the school's staff and students thanks to his particular charisma and oratory abilities, notably professor Slughorn. 
 
-He is often seen as a "model scholar", gaining the sympathy of many amongst the Hogwarts staff and students, thanks to his particular charisma and oratory abilities, including professor Slughorn. 
-
-The sole exception to this was Dumbledore, who never forgot about his misdeeds at his orphanage, nor his unsettling behaviour during their first meeting: this made Tom realize his mistake of showing too much of his real self to Dumbledore, growing up to fear and despise him, unable to manipulate him anymore.
+The sole exception to this was Dumbledore, who never forgot about his misdeeds at the orphanage, nor his unsettling behaviour during their first meeting: this made Tom realize his mistake of showing too much of his real self to Dumbledore, growing up to fear and despise him, unable to manipulate him anymore.
 
 #### Backstory
 
-Tom Riddle was born in an orphanage in London, where his mother died shortly after giving birth to him. He grew up there completely unaware of his wizarding heritage until he discovered that he could "make things move without touching them, speak to snakes and... make bad things happen to mean people". He finally understood the meaning of that after the meeting with Dumbledore, which convinced him to deepen his knowledge at Hogwarts, albeit feeling hindered by the rules.
+Tom Riddle was born in an orphanage in London, where his mother died shortly after giving birth to him. He grew up completely unaware of his wizarding heritage until he discovered that he could make things move without touching them, speak to snakes and... "make bad things happen to mean people". He finally understood the meaning of that after the meeting with Dumbledore, which convinced him to deepen his knowledge at Hogwarts, albeit feeling hindered by the rules.
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Tom_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Tom_circumplex.png)
 
 #### Map of relationships
 
-![](Pictures/Characters/Relations_maps/Tom_Relationship_Map.png)
+![](Pictures/Characters/Relations_maps/Tom_relationship_map.png)
 
 
 
@@ -258,24 +259,21 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Circumplex
 
-![](Pictures/Characters/Circumplexes/Myrtle_Circumplex.png)
+![](Pictures/Characters/Circumplexes/Myrtle.png)
 
 #### Map of relationships
 
-<<<<<<< HEAD
-![](Pictures/Characters/Relations_Maps/Myrtle_Relationship_Map.png)
-
-![](Pictures/Characters/Relations_maps/Myrtle_Relationship_Map.png)
+![](Pictures/Characters/Relations_Maps/Myrtle.png)
 
 # Level Script
 
 #### Level 2: The kidnapping of Myrte and first meeting between Delphini and Minerva.
 
-Minerva and Myrtle walk on the bridge that leads to the Black Lake, they decide to go there to relax after studying all day in the library. 
+Minerva and Myrtle walk on the bridge that leads to the Black Lake**, they decide to go there** to relax after studying all day in the library. 
 
 ![HogwartsBridge](Pictures/Level/Bridge.png)
 
-When they to arrive at shore they hear and quickly approaches: a girl being attacked by a mermaid. Minerva point the wand at the mermaid. 
+When they to arrive at shore they hear someone crying for help and they quickly approach; they find a girl being attacked by a mermaid. Minerva points the wand at the mermaid. 
 
 <img src="Pictures/Level/Sirena.jpg" alt="Sirena" style="zoom:50%;" />
 
@@ -283,7 +281,7 @@ When they to arrive at shore they hear and quickly approaches: a girl being atta
 | ---------------------------- |
 | **Minerva**: Stunning Spell! |
 
-Minerva hits the mermaid, but the only thighs that happens is that the mermaid gets even more angry and lashes out of her and Myrtle. The mermaid kidnapping Myrtle and dive in the lake. Meanwhile, the girl tries to cast a spell, hits the mermaid, but a groups of Grindylows emerge from the waters, the Grindylows they hurl themselves on the girl and they steal her wand and they run away.
+Minerva hits the mermaid, but the only result is that she gets angrier, assaulting her and Myrtle. Then the mermaid manages to kidnap Myrtle and dives with her in the lake. Meanwhile, the girl tries to cast a spell hitting the mermaid, but a groups of grindylows emerges from the waters; they hurl themselves on the girl, they steal her wand and they run away.
 
 ![avvincino](Pictures/Level/avvincino.jpg)
 
@@ -296,31 +294,31 @@ Minerva hits the mermaid, but the only thighs that happens is that the mermaid g
 | **Mysterious Girl**: Good luck then.                         |
 | **Minerva**: Can you help me?                                |
 | **Mysterious Girl**: If you will help me find my wand, i will help you. |
-| **Minerva**: Let's get to work.                              |
+| **Minerva**: But... fine, let's get to work.                              |
 
-The two girls go in search of traces to find where the Grindylow is hidden. Minerva can use the spells to search the Grindylow. When they follow the footsteps, they understand that they must to go at left of the Black Lake.
+The two girls go in search of traces to find where the grindylows are hidden. Minerva can use spells to search the grindylows. When they follow their traces, they understand that they must to go to the left of the Black Lake.
 
 <img src="Pictures/Level/Left_Path.png" alt="Left_Path" style="zoom:50%;" />
 
-While they search the wand, the Grindylows appears along the path and so they must defeat them. After defeating the Grindylows, they keep following the footsteps until the footsteps are finished, they understand that the wands is near.
+While they search for the wand, the grindylows appears along the path and they must be defeated. Then they keep following the traces until they understand that the wands is nearby.
 
 ![map_lake_avvincino](Pictures/Level/map_lake_avvincino.jpg)
 
 | Dialogue 3.                                                  |
 | ------------------------------------------------------------ |
-| **Mysterious Girl**: Where the hell is my wand               |
+| **Mysterious Girl**: Where the hell is my wand?               |
 | **Minerva**: Language!                                       |
 | **Mysterious Girl**: May I ascertain the whereabouts of my hell-ish wand? |
 
-While they search the wand, another  group of Grindylows attack. 
+While they search the for wand, another group of grindylows attacks. 
 
 | Dialogue 4.                             |
 | --------------------------------------- |
-| **Mysterious Girl**: They have my wand! |
+| **Mysterious Girl**: Here they are! They have my wand! |
 
 <img src="Pictures/Level/map_lake_avvincinoAttack.jpg" alt="map_lake_avvincinoAttack" style="zoom: 80%;" />
 
-Minerva starts to attack holding her wand and defeats all enemies. With an Accio, Minerva retrieves the Mysterious girl's wand and hands it to her. A Grindylow tries to run away but the girl casts a Levicorpus (incantesimo creato da piton) and the creature is lifted upside down in the air.
+Minerva starts to attack and defeats all the enemies. With an Accio, she retrieves the mysterious girl's wand and hands it to her. A grindylow tries to run away but the girl casts a Levicorpus (A spell invented by Snape in the future) and the creature is lifted upside down in the air.
 
 
 
@@ -329,43 +327,35 @@ Minerva starts to attack holding her wand and defeats all enemies. With an Accio
 | Dialogue 5.                                     |
 | ----------------------------------------------- |
 | **Mysterious Girl**: Tell me where is the girl! |
+| **grindylow**: *instert Gyarados sound effect here* |
 
-The Grindylow don't answer, then the girl  shake the wand and so the Grindylow 
+The grindylow doesn't answer, then the girl shakes the wand and so does the grindylow 
 
 | Dialogue 6.                                          |
 | ---------------------------------------------------- |
 | **Mysterious Girl**: Do you want me to vaporize you? |
 
-The Grindylow scared, points the opposite shore of the lake. The girl then toss him away.
+The grindylow, scared, points to the opposite shore of the lake. The girl then nonchalantly tosses him away.
 
 | Dialogue 7.                                                  |
 | ------------------------------------------------------------ |
-| **Minerva**:  Where did you learn that spell? I have never read about it in the books. |
-| **Mysterious Girl**: In my country is a popular spell        |
+| **Minerva**:  Where did you learn that spell? I have never read about it in any book... |
+| **Mysterious Girl**: Wel... I mean, it's a popular spell in my country...        |
 | **Minerva**. Where are you from? And what's your name? I have never seen you before. |
-| **Delphini**: My name is Delphini, and i form in...Irland and I'm a new student. |
-| **Minerva**: Oh, that's why you have a strange accent        |
+| **Delphini**: My name is Delphini, and I'm from in...Ireland and I'm a new student. |
+| **Minerva**: Oh, that's why you have a strange accent.        |
 
-They are arrive of the opposite shore lake, they come across a cave
+Then they are arrive to the opposite shore of the lake, and come across a cave.
 
 <img src="Pictures/Level/grotta.png" alt="grotta" style="zoom:50%;" />
 
-
-
-
-
 | Dialogue 8.                                    |
 | ---------------------------------------------- |
-| **Minerva**: Maybe, we have to enter the cave. |
-| **Delphini**: Okay.                            |
-| **Minerva**. Myrtle... i'm coming!             |
+| **Minerva**: Maybe we have to enter the cave. |
+| **Delphini**: Okay, I guess...                 |
+| **Minerva**. Myrtle... I'm coming!             |
 
-The girls enter in the cave and find the mermaid and near Myrtle. The combat is started, Minerva e Delphini fight the mermaid, defeat her and save Myrtle.
-
-
-
-
-
+The girls enter the cave and finds the mermaid and near Myrtle. The combat starts, Minerva and Delphini proceed to fight the mermaid, defeat her and save Myrtle.
 
 # World Diagram
 
