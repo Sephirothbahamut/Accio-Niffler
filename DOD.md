@@ -1,5 +1,10 @@
 # DOD
 
+#### Team Accio Niffler
+- Michael Marchesan - 945887
+- Giuliana Muto - 961902
+- Luca Di Gennaro - 961208
+
 - Purpose:
 - Creation Date: 18/10/2020
 - Current Owner: Michael Marchesan
@@ -28,7 +33,7 @@ Windows 10
 .md
 
 #### Pictures
-.pdn, .png
+.pdn, .png, .jpg
 
 #### Video
 mkw, mp4
