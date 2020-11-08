@@ -286,9 +286,7 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 # Level Script
 
-***** Dire ai ragazzi il fatto della bacchetta disarmata che cambia proprietario, e i lestrange sono una fmiglia di maghi molto conosciuta*
-
-#### Level 2/3: The kidnapping of Myrte and first meeting between Delphini and Minerva.
+#### Level 2: The kidnapping of Myrte and first meeting between Delphini and Minerva.
 
 Minerva and Myrtle walk on the bridge that leads to the Black Lake, they decide to go there to relax after studying all day in the library. 
 
@@ -362,7 +360,7 @@ The Grindylow scared, points the opposite shore of the lake. The girl then toss 
 | **Minerva**:  Where did you learn that spell? I have never read about it in the books. |
 | **Mysterious Girl**: In my country is a popular spell        |
 | **Minerva**. Where are you from? And what's your name? I have never seen you before. |
-| **Delphini**: My name is Delphini Lestrange, and i form in...Irland and I'm a new student. |
+| **Delphini**: My name is Delphini, and i form in...Irland and I'm a new student. |
 | **Minerva**: Oh, that's why you have a strange accent        |
 
 They are arrive of the opposite shore lake, they come across a cave
