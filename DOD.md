@@ -5,7 +5,6 @@
 - Giuliana Muto - 961902
 - Luca Di Gennaro - 961208
 
-- Purpose:
 - Creation Date: 18/10/2020
 - Current Owner: Michael Marchesan
 - Last Modification: 18/10/2020
@@ -13,6 +12,7 @@
 ## Revision history
 
 - Michael Marchesan, 18/10/2020, file created.
+- Michael Marchesan, 09/11/2020, revision before first update.
 
 # Software List
 
@@ -22,21 +22,24 @@
 Visual Studio 2019
 
 #### Organization Software
-Notepad++, Typora
+Notepad++, Typora, Paint.net
 
 #### Environments
 Windows 10
 
 # Data Types and Format
 
+#### Diagrams
+.drawio
+
 #### Text
-.md
+.md .docx
 
 #### Pictures
 .pdn, .png, .jpg
 
 #### Video
-mkw, mp4
+.mkw, .mp4
 
 #### Audio
 .m4a
