@@ -20,19 +20,19 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 
 ###  Hogwarts
 
-Hogwarts is a School of Witchcraft and Wizardry. It's located in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school's castle has its roots at the end of 10th century, which grandeur made it one of the most important schools in the magical world. On the outside, many towers connect the various rooms and halls. In addition, it is surrounded by a green meadow, a Quidditch pitch and other annexed structures, such as the "Keeper of the keys" hut, game and grounds and the green house, where Herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has 142 stairways, which each of them seems to have a life of its own as they have fun to change their position and cause poor students to go astray. It is wrapped by many magical protections, making it invisible to muggles: only wizards can live in this castle. 
+Hogwarts is a School of Witchcraft and Wizardry. It islocated in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school's castle has its roots at the end of 10th century, which grandeur made it one of the most important schools in the magical world. On the outside, many towers connect the various rooms and halls. In addition, it is surrounded by a green meadow, a Quidditch pitch and other annexed structures, such as the "Keeper of the keys" hut, game and grounds and the green house, where Herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has 142 stairways, which each of them seems to have a life of its own as they have fun to change their position and cause poor students to go astray. It is wrapped by many magical protections, making it invisible to muggles: only wizards can live in this castle. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_Castle.png" alt="Hogwarts" style="zoom: 33%;" />
 
 ### Great Hall
 
-The Great Hall is a common place, where all students, the professors, the principal and other staff members of the school gather for the various meals of the day. Furthermore, it acts as a study room, leisure room and ceremonies room. It is composed by four large tables placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a sky created by an magic spell which mimics the outside. For each recurrence the hall is embellished, like for Christmas or the Yule Ball. 
+The Great Hall is a common place, where all students, the professors, the principal and other staff members of the school gather for the various meals of the day. Furthermore, it acts as a study room, leisure room and ceremonies room. It is composed by four large tables placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a sky created by a magic spell which mimics the outside. For each recurrence, the hall is embellished, like for Christmas or the Yule Ball. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_GreatHall.jpg" alt="GreatHall" style="zoom: 67%;" />
 
 ### Classrooms
 
-The classrooms are located in various areas of the castle, both inside and outside. The lessons are usually divided into theoretical and practical: the classrooms hosting the practical lessons were embellished according to the topic of the lesson. A great example is Potion-Mixing Room, which has for each bench a cauldron where the student can mix up concoctions and other recipes. The classrooms outside the castle are the Herbology greenhouse and the Quidditch pitch for the Flying Broom lessons.
+The classrooms are in various areas of the castle, both inside and outside. The lessons are usually divided into theoretical and practical: the classrooms hosting the practical lessons were embellished according to the topic of the lesson. A great example is Potion-Mixing Room, which has for each bench a cauldron where the student can mix up concoctions and other recipes. The classrooms outside the castle are the Herbology greenhouse and the Quidditch pitch for the Flying Broom lessons.
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_Classroom.jpg" alt="Classrooms" style="zoom: 67%;" />
 
@@ -45,19 +45,19 @@ The students are sorted in one of the four Houses present at Hogwarts: Gryffindo
 
 ### Quidditch pitch
 
-A huge pitch where students can play Quidditch and train themselves. It's oval in shape and is about 165 meters long by 60 meters wide. At each side there are three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually grass, but in some cases it can be sand or even water. There are several towers for spectators.
+A huge pitch where students can play Quidditch and train themselves. It is oval in shape and is about 165 meters long by 60 meters wide. At each side there are three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually grass, but in some cases, it can be sand or even water. There are several towers for spectators.
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_QuiddichField.jpg" alt="QuidditchField" style="zoom:33%;" />
 
 ### Chambers of Secrets
 
-It's a secret room under the Hogwarts foundation. The entrance is located in the girls' bathroom on the second floor and requires saying a secret word in parseltongue for the secret passage to open up. The room is gloomy and dark, and has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statue by Salazar Slytherin, the ancestor and founder of the Slytherin house. 
+It's a secret room under the Hogwarts foundation. The entrance is in the girls' bathroom on the second floor and requires saying a secret word in parseltongue for the secret passage to open up. The room is gloomy and dark and has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statue by Salazar Slytherin, the ancestor and founder of the Slytherin house. 
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_ChamberSecrets.png" alt="ChambersSecrets" style="zoom:33%;" />
 
 ### Forbidden Forest
 
-It is a large woodland that surrounds part of the castle. It is an area that holds many secret and dangerous wild creatures, such as werewolves, but also beneficial ones, like unicorns. It is also home to many villages, such as the centaur one who take care of the woods. The Forbidden Forest, however, is still considered a place that houses dark entities: as a matter of fact at night it is impractical to walk in the forest, as if the trees hold inside all the darkness. Even during the day it is very difficult to walk along the path. It is for all these reasons that students are usually denied access to it.
+It is a large woodland that surrounds part of the castle. It is an area that holds many secret and dangerous wild creatures, such as werewolves, but also beneficial ones, like unicorns. It is also home to many villages, such as the centaur one who take care of the woods. The Forbidden Forest, however, is still considered a place that houses dark entities: as a matter of fact, at night it is impractical to walk in the forest, as if the trees hold inside all the darkness. Even during the day it is very difficult to walk along the path. It is for all these reasons that students are usually denied access to it.
 
 <img src="Pictures/Locations/Hogwarts/Hogwarts_ForbiddenForest.jpg" alt="GreatHall" style="zoom: 33%;" />
 
@@ -85,7 +85,7 @@ It's a magical side-street accessible from the muggle city London. To enter Diag
 ##  3. Synopsis
 
 #### Introduction
-Years after the Battle of Hogwarts, Delphini Lestrange meets her step-father, who convinces her to embark in a mission into the past in order to save her family. She goes back thanks to a gifted timeturner and meets Minerva.
+Years after the Battle of Hogwarts, Delphini Lestrange meets her stepfather, who convinces her to embark in a mission into the past in order to save her family. She goes back thanks to a gifted timeturner and meets Minerva.
 
 #### Daily life at Hogwarts
 School starts and Minerva first meets Delphini as a new student in the Black Lake whereabouts. During the first part of the year Minerva deepens her relationship with Delphini as they meet toghether with Myrtle to study.
@@ -104,13 +104,13 @@ Minerva and Delphini reach Dumbledore's office, either to confront him (Minerva 
 
 #### Background
 Few years after the Battle of Hogwarts Delphini Lestrange is visited by her step-father Rodolphus Lestrange, who escaped from Azkaban to meet her and reveal that she was Voldemort's daughter.
-Fast forward to 2007, Delphini learned a lot from her stepfather. He convinced her that had Voldemort won the First Wizarding War, the Second one wouldn't have happened, and her family would still be alive. During her birthday, Rodolphus gifted her a Timeturner, a falsified Hogwarts Acceptance Letter for the year 1942, a mission, to find some powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family. 
+Fast forward to 2007, Delphini learned a lot from her stepfather. He convinced her that had Voldemort won the First Wizarding War, the Second one would not have happened, and her family would still be alive. During her birthday, Rodolphus gifted her a Timeturner, a falsified Hogwarts Acceptance Letter for the year 1942, a mission, to find some powerful student to help Tom Riddle in the First Wizarding War, and a hope: to prevent the death of her family. 
 
 #### Introduction
-It's Minerva's 7th year at Hogwarts. She became acquainted with a new student: Delphini. Minerva had few friends, one was Myrtle Warren.
+It's Minerva's 7th year at Hogwarts. She became acquainted with a new student: Delphini. Minerva had few friends; one was Myrtle Warren.
 
 #### Rising Action
-Minerva quickly got closer to Delphini, they started studying together. Sometimes Delphini would surprise her teaching her things she didn't know. Delphini also helped her getting more familiar with the Animagus powers to which she had been introduced by her Transfiguration teacher, Dumbledore.
+Minerva quickly got closer to Delphini, they started studying together. Sometimes Delphini would surprise her teaching her things she did not know. Delphini also helped her getting more familiar with the Animagus powers to which she had been introduced by her Transfiguration teacher, Dumbledore.
 Meanwhile Delphini met her father, Tom Riddle. She told him about his future defeat during the First Wizarding War, then offered to help him winning it.
 Dumbledore was secretly keeping an eye on Delphini, having found out her letter was falsified, and having troubles discovering anything about her past.
 
@@ -118,14 +118,14 @@ Dumbledore was secretly keeping an eye on Delphini, having found out her letter 
 One day Delphini told Riddle about Slytherin's Chamber of Secrets. Riddle opened the Chamber and found the Basilisk. In the following days students were found petrified, causing an atmosphere of fear. All escalated when Myrtle was found petrified.
 
 #### Falling Action
-Minerva and Delphini started to investigate about what was going on. Delphini began suspecting her father was behind the attacks, but never revealed these suspects.
-When Tom Riddle found out about Hagrid keeping in secret an Acromantula, Aragog, in order to prevent the school from being shut he reported that to the headmaster of the school, Dippet, implying Aragog was behind the attacks. Hagrid was then expelled and the school remained open.
-Riddle never told Delphini the truth, and she started suspecting Hagrid was the real villain. She began pushing the investigation towards that path, and started pointing out how Dumbledore kept defending Hagrid.
+Minerva and Delphini started to investigate about what we're going on. Delphini began suspecting her father was behind the attacks, but never revealed these suspects.
+When Tom Riddle found out about Hagrid keeping in secret an Acromantula, Aragog, in order to prevent the school from being shut he reported that to the headmaster of the school, Dippet, implying Aragog was behind the attacks. Hagrid was then expelled,  and the school remained open.
+Riddle never told Delphini the truth, and she started suspecting Hagrid was the real villain. She began pushing the investigation towards that path  and started pointing out how Dumbledore kept defending Hagrid.
 
 #### Resolution
 At that point Minerva had to make a choice:
 - **side with Delphini**
-	- they go confront Dumbledore, who by then found out the truth about Delphini. Dumbledore tries to attack Delphini, but retains from harming Minerva despite Minerva helping her friend. Finally Minerva disarms Dumbledore, when suddenly Tom Riddle reaches the room and kills Albus.
+	- they go confront Dumbledore, who by then found out the truth about Delphini. Dumbledore tries to attack Delphini but retains from harming Minerva despite Minerva helping her friend. Finally, Minerva disarms Dumbledore, when suddenly Tom Riddle reaches the room and kills Albus.
 
 - **side with Dumbledore; her relationship with Delphini is strong**
 	- Delphini will follow Minerva to Dumbledore's office and reveal the truth about her admission, her mission, and reveal her suspicion about Riddle being behind the attacks. The three would be interrupted by Riddle, and a fight would start; as soon as Riddle realizes he is going to lose, he escapes in a cloud of smoke.
@@ -140,7 +140,7 @@ At that point Minerva had to make a choice:
 - Friendship is powerful
   - Bonding with others is essential in order to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety or the early demise of the Wizarding World as we know it.
 - Question everything
-  - It's easy to trust blindfully one person because of a blood or friendship relationship; however one must always develop a critical eye and be ready to question everything and everyone. Minerva isn't aware she's being brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead to an early discovery of an impending calamity.
+  - It's easy to trust blindfully one person because of a blood or friendship relationship; however, one must always develop a critical eye and be ready to question everything and everyone. Minerva isn't aware she's being brutally manipulated by Delphini, as the latter is by her stepfather Rodolphus: only pondering on it can lead to an early discovery of an impending calamity.
 - Mistakes happen, everyone deserves a second chance
   - If someone truly repents of his misdeeds, he should not be ostracized but helped to redeem himself. Even if Delphini manipulated Minerva, the latter recognizes it was because of her past and her father's influence, eventually forgiving her.
 - Actions have consequences
@@ -185,7 +185,7 @@ After the premature death of her dear friend Myrtle:
 
 #### Description
 
-Delphini is an half-blood witch, born in secret in 1998 as the result of the relationship between Bellatrix Lestrange and Lord Voldemort. She appears as a pale girl, with silvery hair and blue tips.
+Delphini is a half-blood witch, born in secret in 1998 as the result of the relationship between Bellatrix Lestrange and Lord Voldemort. She appears as a pale girl, with silvery hair and blue tips.
 
 After being grown and taught magic by Rodolphus, the husband of his mother Bellatrix, she is prepared and resolute about going into the past with the intent of changing the weave of fate, in order to avert his parents' premature death. Her mission is to try corrupt a young promising student into helping Tom Riddle, her father, win the First Wizarding War: that student will later be found in Minerva McGonagall. 
 
@@ -264,15 +264,15 @@ Tom Riddle was born in an orphanage in London, where his mother died shortly aft
 
 #### Description
 
-Myrtle Elizabeth Warren is a brown-haired muggle-born witch. She is currently a student at Hogwarts and was sorted into the house of Ravenclaw because of her witty and individual personality. However this also backfired, as she was constantly bullied and mistreated for her peculiar aspect and temperament, gaining her the name of Moaning Myrtle because of her endless laments.
+Myrtle Elizabeth Warren is a brown-haired muggle-born witch. She is currently a student at Hogwarts and was sorted into the house of Ravenclaw because of her witty and individual personality. However, this also backfired, as she was constantly bullied and mistreated for her peculiar aspect and temperament, gaining her the name of Moaning Myrtle because of her endless laments.
 
 Nonetheless, she managed to make some friends, including the young Minerva McGonagall and the newcomer Delphini Lestrange.
 
-As the events develop, she will die from the Basilisk petrifying stare, right after the opening of the Chamber of Secrets by the hand of Tom Riddle. She'll return in a ghostly form, presiding the bathroom where she passed away
+As the events develop, she will die from the Basilisk petrifying stare, right after the opening of the Chamber of Secrets by the hand of Tom Riddle. She will return in a ghostly form, presiding the bathroom where she passed away
 
 #### Backstory
 
-She was born in a rather normal muggle family, discovering in time about her magical capabilities and receiving the Hogwarts enrollment letter. Muggle-born people were always discriminated against because of their unusual heritage and Myrtle was no exception: adding this to her shyness and looks made her the laughing stock amongst her classmates.
+She was born in a rather normal muggle family, discovering in time about her magical capabilities and receiving the Hogwarts enrollment letter. Muggle-born people were always discriminated against because of their unusual heritage and Myrtle was no exception: adding this to her shyness and looks made her the laughingstock amongst her classmates.
 
 #### Circumplex
 
@@ -317,7 +317,7 @@ The two girls go in search of traces to find where the grindylows are hidden. Mi
 
 <img src="Pictures/Level/Left_path.png" alt="Left_Path" style="zoom:50%;" />
 
-While they search for the wand, the grindylows appears along the path and they must be defeated. Then they keep following the traces until they understand that the wands is nearby.
+While they search for the wand, the grindylows appears along the path and they must be defeated. Then they keep following the traces until they understand that the wands are nearby.
 
 ![Map_lake_grindylow](Pictures/Level/Map_lake_grindylow.jpg)
 
