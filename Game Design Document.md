@@ -290,15 +290,15 @@ Minerva and Myrtle walk on the bridge that leads to the Black Lake**, they decid
 
 ![HogwartsBridge](Pictures/Level/Bridge.png)
 
-When they to arrive at shore they hear someone crying for help and they quickly approach; they find a girl being attacked by a mermaid. Minerva points the wand at the mermaid. 
+When they arrive at shore they hear someone crying for help and they quickly approach; they find a girl being attacked by a mermaid. Minerva points the wand at the mermaid and casts the Stunning spell.
 
 <img src="Pictures/Level/Syren.jpg" alt="Sirena" style="zoom:50%;" />
 
-| Dialogue 1.                  |
-| ---------------------------- |
-| **Minerva**: Stunning Spell! |
+| Dialogue 1.                           |
+| ------------------------------------- |
+| **Minerva**: It's a Selkie! *Stupefy* |
 
-Minerva hits the mermaid, but the only result is that she gets angrier, assaulting her and Myrtle. Then the mermaid manages to kidnap Myrtle and dives with her in the lake. Meanwhile, the girl tries to cast a spell hitting the mermaid, but a groups of grindylows emerges from the waters; they hurl themselves on the girl, they steal her wand and they run away.
+Minerva hits the mermaid, but she only manages to get her angrier. The mermaid turns her attention to Myrtle and manages to kidnap her, while diving into the lake. The mysterious girl tries to cast a spell to hit the mermaid before she goes underwater, but a group of grindylows emerges from the lake; they hurl themselves on the girl, stealing her wand in the process, then proceed to run away.
 
 ![avvincino](Pictures/Level/Grindylow.jpg)
 
@@ -313,7 +313,7 @@ Minerva hits the mermaid, but the only result is that she gets angrier, assaulti
 | **Mysterious Girl**: If you will help me find my wand, i will help you. |
 | **Minerva**: But... fine, let's get to work.                              |
 
-The two girls go in search of traces to find where the grindylows are hidden. Minerva can use spells to search the grindylows. When they follow their traces, they understand that they must to go to the left of the Black Lake.
+The two girls go in search of traces to find where the grindylows are hidden. Minerva can use spells to search for the grindylows. By following their traces, they understand that they must proceed to the left of the Black Lake.
 
 <img src="Pictures/Level/Left_path.png" alt="Left_Path" style="zoom:50%;" />
 
@@ -333,46 +333,62 @@ While they search the for wand, another group of grindylows attacks.
 | --------------------------------------- |
 | **Mysterious Girl**: Here they are! They have my wand! |
 
-<img src="Pictures/Level/map_lake_avvincinoAttack.jpg" alt="map_lake_avvincinoAttack" style="zoom: 80%;" />
+<img src="Pictures/Level/Grindylow_ambush.jpg" alt="Grindylow_ambush" style="zoom: 80%;" />
 
-Minerva starts to attack and defeats all the enemies. With an Accio, she retrieves the mysterious girl's wand and hands it to her. A grindylow tries to run away but the girl casts a Levicorpus (A spell invented by Snape in the future) and the creature is lifted upside down in the air.
-
-
+Minerva engages the pack and swiftly dispatches of all the lowly creatures. With an Accio, she finally retrieves the mysterious girl's wand and hands it to her. A grindylow tries to run away but the girl casts a Levicorpus (a spell invented by Snape in the future) and the creature is lifted upside down in the air.
 
 ![map_lake_avvincinoAttack](Pictures/Level/Grindylow_upside_down.jpg)
 
 | Dialogue 5.                                     |
 | ----------------------------------------------- |
 | **Mysterious Girl**: Tell me where is the girl! |
-| **grindylow**: *instert Gyarados sound effect here* |
+| **Grindylow**: *mrrrrglgrlrglr*                 |
 
-The grindylow doesn't answer, then the girl shakes the wand and so does the grindylow 
+The grindylow obviously cannot answer in an intelligible way, however the girl keeps shaking her wand and so does the grindylow 
 
 | Dialogue 6.                                          |
 | ---------------------------------------------------- |
 | **Mysterious Girl**: Do you want me to vaporize you? |
 
-The grindylow, scared, points to the opposite shore of the lake. The girl then nonchalantly tosses him away.
+A bright light comes from the girl's wand. The grindylow, visibly scared, points to the opposite shore of the lake. The girl then nonchalantly tosses him away.
 
 | Dialogue 7.                                                  |
 | ------------------------------------------------------------ |
-| **Minerva**:  Where did you learn that spell? I have never read about it in any book... |
-| **Mysterious Girl**: Wel... I mean, it's a popular spell in my country...        |
-| **Minerva**. Where are you from? And what's your name? I have never seen you before. |
+| **Minerva**: Where did you learn that spell? I have never read about it in any book... |
+| **Mysterious Girl**: Well... I mean, it's a popular spell in my country... |
+| **Minerva**: Where are you from? And what's your name? I have never seen you before. |
 | **Delphini**: My name is Delphini, and I'm from in...Ireland and I'm a new student. |
-| **Minerva**: Oh, that's why you have a strange accent.        |
+| **Minerva**: Oh, that's why you have a strange accent.       |
 
-Then they are arrive to the opposite shore of the lake, and come across a cave.
+While talking they finally arrive to the opposite shore of the lake and come across a dark cave.
 
 <img src="Pictures/Level/Cave.png" alt="grotta" style="zoom:50%;" />
 
-| Dialogue 8.                                    |
-| ---------------------------------------------- |
-| **Minerva**: Maybe we have to enter the cave. |
-| **Delphini**: Okay, I guess...                 |
-| **Minerva**. Myrtle... I'm coming!             |
+| Dialogue 8.                                                  |
+| ------------------------------------------------------------ |
+| **Minerva**: I guess we have no other choice but to try to enter the cave... shall we? |
+| **Delphini**: Okay, I guess...                               |
+| **Minerva**. Hold fast Myrtle... I'm coming!                 |
 
-The girls enter the cave and finds the mermaid and near Myrtle. The combat starts, Minerva and Delphini proceed to fight the mermaid, defeat her and save Myrtle.
+Both girls spark a light from their wand with the Lumos spell and finally enter the cave. Inside they find a fetid pool: it looks quite deep to the eye, since the light can't find purchase in it. Suddenly the mermaid emerges from it, with Myrtle in her clutches.
+
+| Dialogue 9.                                          |
+| ---------------------------------------------------- |
+| **Minerva**: There she is! Oh no Myrtle! *Relashio*! |
+
+The releasing spell hits the mermaid claws, forcing the creature to let Myrtle thud into the ground. The combat starts, Minerva and Delphini proceed to fight the Selkie, without fear of hurting Myrtle in the process.
+
+At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervate spell.
+
+| Dialogue 10.                                                 |
+| ------------------------------------------------------------ |
+| **Minerva**: Thank goodness! Are you all right?              |
+| **Myrtle**: Ow.... My head hurts...                          |
+| **Delphini**: I guess my new friend here Minerva isn't the most delicate person when saving people from monsters *giggling* |
+| **Minerva**: It... was an emergency all right?!              |
+| **Myrtle**: Don't you worry, I'll be fine! I'll just head to the infirmary and... owww.... thanks for saving me by the way |
+| **Minerva**: Oh it was nothing, just a Selkie! If it was a Merrow instead... it would have been harder! Right Delphini? Ireland is crawling with those creatures! |
+| **Delphini**: Uhhhh.... yeah, absolutely ehh... What about we hurry to the infirmary? No time for chit-chat! |
 
 # World Diagram
 
@@ -383,16 +399,59 @@ The girls enter the cave and finds the mermaid and near Myrtle. The combat start
 
 <img src="Pictures\Maps\Hogwarts_Map.png" alt="Hogwarts_Map" style="zoom:33%;" />
 
-| *Legend* |                 |
-| -------- | --------------- |
-| 1        | Hogwarts        |
-| 2        | Quidditch pitch |
-| 3        | Forbid forest   |
-| 4        | Black Lake      |
-| 5        | Hogsmeade       |
-| 6        | Diagon Alley    |
-
+| *Legend* |                  |
+| -------- | ---------------- |
+| 1        | Hogwarts         |
+| 2        | Quidditch pitch  |
+| 3        | Forbidden forest |
+| 4        | Black Lake       |
+| 5        | Hogsmeade        |
+| 6        | Diagon Alley     |
 
 # Goals outline
+
+1. *A quick refresher* (tutorial)
+   1. Reach the common hall
+   2. Search for your friend Myrtle
+   3. Help her revise for her next exam
+      1. Practice common spells
+      2. Look up on the books for basic potions and its ingredients
+2. ***A friend in need***
+   1. Reach the Black Lake shore to unwind a bit after all that study
+   2. Approach the screaming girl
+   3. Save Myrtle from the mermaid!
+      1. Help the girl find her wand stolen by Grindylows
+      2. Interrogate the Grindylows
+      3. Reach the cave for clues
+      4. Release Myrtle and fight the mermaid
+   4. Bring Myrtle back to the infirmary
+3. *A night in the woods*
+   1. Sneak past the professors and the prefects to get out the castle
+   2. Meet up with Delphini and reach the Forbidden Forest
+   3. Practice with her new spells
+   4. Fight the enraged centaurs on the way back
+4. *Preparing for greatness*
+   1. Meet with Dumbledore in his office
+   2. Scout for ingredients
+      1. Get a mandrake leaf from the Herbology Lab
+      2. Get a teaspoon of "unscathed" dew
+      3. Get a chrysalis of a Death's-head Hawk Moth
+5. *A beacon in the darkness*
+   1. Complete the Animagus ritual
+      1. Wait for the storm to begin
+      2. Recite the incantation
+   2. Look for Myrtle in the bathrooms in cat form to surprise her
+      1. Escape and avoid the Basilisk
+   3. Inform Dumbledore and Delphini of the incident
+6. *Finding the light*
+   1. Investigate the bathrooms with Delphini for clues
+   2. Report to Dumbledore
+7. *Gnawing uncertainty*
+   1. Confront Dumbledore on what happened to Hagrid
+   2. Gather information on him with Delphini
+   3. Discuss with Delphini
+8. *The last stand*
+   1. Confront Dumbledore with the found clues
+   2. Choose to believe Dumbledore or Delphini
 
 # Data organization document
