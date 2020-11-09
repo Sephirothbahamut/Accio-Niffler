@@ -310,8 +310,8 @@ Minerva hits the mermaid, but she only manages to get her angrier. The mermaid t
 | **Minerva**: Myrtle is my friend! We must save her!          |
 | **Mysterious Girl**: Good luck then.                         |
 | **Minerva**: Can you help me?                                |
-| **Mysterious Girl**: If you will help me find my wand, i will help you. |
-| **Minerva**: But... fine, let's get to work.                              |
+| **Mysterious Girl**: If you will help me find my wand, I will help you. |
+| **Minerva**: But... fine, let's get to work.                 |
 
 The two girls go in search of traces to find where the grindylows are hidden. Minerva can use spells to search for the grindylows. By following their traces, they understand that they must proceed to the left of the Black Lake.
 
@@ -410,7 +410,7 @@ At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervat
 
 # Goals outline
 
-1. *A quick refresher* (tutorial)
+1. **A quick refresher (tutorial)**
    1. Reach the common hall
    2. Search for your friend Myrtle
    3. Help her revise for her next exam
@@ -425,33 +425,31 @@ At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervat
       3. Reach the cave for clues
       4. Release Myrtle and fight the mermaid
    4. Bring Myrtle back to the infirmary
-3. *A night in the woods*
+3. **A night in the woods**
    1. Sneak past the professors and the prefects to get out the castle
    2. Meet up with Delphini and reach the Forbidden Forest
    3. Practice with her new spells
    4. Fight the enraged centaurs on the way back
-4. *Preparing for greatness*
+4. **Preparing for greatness**
    1. Meet with Dumbledore in his office
    2. Scout for ingredients
       1. Get a mandrake leaf from the Herbology Lab
       2. Get a teaspoon of "unscathed" dew
       3. Get a chrysalis of a Death's-head Hawk Moth
-5. *A beacon in the darkness*
+5. **A beacon in the darkness**
    1. Complete the Animagus ritual
       1. Wait for the storm to begin
       2. Recite the incantation
    2. Look for Myrtle in the bathrooms in cat form to surprise her
-      1. Escape and avoid the Basilisk
+      1. Escape and avoid the mysterious shadow
    3. Inform Dumbledore and Delphini of the incident
-6. *Finding the light*
+6. **Finding the light**
    1. Investigate the bathrooms with Delphini for clues
    2. Report to Dumbledore
-7. *Gnawing uncertainty*
+7. **Gnawing uncertainty**
    1. Confront Dumbledore on what happened to Hagrid
    2. Gather information on him with Delphini
    3. Discuss with Delphini
-8. *The last stand*
+8. **The last stand**
    1. Confront Dumbledore with the found clues
    2. Choose to believe Dumbledore or Delphini
-
-# Data organization document
