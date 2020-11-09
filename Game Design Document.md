@@ -1,5 +1,5 @@
-# A fate turner
-#### You can not change
+# A fate-turner
+#### You can (not) change the past
 
 ![Logo](Pictures/Logo.png)
 
@@ -12,7 +12,7 @@
 
 ## 1. High concept
 
-"The Dark Lady awakens" is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
+"A fate-turner" is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
 Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
 Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: will she side with Dumbledore or with Delphini? Will she be able to discover Delphini's plan and make her desist or will she fight her?
 
@@ -410,13 +410,13 @@ At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervat
 
 # Goals outline
 
-1. **A quick refresher (tutorial)**
+1. **A quick refresher (tutorial)** [Hogwarts]
    1. Reach the common hall
    2. Search for your friend Myrtle
    3. Help her revise for her next exam
       1. Practice common spells
       2. Look up on the books for basic potions and its ingredients
-2. ***A friend in need***
+2. ***A friend in need*** [Black Lake]
    1. Reach the Black Lake shore to unwind a bit after all that study
    2. Approach the screaming girl
    3. Save Myrtle from the mermaid!
@@ -425,31 +425,35 @@ At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervat
       3. Reach the cave for clues
       4. Release Myrtle and fight the mermaid
    4. Bring Myrtle back to the infirmary
-3. **A night in the woods**
+3. **Classes (minigames), exploration, shopping** [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
+   1. Follow mandatory Transfiguration and Quidditch classes
+4. **A night in the woods** [Forbidden Forest]
    1. Sneak past the professors and the prefects to get out the castle
    2. Meet up with Delphini and reach the Forbidden Forest
    3. Practice with her new spells
    4. Fight the enraged centaurs on the way back
-4. **Preparing for greatness**
+5. **Preparing for greatness** [Hogwarts]
    1. Meet with Dumbledore in his office
    2. Scout for ingredients
       1. Get a mandrake leaf from the Herbology Lab
       2. Get a teaspoon of "unscathed" dew
       3. Get a chrysalis of a Death's-head Hawk Moth
-5. **A beacon in the darkness**
+6. **Classes (minigames), exploration, shopping** [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
+7. **A beacon in the darkness**  [Hogwarts]
    1. Complete the Animagus ritual
       1. Wait for the storm to begin
       2. Recite the incantation
    2. Look for Myrtle in the bathrooms in cat form to surprise her
       1. Escape and avoid the mysterious shadow
    3. Inform Dumbledore and Delphini of the incident
-6. **Finding the light**
-   1. Investigate the bathrooms with Delphini for clues
-   2. Report to Dumbledore
-7. **Gnawing uncertainty**
+8. **Finding the light** - **classes (minigames), exploration, shopping**  [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
+   1. (Optional) Attend to the Quidditch tournament
+   2. Investigate the bathrooms with Delphini for clues
+   3. Report to Dumbledore
+9. **Gnawing uncertainty** [Hogwarts]
    1. Confront Dumbledore on what happened to Hagrid
    2. Gather information on him with Delphini
    3. Discuss with Delphini
-8. **The last stand**
+10. **The last stand** [Dumbledore's office, Hogwarts]
    1. Confront Dumbledore with the found clues
    2. Choose to believe Dumbledore or Delphini
