@@ -83,12 +83,21 @@ It's a magical side-street accessible from the muggle city London. To enter Diag
 <img src="Pictures/Locations/DiagonAlley_location.jpg" alt="DiagonAlley" style="zoom: 67%;" />
 
 ##  3. Synopsis
-_max 250 words_
-Atto 1: Introduzione
-Atto 2: Vita a Hogwarts
-Atto 3: Plot Twist
-Atto 4.1 Scontro finale Delphini e Minerva contro Tom 
-Atto 4.2 Scontro finale Delphini e Minerva contro Dumbledore
+
+#### Introduction
+Years after the Battle of Hogwarts, Delphini Lestrange meets her step-father, who convinces her to embark in a mission into the past in order to save her family. She goes back thanks to a gifted timeturner and meets Minerva.
+
+#### Daily life at Hogwarts
+School starts and Minerva first meets Delphini as a new student in the Black Lake whereabouts. During the first part of the year Minerva deepens her relationship with Delphini as they meet toghether with Myrtle to study.
+
+#### Petrified
+Suddenly some students are found petrified around the school. The air is full of tension, and everything escalates when Myrtle is found petrified too. Minerva and Delphini start to investigate.
+
+#### To Trust or Not to Trust
+Tom Riddle accuses Hagrid of keeping in secret the monster who caused all the deaths. When Aragog was discovered, Hagrid is banished from the school despite Albus Dumbledore defending him. Delphini becomes suspicious of both Tom and Dumbledore. Hoever, she only talks to Minerva about the latter.
+
+#### Final Confrontation
+Minerva and Delphini reach Dumbledore's office, either to confront him (Minerva trusts Delphini), tell him the truth (Minerva trusts Dumbledore, Delphini's friendship is strong), or fight each other (Delphini's friendship is weak).
 
 
 ## 4. Story
