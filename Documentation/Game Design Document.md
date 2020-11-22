@@ -1,6 +1,4 @@
 # The dark lady awakens
-#### You can (not) change the past
-
 ![Logo](Pictures/Logo.png)
 
 #### Team Accio Niffler
@@ -12,9 +10,9 @@
 
 ## 1. High concept and themes
 
-"A fate-turner" is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
+"The dark lady awaknes" is a 2D-Rpg single player game. The game is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
 Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
-Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: will she side with Dumbledore or with Delphini? Will she be able to discover Delphini's plan and make her desist or will she fight her?
+Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: you can take sides with Delphini or with Dumbledore
 
 
 ### Themes

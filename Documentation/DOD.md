@@ -85,11 +85,12 @@ Last Modification: 18/11/2020
 - .js
 
 # Data Storage and Access
-https://github.com/Sephirothbahamut/Accio-Niffler
-Owned by Michael Marchesan
+
+The team works on the different project's versions through a public repository but with modification permission only for team members. The repository is on Git Hub at the link https://github.com/Sephirothbahamut/Accio-Niffler owned by Michael Marchesan
 
 ## Backup
-Handled by github, with a local copy in each of our devices.
+
+The backup is managed by the Git Hub repository. Each team members has an always up-to-date local copy of the project on their computer.
 
 # Directory Structure
 ![](Pictures/Directory_structure_diagram.png)
