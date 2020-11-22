@@ -55,29 +55,45 @@ Last Modification: 18/11/2020
 
 # Data Types and Format
 
+#### Diagrams
+.drawio
+	Save format for the draw.io website. Exported in .png
+.png
+	The image exported from draw.io files to be inserted in the documentation.
+
 #### Text
-- .md 
-  - Used to edit ...
-- .docx
-  - 
-- .pdf
+.md 
+	Pure markdown with no extensions for actual documentation.
+.docx
+	Temporary files to make documentation more aesthetically pleasing and export to .pdf in case a paged version is required from outside the team. NOTE: the .docx document must NOT change the actual textual content of the document. All content changes must be present in the .md file.
 
 #### Pictures
-- .pdn
-- .png
-- .jpg
+.pdn
+ - Paint.net format that keeps all the editing information, with layers etcc.
+.png
+ - Exported image.
+ - All images have a 32 bits color depth.
+ - Background images: 1024\*768
+ - Tilesets: each tile is 48\*48 pixels. A tilesets must be at most 21 tiles wide and at most 21 tiles tall (to respect RPG Maker's tileset size constraint of 1024\*1024 pixels)
+ - Iconset: each tile is 32\*32 pixels. An iconset must be at most 16 tiles wide, with no height limit.
+ - Faceset: each tile is 144\*144. A faceset must be at most 4 tiles wide and at most 2 tiles tall.
+ - Character set: each tile is 48\*48 pixels. A character set must be at most 12 tiles wide and 8 tiles tall. Each 3 horizontally consecutive tiles form a contiguous walking animation, with the 2nd one representing the idle state. 
+   - For characters each 4 vertically consecutive groups of 3 tiles represent in order: walking down, walking left, walking right, and finally walking up.
+   - For generic ambient items this constraint does not apply; an individual item like a boiling water pot can have just 3 horizontally consecutive times representing the animation.
+	
 
 #### Video
-- .mkw 
-- .mp4
+.mkw, .mp4
+ - Resolution: 1920\*1080
+ - FPS: 60
+ - Audio Sample Rate: 48 kHz
+ - Audio Channels: Stereo
 
 #### Audio
-- .m4a
-- .ogg
-
-#### Diagrams
-
-- .drawio
+.ogg Vorbis Audio File
+ - Audio Channels: Stereo
+ - Sample Rate: 44100
+ - NominalBitrate: 65600
 
 #### Game data
 
