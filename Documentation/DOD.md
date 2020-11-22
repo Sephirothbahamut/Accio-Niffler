@@ -39,6 +39,9 @@ Last Modification: 18/11/2020
 
 #### Development Software
 - RPGMaker VX ACE 1.02a
+  - Prototype
+- Unity 2019.1.15f1 (Long Term Support)
+  - Release
 - Notepad++ 7.9.1
 - Git 2.29.2.windows.2
 
@@ -68,8 +71,11 @@ Last Modification: 18/11/2020
 	Temporary files to make documentation more aesthetically pleasing and export to .pdf in case a paged version is required from outside the team. NOTE: the .docx document must NOT change the actual textual content of the document. All content changes must be present in the .md file.
 
 #### Pictures
+.piskel
+ - Piskel project format that keeps all the editing information.
 .pdn
- - Paint.net format that keeps all the editing information, with layers etcc.
+ - Paint.net format that keeps all the editing information.
+.jpg and .png with no constraints
 .png
  - Exported image.
  - All images have a 32 bits color depth.
@@ -83,16 +89,16 @@ Last Modification: 18/11/2020
 	
 
 #### Video
-.mkw, .mp4
+.mkv, .mp4
  - Resolution: 1920\*1080
  - FPS: 60
- - Audio Sample Rate: 48 kHz
+ - Audio Sample Rate: 48000 Hz
  - Audio Channels: Stereo
 
 #### Audio
 .ogg Vorbis Audio File
  - Audio Channels: Stereo
- - Sample Rate: 44100
+ - Sample Rate: 44100 Hz
  - NominalBitrate: 65600
 
 #### Game data
@@ -124,24 +130,19 @@ The backup is managed by the Git Hub repository. Each team members has an always
         - ***Portraits***
     - **Export**: holds all the files generated from the markdown source of the documents, such as .docx and .pdf files 
   
-- **Assets**: holds all the files related to the game digital prototype. Its sub-directories serve to sort them into functionally-related sub-categories 
-  - ***Sprites***
-  - ***Tilemaps***
-    - ***Textures***
-    - ***Sounds***
-      - ***Music***
-      - ***Effects***
-    - ***Game-objects*** (TODO)
-    - ***Scenes***
-    - ***Scripts***
-  
+- **Resources**: holds all the files related to the game digital prototype. Its sub-directories serve to sort them into functionally-related sub-categories 
+  - ***Textures***
+  - ***Sounds***
+    - ***Music***
+    - ***Effects***
+  - ***Scripts***
 
 # File Naming Convention
 Generally, each file starts with capital letter; spaces are replaced by underscores.
 
 The filename represents its content in roughly two parts:
 
-- The first part represents **what is contained** in the file or what it refers to (for example: Albus\_Dumbledore represents an asset concerning the character Albus Dumbledore, BlackLake\_ represents an asset concerning the Black Lake setting and so on...). It is composed by **no more than 3 words**, separated by underscores.
+- The first part represents **what is contained** in the file or what it refers to (for example: Albus\_Dumbledore represents an asset concerning the character Albus Dumbledore, Black\_Lake\_ represents an asset concerning the Black Lake setting and so on...). It is composed by **no more than 3 words**, separated by underscores.
 - The second part represents what **type** of content the file belongs to (for example: \_texture, \_sound, \_map, \_circumplex ...). It must be composed by only **one word** and it must be the **final** one of the filename: for this reason, abbreviations are allowed (for example: relationship map can be shortened to \_relmap) 
 
 List of types to identify files:
