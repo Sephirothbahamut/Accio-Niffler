@@ -118,24 +118,23 @@ The backup is managed by the Git Hub repository. Each team members has an always
 ![](Pictures/Directory_structure_diagram.png)
 
 - **Root**
-- **Documentation**: holds all the files related to the game documentation, such as the Data Organization Document and the Level Design Document. Contains the markdown sources of the documents as well as the following sub-directories:
-    - **Pictures** : holds all the pictures used in the documents. Its sub-directories serve to sort them into semantically-related sub-categories 
-    - ***Story***
-      - ***Level***
-      - ***Maps***
-      - ***Locations***
-      - ***Characters***
-        - ***Circumplexes***
-        - ***Relation Maps***
-        - ***Portraits***
-    - **Export**: holds all the files generated from the markdown source of the documents, such as .docx and .pdf files 
-  
-- **Resources**: holds all the files related to the game digital prototype. Its sub-directories serve to sort them into functionally-related sub-categories 
-  - ***Textures***
-  - ***Sounds***
-    - ***Music***
-    - ***Effects***
-  - ***Scripts***
+    - **Documentation**: holds all the files related to the game documentation, such as the Data Organization Document and the Level Design Document. Contains the markdown sources of the documents as well as the following sub-directories:
+        - **Pictures** : holds all the pictures used in the documents. Its sub-directories serve to sort them into semantically-related sub-categories 
+            - ***Story***
+            - ***Level***
+            - ***Maps***
+            - ***Locations***
+            - ***Characters***
+              - ***Circumplexes***
+              - ***Relation Maps***
+              - ***Portraits***
+        - **Export**: holds all the files generated from the markdown source of the documents, such as .docx and .pdf files 
+    - **Resources**: holds all the files related to the game digital prototype. Its sub-directories serve to sort them into functionally-related sub-categories 
+      - ***Textures***
+      - ***Sounds***
+        - ***Music***
+        - ***Effects***
+      - ***Scripts***
 
 # File Naming Convention
 Generally, each file starts with capital letter; spaces are replaced by underscores.
