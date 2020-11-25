@@ -1,4 +1,4 @@
-# The dark lady awakens
+# The Dark Lady Awakens
 ![Logo](Pictures/Logo.png)
 
 #### Team Accio Niffler
@@ -351,108 +351,13 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 # Level Script
 
-#### Level 2: The kidnapping of Myrte and first meeting between Delphini and Minerva.
+#### Level 
 
-Minerva and Myrtle walk on the bridge that leads to the Black Lake**, they decide to go there** to relax after studying all day in the library. 
+Minerva e Delphini si trovano nella foresta oscura e hanno appena finito il rituale per diventare Animagus: ora Minerva può trasformarsi in un gatto.
 
-![HogwartsBridge](Pictures/Level/Bridge_level.png)
+*Dialogo 1*
 
-When they arrive at shore they hear someone crying for help and they quickly approach; they find a girl being attacked by a mermaid. Minerva points the wand at the mermaid and casts the Stunning spell.
+|      |      |
+| ---- | ---- |
+|      |      |
 
-<img src="Pictures/Level/Syren_level.jpg" alt="Sirena" style="zoom:50%;" />
-
-| Dialogue 1.                           |
-| ------------------------------------- |
-| **Minerva**: It's a Selkie! *Stupefy* |
-
-Minerva hits the mermaid, but she only manages to get her angrier. The mermaid turns her attention to Myrtle and manages to kidnap her, while diving into the lake. The mysterious girl tries to cast a spell to hit the mermaid before she goes underwater, but a group of grindylows emerges from the lake; they hurl themselves on the girl, stealing her wand in the process, then proceed to run away.
-
-![avvincino](Pictures/Level/Grindylow_level.jpg)
-
-| Dialogue 2.                                                  |
-| ------------------------------------------------------------ |
-| **Mysterious Girl**: My wand!                                |
-| **Minerva**: Myrtle, no!                                     |
-| **Mysterious Girl**: Why my wand should be called Myrtle?    |
-| **Minerva**: Myrtle is my friend! We must save her!          |
-| **Mysterious Girl**: Good luck then.                         |
-| **Minerva**: Can you help me?                                |
-| **Mysterious Girl**: If you will help me find my wand, I will help you. |
-| **Minerva**: But... fine, let's get to work.                 |
-
-The two girls go in search of traces to find where the grindylows are hidden. Minerva can use spells to search for the grindylows. By following their traces, they understand that they must proceed to the left of the Black Lake.
-
-<img src="Pictures/Level/Left_path_level.png" alt="Left_Path" style="zoom:50%;" />
-
-While they search for the wand, the grindylows appears along the path and they must be defeated. Then they keep following the traces until they understand that the wands are nearby.
-
-![Map_lake_grindylow](Pictures/Level/Map_lake_grindylow_level.jpg)
-
-| Dialogue 3.                                                  |
-| ------------------------------------------------------------ |
-| **Mysterious Girl**: Where the hell is my wand?               |
-| **Minerva**: Language!                                       |
-| **Mysterious Girl**: May I ascertain the whereabouts of my hell-ish wand? |
-
-While they search the for wand, another group of grindylows attacks. 
-
-| Dialogue 4.                             |
-| --------------------------------------- |
-| **Mysterious Girl**: Here they are! They have my wand! |
-
-<img src="Pictures/Level/Grindylow_ambush_level.jpg" alt="Grindylow_ambush" style="zoom: 80%;" />
-
-Minerva engages the pack and swiftly dispatches of all the lowly creatures. With an Accio, she finally retrieves the mysterious girl's wand and hands it to her. A grindylow tries to run away but the girl casts a Levicorpus (a spell invented by Snape in the future) and the creature is lifted upside down in the air.
-
-![map_lake_avvincinoAttack](Pictures/Level/Grindylow_upside_down_level.jpg)
-
-| Dialogue 5.                                     |
-| ----------------------------------------------- |
-| **Mysterious Girl**: Tell me where is the girl! |
-| **Grindylow**: *mrrrrglgrlrglr*                 |
-
-The grindylow obviously cannot answer in an intelligible way, however the girl keeps shaking her wand and so does the grindylow 
-
-| Dialogue 6.                                          |
-| ---------------------------------------------------- |
-| **Mysterious Girl**: Do you want me to vaporize you? |
-
-A bright light comes from the girl's wand. The grindylow, visibly scared, points to the opposite shore of the lake. The girl then nonchalantly tosses him away.
-
-| Dialogue 7.                                                  |
-| ------------------------------------------------------------ |
-| **Minerva**: Where did you learn that spell? I have never read about it in any book... |
-| **Mysterious Girl**: Well... I mean, it's a popular spell in my country... |
-| **Minerva**: Where are you from? And what's your name? I have never seen you before. |
-| **Delphini**: My name is Delphini, and I'm from in...Ireland and I'm a new student. |
-| **Minerva**: Oh, that's why you have a strange accent.       |
-
-While talking they finally arrive to the opposite shore of the lake and come across a dark cave.
-
-<img src="Pictures/Level/Cave_level.png" alt="grotta" style="zoom:50%;" />
-
-| Dialogue 8.                                                  |
-| ------------------------------------------------------------ |
-| **Minerva**: I guess we have no other choice but to try to enter the cave... shall we? |
-| **Delphini**: Okay, I guess...                               |
-| **Minerva**. Hold fast Myrtle... I'm coming!                 |
-
-Both girls spark a light from their wand with the Lumos spell and finally enter the cave. Inside they find a fetid pool: it looks quite deep to the eye, since the light can't find purchase in it. Suddenly the mermaid emerges from it, with Myrtle in her clutches.
-
-| Dialogue 9.                                          |
-| ---------------------------------------------------- |
-| **Minerva**: There she is! Oh no Myrtle! *Relashio*! |
-
-The releasing spell hits the mermaid claws, forcing the creature to let Myrtle thud into the ground. The combat starts, Minerva and Delphini proceed to fight the Selkie, without fear of hurting Myrtle in the process.
-
-At the end of the fight, Minerva proceeds to reanimate Myrtle with the Rennervate spell.
-
-| Dialogue 10.                                                 |
-| ------------------------------------------------------------ |
-| **Minerva**: Thank goodness! Are you all right?              |
-| **Myrtle**: Ow.... My head hurts...                          |
-| **Delphini**: I guess my new friend here Minerva isn't the most delicate person when saving people from monsters *giggling* |
-| **Minerva**: It... was an emergency all right?!              |
-| **Myrtle**: Don't you worry, I'll be fine! I'll just head to the infirmary and... owww.... thanks for saving me by the way |
-| **Minerva**: Oh it was nothing, just a Selkie! If it was a Merrow instead... it would have been harder! Right Delphini? Ireland is crawling with those creatures! |
-| **Delphini**: Uhhhh.... yeah, absolutely ehh... What about we hurry to the infirmary? No time for chit-chat! |

@@ -1,5 +1,7 @@
 # DOD
 
+![](Pictures/Logo.png)
+
 #### Team Accio Niffler
 - Michael Marchesan - 945887
 - Giuliana Muto - 961902
