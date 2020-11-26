@@ -353,11 +353,110 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 #### Level 
 
-Minerva e Delphini si trovano nella foresta oscura e hanno appena finito il rituale per diventare Animagus: ora Minerva può trasformarsi in un gatto.
+E' tramonto e c'è un forte temporale, Minerva e Delphini si trovano nella foresta oscura e Minerva ha appena finito il rituale per diventare un animagus: ora puà trasformarsi in un gatto.
 
-*Dialogo 1*
 
-|      |      |
-| ---- | ---- |
-|      |      |
 
+Delphini: Non ci credo! Ha funzionato!
+
+MInerva: Miiiiao
+
+Delphini: Che bel gattino che sei ! *risata*
+
+
+
+Minerva prova la sua nuova forma, si arrampica sugli alberi, fa dei salti di prova e infine ritorna alla sua forma originale.
+
+
+
+Delphini: Cosa si prova ad avere una palla di pelo in gola?
+
+MInera: Stupida! *ride*  faremo meglio tornare al castello, altrimenti saranno guai.
+
+
+
+Le ragazze  prendono la direzione per tornare ai propri dormitori ma quasi all'uscita della foresta vengono attaccate da una creatura magica ed inizia il combattimento.
+
+Minerva utilizza gli incantesimi appresi e la trasfigurazione mentre Delphini cerca di far combaciare i suoi incantesimi con quelli dell'amica. Riescono a far fronta alla creatura ma si accorgono che ormai si è fatto buio ed entrare nel castello non sarà per nulla facile.
+
+Di corsa arrivano all'entrata che si trova nel retro del castelo, si appostano dietro a degli alber poter pensare una strategia per poter rientrare al catello senza farsi accorgere
+
+
+
+Delphini: Dobbiamo trovare un modo per entrare senza che nessuno ci vedi.... Pensa Delphini, pensa...
+
+Minerva: Che ne dici se mi trasformo ed entro da quella finestra?  Potrei aprirti la porta.
+
+Delphini: E' un ottima idea! Ma riesci a tenere la forma di animagus per così tanto tempo? 
+
+Minerva: Ci rpoverò.
+
+
+
+(Livello puzzle con stamina)
+
+Minerva si avvicina il più possibile al castello, si trasforma in gatto, salta sull'albero ed entra dalla finestra.
+
+Ora Minerva-gatto si trova all'intenro del castello, il suo goal è quello di dover prendere la chiave della porta dal custode che sorveglia i corridoi. La barra della stamina permette di far capire quanto tempo Minerva può rimanere in forma gatto. Quando la stamina si azzera, ritorna in forma umana e quindi deve trovare un riparo finchè la barra si ricarica.
+
+Ci sono diversi corridoi, alcuni dei quali sono dei vicoli ciechi.  Quando riesce a trovare il custode, lui viene colpito da Minerva gatto e si avvicina.
+
+Custone: Ma che bel gattino, vieni qui!
+Minerva: Miiiaoo
+
+Quando minerva è abbastanza vicina lo attacca graffiandolo in viso e ruba il mazzettino di chiavi che aveva fra le mani. Minerva-gatto scappa velocemente con le chiavi verso la porta. Quando arriva alla porta, ritorna alla sua forma umana e ora deve provare le chiavi per vedere quale sia quella giusta. Ma ha poco tempo perchè il custode la sta inseguendo.
+
+Ha due scelte: O provare le chiavi una ad una oppure utilizzare un incantesimo.
+
+Se non riesce ad aprire la porta in tempo il livello ricomincia da capo.
+
+Se apre la porta in tempo Minerva si trasforma in gatto e deve aiutare l'amica a tornare nel suo dormitorio. 
+
+Delphini: Finalmente ce l'hai fatta, pensavo che avevi trovato un gatto e mi avevi abbandonato fuori al freddo 
+Minerva: Cosa? Sei pazz e.e
+Delphini: ora dobbiamo tornare ai dormitori, hai visto qualche ronda?
+MInerva: Ora ho visto solo il custode, ma ora dovrebbe partire il turno delle ronde. 
+Delphini: Mi aiuti a tornare nel dormitorio?
+
+Minerva ha due scelte:
+
+No, non ti aiuto: Minrva deve tornare al suo dormitorio e si passa avanti con la storia ma il livello di amicizia rimane basso
+Si, ti aiuto: il livello continua e il livello di amicizia sale.
+
+Se la scelta è si, Minerva si trasforma in gatto e aiuta l'amica a tornare al dormitorio ed evitare le ronde
+
+
+
+Delphini: Non dobbiamo farci trovare dal custode, ci portrà lui in camera è sarà la fine
+
+Minerva-gatto: Miao
+
+
+
+Nei corridoi ci sono diverse ronde incappucciati ed è impossibile distinguere una ronda dal custode. 
+
+Minerva-gatto può dare ordini a Delphini di avanzare o fermarsi, Inoltre, può distrarre le ronde per poter far camminare l'amica innoservata.
+
+Quando Minerva in forma umana o Delphini vengono scoperte da una ronda:
+
+Ronda: "dove tornare alle vostre camere ora!"
+
+Il livello ricomincia da capo.
+
+Quando Minerva in forma umana o Delphini vengono scoperte dal custode:
+
+Custode: "Vi porto alle vostre camere"
+
+Il livello finisce e il livello di amiciza tra le ragazze si abbassa.
+
+Quando Minerva versione gatto viene scoperta dal Custode:
+
+Custode: "Brutto gattaccio! Via !"
+
+Il custode insegue Minerva-gatto e quindi lei deve scappere e in tutto ciò aiutare l'amica.
+
+Quando Minerva riesce ad accompagnare l'amica nella sua stanza il livello di amicizia tra le due aumenta.
+
+Delphini: Non pensavo che fossi così astuta, gattina
+
+Minerva: Miiiaooo.
