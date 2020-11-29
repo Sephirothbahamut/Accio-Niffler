@@ -338,7 +338,7 @@ Myrtle Elizabeth Warren is a brown-haired muggle-born witch. She is currently a 
 
 Nonetheless, she managed to make some friends, including the young Minerva McGonagall and the newcomer Delphini Lestrange.
 
-As the events develop, she will die from the Basilisk petrifying stare, right after the opening of the Chamber of Secrets by the hand of Tom Riddle. She will return in a ghostly form, presiding the bathroom where she passed away
+As the events develop, she will die from the Basilisk petrifying stare, right after the opening of the Chamber of Secrets by the hand of Tom Riddle. She will return in a ghostly form, presiding the bathroom where she passed away. Talking to her about her death will only make her scream and disappear in tears.
 
 #### Backstory
 
@@ -355,120 +355,108 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 # Level Script
 
-#### Level 
+#### A cat-call
 The sun is setting, and a storm is raging: the perfect climate to complete the Animagus ritual. Minerva and Delphini had reached the Forbidden Forest, a peaceful and isolated enough place for that purpose. Minerva casts the final spell, pronouncing increasingly loudly "Amato Animo Animato Animagus", with the wand pointing at her heart.
-
-*NOTA: Prestate attenzione, voi mortali, ché di Toth l'ira avete risvegliato. Seguite l'insegnamento dell'[Alt] + 2 1 2, sicché possiate in futuro evitare la Sua ira.*
-***E'*** tramonto e c'è un forte temporale, il clima perfetto per poter completare il rituale da Animagus. Minerva e Delphini si trovano nella Foresta Proibita, un posto tranquillo, lontano da occhi indiscreti, per completare il rito. Minerva pronuncia l'incantamento finale, in una litania di parole ripetute con crescente fervore: "Amato Animo Animato Animagus", le parole ripetute da Minerva, bacchetta al cuore.
 
 Finally, Minerva drinks the potion.
 
 | Dialogue 1                                                   |
 | ------------------------------------------------------------ |
 | **Delphini**: I can't believe it! It really worked!          |
-| **Minerva**: *Meow*                                          | //TOASK [Why not *Nya* XD]
-| **Delphini**: Ohh... would you look at this cute cat! I guess I've never seen this "soft side" of yours, Minerva! |
-
+| **Minerva**: *Meow*                                          |
+| **Delphini**: Aww... would you look at this cute cat! I guess I've never seen this "soft side" of yours, Minerva! |
 Delphini outbursts in laughter, and looks at Minerva trying to get used to her new shape. She tries climbing on trees, jumping around the forest, to finally come back in her human form.
 
 | Dialogue 2                                                   |
 | ------------------------------------------------------------ |
 | **Delphini**: Alright then, what does it feel like to be a furball? |
-| **Minerva**: Oh come on! *laughs* If anything, as a cat I won't be forced to reply at your nonsensical provocations. Oh suvvia! *ride* Per lo meno da gatto non sarò costretta a rispondere alle tue stupide provocazioni | //TOASK [what did you even mean with that sentence?]
-| **Delphini**: As if, I'm fully aware you can't live without my irony; and you know that too. Oh smettila, lo so che non puoi fare a meno della mia ironia becera! | //TOASK [why becera? Delphini non mi da l'idea di una persona volgare]
-| **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night time. |
+| **Minerva**: Oh come on! \*laughs\* If *anything*, as a cat I won't be forced to reply at your nonsensical provocations. |
+| **Delphini**: As if, I'm fully aware you can't live without my Irish irony; and you know that too. |
+| **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
+The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
 
-The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a //TODO [insert magical creature here].
+Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the Cerberus; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
 
-Le ragazze si accingono a seguire il sentiero che collega la foresta oscura ai dormitori //TOASK [al castello semmai]
-ma quasi all'uscita della foresta subiscono l'imboscata di \*una creatura magica\*: in fondo la foresta è un luogo pericoloso, specialmente di sera. Ma Minerva sentiva di voler completare in quel luogo il rituale: era il posto giusto, diceva. //[Removed, superfluous]
-
-Quickly Minerva and Delphini prepare to fight the creature, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the creature; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
-
-They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by //TOASK ["prefetti/custode", in the english version are they the straight translation or they have more specifi terms?]
-Di corsa arrivano all'entrata che si trova nel retro del castello. Senza farsi notare si appostano dietro a degli alberi, in modo da poter pensare una strategia per poter rientrare al castello senza farsi scoprire dal custode o dai prefetti.
+They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by the caretaker or by the prefects.
 
 | Dialogue 3                                                   |
 | ------------------------------------------------------------ |
-| **Minerva**: Parbleu! We're in danger, we must find a way to get in without being discovered... Think Minerva, think...  |
-| **Delphini**: Uhm... what about using your newly acquired powers to turn yourself into a cat and get in throught the window? You should be able to open the door for me from the inside. |
-| **Minerva**: That's a good idea but... I've just got started with the basics, I'm not confident I can keep that form for long enough... |
-| **Delphini**: Let's hope it's enough. And please, in the name of Merlin don't get caught! Speriamo quanto basta per non farci rimanere qui alla ghiaccio... occhio ai secondini | //TOASK [What does "alla ghiaccio" mean? Is that some common saying I'm missing?]
+| **Minerva:** It's too late! It's already closed!             |
+| **Delphini:** As if we didn't know it! Move, I'll show you how it's done! |
 
+Delphini tries to cast the Alohomora spell, but the spell is deflected by a counter charm (the Anti-Alohomora charm).
+
+| Dialogue 4                                                   |
+| ------------------------------------------------------------ |
+| **Minerva**: Parbleu! We're in danger, we must find a way to get in without being discovered... Think Minerva, think... |
+| **Delphini**: Uhm... what about using your newly acquired powers to turn yourself into a cat and get in through the window? You should be able to open the door for me from the inside. |
+| **Minerva**: That's a good idea but... I've just got started with the basics, I'm not confident I can keep that form for long enough... |
+| **Delphini**: Let's hope it's enough. And please, for goodness' sake don't get caught! Be careful! |
 Minerva nods, as she gets as close as possible to the entrance, and jumps while shifting to her cat form, ready to go through the window.
 
 (Stamina-based puzzle)
 
-Now Minerva in her cat form is inside the castle; she must take the backdoor's key from the custodian. A stamina bar lets the player understand how long Minerva can stay in her cat form. When the stamina bar reaches zero, she turns back into her human form, hence must seek for an hiding spot to wait for the bar to recharge.
+Now Minerva in her cat form is inside the castle; she must take the backdoor's key from the caretaker. A stamina bar lets the player understand how long Minerva can stay in her cat form. When the stamina bar reaches zero, she turns back into her human form, hence must seek for an hiding spot to wait for the bar to recharge.
 
-There are various corridoirs, some of which are deadends. Once the custodian is found, Minerva must approach him in her cat form and try stealing the keys.
-
-| Dialogue 4                                                   |
-| ------------------------------------------------------------ |
-| **Custodian**: What a good looking kitten... What are you doing here, are you lost? |
-| **Minerva**: *Meow*                                          |
-| **Custodian**: You shouldn't wander ar-                        |
-
-As soon as minerva is close enough, she scratches the custodian's arm //TOASK [scratching his face seems a bit too much and out of character] and steals the keys from his belt //[Why would he walk around with the keys in his hands the whole night?]
-
-| **Custodian**: Come back you little niffler! |
-
-//TODO [discuss]
-Ha due scelte: O provare le chiavi una ad una oppure utilizzare un incantesimo.
-
-Se non riesce ad aprire la porta in tempo il livello ricomincia da capo. (aggiunta da discutere: Minerva può tentare di eludere la guardia e ritentare, l'importante è rimanere fuori dal campo visivo del custode)
-
-Se apre la porta in tempo Minerva si trasforma in gatto e deve aiutare l'amica a tornare nel suo dormitorio.
+There are various corridors, some of which are dead-ends. Once the caretaker is found, Minerva must approach him in her cat form and try stealing the keys.
 
 | Dialogue 5                                                   |
 | ------------------------------------------------------------ |
-| **Delphini**: Finalmente ce l'hai fatta! Ormai temevo che avessi trovato un bel gattone e mi avessi abbandonato qui al freddo... | //TOASK [ma che mi fate tradurre xD]
-| **Minerva**: Cosa? Oh... beh un gattone l'ho trovato e... guarda qui... chiavi! |                                                  //TOASK [ma che mi fate tradurre xD]
-| **Delphini**: Now we must head back to the dormitories. Have you noticed anyone besides the custodian? |
-| **Minerva**: So far nothing more than a custodian furiously seeking for a black, cute little kitten. |
-| **Delphini**: Would you help me head back to my dormitory? |
+| **Caretaker**: What a cute kitten... What are you doing here, are you lost? |
+| **Minerva**: *Nya*                                           |
+| **Caretaker**: You shouldn't wander around her-              |
 
-Minerva ha due scelte:
+As soon as Minerva is close enough, she jumps on the caretaker's head, disorienting him for a bit, and steals the keys from his belt in the commotion.
+
+| Dialogue 6                                   |
+| -------------------------------------------- |
+| **Caretaker**: Come back you sneaky niffler! |
+
+The caretaker is stunned for a bit so he shouldn't be a threat for now. Minerva can now open the door and let Delphini in.
+
+| Dialogue 7                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: Finally you've done it! Did you find some milk on the way back? Maybe, a wool ball to play with? |
+| **Minerva**: What? No, well... *casually*... I've found these keys, so here we are! |
+| **Delphini**: Now we must head back to the dormitories. Have you noticed anyone besides the caretaker? |
+| **Minerva**: So far nothing more than a mastiff furiously seeking for a black, cute little kitten, if you get what I mean. \*winks\*​​ |
+| **Delphini**: Would you help me head back to my dormitory? *Unnoticed*, of course. |
+
+Minerva has two options:
 
 | Options                                                      |
 | ------------------------------------------------------------ |
-| **Option A**: "I'm not sure i can maintain my cat form long enough... I think we'll be safer if we just split here and head directly to our respective dormitories. |
-| **Opzione B**: "Of course I will, you shouldn't even have asked! I'll let you understand when the path is clear and you can reach me." |
+| **Option A**: "I'm not sure I can maintain my cat form long enough... I think we'll be safer if we just split here and head directly to our respective dormitories." |
+| **Option B**: "Of course I will, you shouldn't even have asked! I'll let you know when the path is clear and you can reach me." |
 
-Option A leads to an extremely easier level, as Minerva has to slip through the patrols as in the previous part; however this choice drastically decreses the friendship level with Delphini.
-Option B leads to a longer and harder level, as Minerva has to first guide Delphini through the patrols up to Slitherin's dormitory, and then head back to her own one. If the player succeeds, the friendship level with Delphini increases.
+Option A leads to an extremely easier level, as Minerva has to slip through the patrols as in the previous part; however this choice drastically decreases the friendship level with Delphini.
+Option B leads to a longer and harder level, as Minerva has to first guide Delphini through the patrols up to Slytherin's dormitory, and then head back to her own one. If the player succeeds, the friendship level with Delphini increases.
 
 
 If option B:
 
-| Dialogue 6                                                   |
+| Dialogue 8                                                   |
 | ------------------------------------------------------------ |
-| **Delphini**: I knew I could count on you. We must absolutely watch out for the big cat, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory until they simply lose sight. Now go, show me the path, and I shall be your shadow. |
+| **Delphini**: I knew I could count on you. We must absolutely watch out for the mastiff, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory. I guess we have to follow their directions until they lose us. *~Now go, show me the path, and I shall be your shadow.*~ |
 
-Prefects won't be distinguishable from the custodian from afar, as they all will wear a hood. Minerva can order Delphini to reach her or stop where she is. Additionally she can distract the patrols to let Delphini move unnoticed.
+Prefects won't be distinguishable from the caretaker from afar, as they all will wear a hood. Minerva can order Delphini to reach her by waving her tail or stop where she already is by keeping the tail still. Additionally she can distract the patrols to let Delphini move unnoticed.
 
-If Delphini or Minerva (in human form) are caught by a prefect, (Michael's idea) he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. This time will increase the risk that Delphini is caught by the custodian, as she's totally out of Minerva's LOS.
+If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
 
-Se Delphini o Minerva vengono scoperte in forma umana da un prefetto, (idea di dige) esso intimerà solamente di muoversi ad andare verso le camere, obbligandole in una direzione e facendole perdere tempo stando ferme in mezzo al corridoio (rischiando di essere scovate dal custode).
+If Delphini or Minerva (in human form) are caught by the caretaker, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
 
-(idea originale di giuly) Il livello ricomincia da capo.
+If Minerva is caught in her cat form by the caretaker, she must try to run or hide, as the caretaker will
+ - the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
+- the second time, hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over her animagus form. At the point, the mission fails with Minerva being dragged in her room, and the friendship level with Delphini decreasing.
 
-If Delphini or Minerva (in human form) are caught by the custodian, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
-
-If Minerva is caught in cat form by the custodian, she must try to run or hide, as the custodian will (Michael's idea)
-	- the first time, throw her out of the castle (making her restart from the beginning, while Delphini is stuck alone, increasing the risk of her being caught by the custodian more compared to when they are caught by a prefect)
-	- the second time (Doge's idea) hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over har animagus form. At the point, the mission fails with minerva being dragged in her room, and the friendship level with Delphini decreasing.
-	
-If Minerva is caught in cat form by a prefect (Doge's idea, Michael-approved) he will be distracted, focusing only on her until he pats her head. During that time, Delphini can move unnoticed.
-
-Se Minerva in forma felina viene scoperta dal custode, essa deve tentare di scappare e nascondersi poichè il Custode tenterà di scacciarla con la forza. (Idea dige) Il custode cercherà di tirare una bastonata a Minerva-gatto e se dovesse colpirla, Minerva tornerà in forma umana poichè non è ancora in grado di stabilizzare bene la trasformazione. In questo caso, avremmo il fallimento della missione e la riduzione del livello di amicizia come nel caso precedente.
+If Minerva is caught in cat form by a prefect he will be distracted, focusing only on her until he pats her head. During that time, Delphini can move unnoticed.
 
 If the mission succeeds, the friendship level with Delphini increases a lot.
 
-| Dialogue 7                                                   |
+| Dialogue 9                                                   |
 | ------------------------------------------------------------ |
-| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? *ride* |
-| **Minerva**: *meows angrily*                                 |
-| **Delphini**: Geez, no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, furball! |
+| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
+| **Minerva**: \*meows angrily\*                               |
+| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
 
-Ora Minerva deve solo fare in modo di arrivare in camera sua senza essere individuata. Se dovesse succedere il livello di amicizia si abbasserebbe ma leggermente rispetto a prima (Delphini sarebbe un po' delusa che abbiano scoperto Minerva).//TOASK we can skip this tbh
+Minerva is then able to sneak into her dorm as a cat and the level ends.
