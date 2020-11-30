@@ -10,6 +10,8 @@
 
 ## 1. High concept and themes
 
+### High concept
+
 "The dark lady awaknes" is a 2D-Rpg single player game. The game is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
 Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
 Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: you can take sides with Delphini or with Dumbledore
@@ -45,62 +47,64 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 | 5        | Hogsmeade        |
 | 6        | Diagon Alley     |
 
-###  Hogwarts
+## Settings
+
+####  Hogwarts
 
 Hogwarts is a School of Witchcraft and Wizardry. It islocated in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school's castle has its roots at the end of 10th century, which grandeur made it one of the most important schools in the magical world. On the outside, many towers connect the various rooms and halls. In addition, it is surrounded by a green meadow, a Quidditch pitch and other annexed structures, such as the "Keeper of the keys" hut, game and grounds and the green house, where Herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has 142 stairways, which each of them seems to have a life of its own as they have fun to change their position and cause poor students to go astray. It is wrapped by many magical protections, making it invisible to muggles: only wizards can live in this castle. 
 
 <img src="Pictures/Locations/Hogwarts/Castle_location.png" alt="Hogwarts" style="zoom: 33%;" />
 
-### Great Hall
+#### Great Hall
 
 The Great Hall is a common place, where all students, the professors, the principal and other staff members of the school gather for the various meals of the day. Furthermore, it acts as a study room, leisure room and ceremonies room. It is composed by four large tables placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a sky created by a magic spell which mimics the outside. For each recurrence, the hall is embellished, like for Christmas or the Yule Ball. 
 
 <img src="Pictures/Locations/Hogwarts/Great_Hall_location.jpg" alt="GreatHall" style="zoom: 67%;" />
 
-### Classrooms
+#### Classrooms
 
 The classrooms are in various areas of the castle, both inside and outside. The lessons are usually divided into theoretical and practical: the classrooms hosting the practical lessons were embellished according to the topic of the lesson. A great example is Potion-Mixing Room, which has for each bench a cauldron where the student can mix up concoctions and other recipes. The classrooms outside the castle are the Herbology greenhouse and the Quidditch pitch for the Flying Broom lessons.
 
 <img src="Pictures/Locations/Hogwarts/Classrooms_location.jpg" alt="Classrooms" style="zoom: 67%;" />
 
 
-### Dormitories
+#### Dormitories
 
 The students are sorted in one of the four Houses present at Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, Slytherin. The Dormitories serve as bedrooms and as a meeting place for students from the same house. Each House is different from the other, in colors and values, and this is represented through decorations and through the students' uniforms.  The dormitories are entrusted to a professor and two prefects (two last year students chosen to enforce the rules within their house). The bedrooms are shared for multiple students with four-poster beds, except for the prefects who have their own private room.<img src="Pictures/Locations/Hogwarts/Dorms_location.png" alt="Dorms" style="zoom: 25%;" />
 
 
 
-### Quidditch pitch
+#### Quidditch pitch
 
 A huge pitch where students can play Quidditch and train themselves. It is oval in shape and is about 165 meters long by 60 meters wide. At each side there are three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually grass, but in some cases, it can be sand or even water. There are several towers for spectators.
 
 <img src="Pictures/Locations/Hogwarts/Quidditch_Field_location.jpg" alt="QuidditchField" style="zoom:33%;" />
 
-### Chambers of Secrets
+#### Chambers of Secrets
 
 It's a secret room under the Hogwarts foundation. The entrance is in the girls' bathroom on the second floor and requires saying a secret word in parseltongue for the secret passage to open up. The room is gloomy and dark and has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statue by Salazar Slytherin, the ancestor and founder of the Slytherin house. 
 
 <img src="Pictures/Locations/Hogwarts/Chamber_Secrets_location.png" alt="ChambersSecrets" style="zoom:33%;" />
 
-### Forbidden Forest
+#### Forbidden Forest
 
 It is a large woodland that surrounds part of the castle. It is an area that holds many secret and dangerous wild creatures, such as werewolves, but also beneficial ones, like unicorns. It is also home to many villages, such as the centaur one who take care of the woods. The Forbidden Forest, however, is still considered a place that houses dark entities: as a matter of fact, at night it is impractical to walk in the forest, as if the trees hold inside all the darkness. Even during the day it is very difficult to walk along the path. It is for all these reasons that students are usually denied access to it.
 
 <img src="Pictures/Locations/Hogwarts/Forbidden_Forest_location.jpg" alt="GreatHall" style="zoom: 33%;" />
 
-### Black Lake
+#### Black Lake
 
 A large obscure lake located south of the castle. It is home to various magical sea creatures such as giant squids, mermaids and many more. The seabed temperature is very low, making it a favorable place for algae and other underwater vegetation. Venturing too deep is dangerous since many were attacked and trapped by merpeople.
 
 <img src="Pictures\Locations\Hogwarts\Black_Lake_location.jpg" alt="Black Lake" style="zoom: 67%;" />
 
-### Hogsmeade
+#### Hogsmeade
 
 Picturesque little village near Hogwarts, inhabited only by wizards. Students can usually frequent it during holidays or weekends; they are easily attracted to this village because there are numerous entertainment places, such as pubs, shops. The most famous are The Three Broomsticks or the Zonko's jokes and tricks shop. It is also the terminal station of the Hogwarts Express. 
 
 <img src="Pictures/Locations/Hogsmeade_location.jpg" alt="Hogsmeade" style="zoom: 67%;" />
 
-### Diagon Alley
+#### Diagon Alley
 
 It's a magical side-street accessible from the muggle city London. To enter Diagon Alley, you need to give a tap on the right bricks of the wall behind Leakey Cauldron, which will move and reveal the entrance to the street. It can also be accessed via Flying Dust or dematerialization. The magic street has various important magical shops, such as Ollivander's Wand store.
 
@@ -108,7 +112,7 @@ It's a magical side-street accessible from the muggle city London. To enter Diag
 
 ##  3. Game story
 
-### Synopsis
+### 3.1 Synopsis
 
 #### Introduction
 Years after the Battle of Hogwarts, Delphini Lestrange meets her stepfather, who convinces her to embark in a mission into the past in order to save her family. She goes back thanks to a gifted timeturner and meets Minerva.
@@ -126,7 +130,7 @@ Tom Riddle accuses Hagrid of keeping in secret the monster who caused all the de
 Minerva and Delphini reach Dumbledore's office, either to confront him (Minerva trusts Delphini), tell him the truth (Minerva trusts Dumbledore, Delphini's friendship is strong), or fight each other (Delphini's friendship is weak).
 
 
-### Story
+### 3.2 Story
 
 #### Background
 Few years after the Battle of Hogwarts Delphini Lestrange is visited by her step-father Rodolphus Lestrange, who escaped from Azkaban to meet her and reveal that she was Voldemort's daughter.
@@ -159,7 +163,7 @@ At that point Minerva had to make a choice:
 - **side with Dumbledore; her relationship with Delphini is weak**
 	- Delphini will follow Minerva to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
 
-### Story flowchart
+### 3.4 Story flowchart
 ![Story flowchart](Pictures/Story/Story_flowchart.png)
 
 ## 4. Goals outline
@@ -360,6 +364,8 @@ The sun is setting, and a storm is raging: the perfect climate to complete the A
 
 Finally, Minerva drinks the potion.
 
+![Minerva_cat](Pictures/Level/Minerva_cat_level.jpg)
+
 | Dialogue 1                                                   |
 | ------------------------------------------------------------ |
 | **Delphini**: I can't believe it! It really worked!          |
@@ -375,6 +381,8 @@ Delphini outbursts in laughter, and looks at Minerva trying to get used to her n
 | **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
 The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
 
+![Cerberus](Pictures\Level\cerberus_level.jpg)
+
 Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the Cerberus; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
 
 They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by the caretaker or by the prefects.
@@ -385,6 +393,10 @@ They rush up to the back entrance of the castle, where they discuss a plan to pr
 | **Delphini:** As if we didn't know it! Move, I'll show you how it's done! |
 
 Delphini tries to cast the Alohomora spell, but the spell is deflected by a counter charm (the Anti-Alohomora charm).
+
+![Door_closed](Pictures/Level/door_closed_level.png)
+
+
 
 | Dialogue 4                                                   |
 | ------------------------------------------------------------ |
@@ -400,6 +412,8 @@ Now Minerva in her cat form is inside the castle; she must take the backdoor's k
 
 There are various corridors, some of which are dead-ends. Once the caretaker is found, Minerva must approach him in her cat form and try stealing the keys.
 
+![Map_1](Pictures/Level/map_1_level.png)
+
 | Dialogue 5                                                   |
 | ------------------------------------------------------------ |
 | **Caretaker**: What a cute kitten... What are you doing here, are you lost? |
@@ -413,6 +427,8 @@ As soon as Minerva is close enough, she jumps on the caretaker's head, disorient
 | **Caretaker**: Come back you sneaky niffler! |
 
 The caretaker is stunned for a bit so he shouldn't be a threat for now. Minerva can now open the door and let Delphini in.
+
+![door_close](Pictures/Level/door_key_level.png)
 
 | Dialogue 7                                                   |
 | ------------------------------------------------------------ |
@@ -444,6 +460,8 @@ Prefects won't be distinguishable from the caretaker from afar, as they all will
 If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
 
 If Delphini or Minerva (in human form) are caught by the caretaker, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
+
+![Map 2](Pictures/Level/map_2_level.png)
 
 If Minerva is caught in her cat form by the caretaker, she must try to run or hide, as the caretaker will
  - the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
