@@ -9,15 +9,6 @@
 
 - Luca Di Gennaro - 961208
 
-  | **What**                                     | **When**   | **Who**  |
-  | -------------------------------------------- | ---------- | -------- |
-  | Document created                             | 18/10/2020 | Michael  |
-  | Revision before first update                 | 09/11/2020 | Michael  |
-  | Redesign of the document                     | 18/11/2020 | Luca     |
-  | Directory Structure, File naming  convention | 19/11/2020 | Luca     |
-  | Data storage and access                      | 20/11/2020 | Giuliana |
-  | Data types and format                        | 21/11/2020 | Michael  |
-  | Document preparation                         | 22/11/2020 | Giuliana |
 
 ## The dark lady awakens
 
