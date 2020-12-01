@@ -3,8 +3,38 @@
 
 #### Team Accio Niffler
 - Michael Marchesan - 945887
+
 - Giuliana Muto - 961902
+
 - Luca Di Gennaro - 961208
+
+  | **What**                                     | **When**    | **Who**                  |
+  | -------------------------------------------- | ----------- | ------------------------ |
+  | Document  created                            | 16/10/ 2020 | Michael                  |
+  | Added High  concept                          | 16/10/2020  | Giuliana                 |
+  | Added DOD                                    | 18/10/2020  | Michael                  |
+  | Added settings                               | 18/10/ 2020 | Giuliana                 |
+  | Added Minerva  pic, story and circumplex     | 19/10/2020  | Luca                     |
+  | Added Albus  pic, story and circumplex       | 20/10/2020  | Luca                     |
+  | Added Delphini  pic, story and circumplex    | 21/10/2020  | Luca                     |
+  | Added story                                  | 21/10/2020  | Michael                  |
+  | Added Tom pic,  story and circumplex         | 22/10/2020  | Luca                     |
+  | Added Myrtle  pic, story and circumplex      | 21/10/2020  | Luca                     |
+  | Added story  flowchart                       | 22/10/2020  | Michael                  |
+  | Fixed high  concept                          | 22/10/2020  | Giuliana                 |
+  | Added world map  and diagram                 | 23/10/2020  | Giuliana                 |
+  | Reviewed  settings and high concept          | 25/10/2020  | Luca                     |
+  | Added level                                  | 4/11/2020   | Giuliana                 |
+  | Added shortened  story and level corrections | 5/11/2020   | Michael                  |
+  | Added title                                  | 5/11/2020   | Michael, Luca,  Giuliana |
+  | Added synopsis                               | 6/11/2020   | Michael                  |
+  | Added goals                                  | 6/11/2020   | Luca                     |
+  | Final review                                 | 8/11/2020   | Michael, Luca,  Giuliana |
+  | Changed Level                                | 25/11/2020  | Giuliana                 |
+  | Reviewed Level                               | 26/11/2020  | Luca                     |
+  | Reviewed Level                               | 27/11/2020  | Michael                  |
+  | Final review                                 | 28/11/2020  | Michael, Luca,  Giuliana |
+  | Fixed Level                                  | 30/11/2020  | Giuliana                 |
 
 # Game design section
 
