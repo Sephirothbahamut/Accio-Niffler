@@ -1,5 +1,5 @@
 # The Dark Lady Awakens
-![Logo](Pictures/Logo.png)
+![Logo](Pictures/Niffler_logo.png)
 
 #### Team Accio Niffler
 - Michael Marchesan - 945887
@@ -64,9 +64,9 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 ![](Pictures/Maps/World_diagram.png)
 
 ### 2.2 World Maps
-<img src="Pictures\Maps\Diagon_Alley_map.png" alt="Maps" style="zoom: 25%;" />
+<img src="Pictures/Maps/Diagon_Alley_map.png" alt="Maps" style="zoom: 25%;" />
 
-<img src="Pictures\Maps\Hogwarts_map.png" alt="Hogwarts_Map" style="zoom:33%;" />
+<img src="Pictures/Maps/Hogwarts_map.png" alt="Hogwarts_Map" style="zoom:33%;" />
 
 | *Legend* |                  |
 | -------- | ---------------- |
@@ -126,7 +126,7 @@ It is a large woodland that surrounds part of the castle. It is an area that hol
 
 A large obscure lake located south of the castle. It is home to various magical sea creatures such as giant squids, mermaids and many more. The seabed temperature is very low, making it a favorable place for algae and other underwater vegetation. Venturing too deep is dangerous since many were attacked and trapped by merpeople.
 
-<img src="Pictures\Locations\Hogwarts\Black_Lake_location.jpg" alt="Black Lake" style="zoom: 67%;" />
+<img src="Pictures/Locations/Hogwarts/Black_Lake_location.jpg" alt="Black Lake" style="zoom: 67%;" />
 
 #### Hogsmeade
 
@@ -522,23 +522,23 @@ Minerva is then able to sneak into her dorm as a cat and the level ends.
 ### Checkpoints 
 ### Saving 
 ### items 
-	### Consumablres 
-	### Collectibles
+#### Consumablres 
+#### Collectibles
 ### Weapons and Armor
 ### Shops
-	### Ollivander's Wand store
-	### Zonko's jokes 
-	### The Three Broomsticks
+#### Ollivander's Wand store
+#### Zonko's jokes 
+#### The Three Broomsticks
 
 ### 6.2 Gameplay characters 
 ### Abilities
 ### Secondary Abilities
 ### Stats
 ### Skills 
- ### Skill colldowns
- ### Skill tree
- ### Skill charts
- ### Special skill tree
+#### Skill colldowns
+#### Skill tree
+#### Skill charts
+#### Special skill tree
 ### Friendship
 ### Enemies 
 ### Enemies chart 
