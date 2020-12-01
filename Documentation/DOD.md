@@ -23,9 +23,7 @@
 
 #### Purpose
 
-The purpose of this document is to...
-
-#### Creation Date
+#### The purpose of this document is to contain the major guidelines to follow while working on this project concerning the software to use, the formats and specifications for the files and the backup & versioning policies.Creation Date
 
 Since 18/10/2020
 
