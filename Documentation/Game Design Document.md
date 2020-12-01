@@ -411,7 +411,7 @@ Delphini outbursts in laughter, and looks at Minerva trying to get used to her n
 | **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
 The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
 
-![Cerberus](Pictures/Level/Cerberus_level.jpg)
+![](Pictures/Level/Cerberus_level.jpg)
 
 Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the Cerberus; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
 
