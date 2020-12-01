@@ -411,7 +411,7 @@ Delphini outbursts in laughter, and looks at Minerva trying to get used to her n
 | **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
 The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
 
-![Cerberus](Pictures\Level\cerberus_level.jpg)
+![Cerberus](Pictures\Level\Cerberus_level.jpg)
 
 Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the Cerberus; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
 
@@ -424,7 +424,7 @@ They rush up to the back entrance of the castle, where they discuss a plan to pr
 
 Delphini tries to cast the Alohomora spell, but the spell is deflected by a counter charm (the Anti-Alohomora charm).
 
-![Door_closed](Pictures/Level/door_closed_level.png)
+![Door_closed](Pictures/Level/Door_closed_level.png)
 
 
 
@@ -442,7 +442,7 @@ Now Minerva in her cat form is inside the castle; she must take the backdoor's k
 
 There are various corridors, some of which are dead-ends. Once the caretaker is found, Minerva must approach him in her cat form and try stealing the keys.
 
-![Map_1](Pictures/Level/map_1_level.png)
+![](Pictures/Level/Map_door_close_level.png)
 
 | Dialogue 5                                                   |
 | ------------------------------------------------------------ |
@@ -458,7 +458,7 @@ As soon as Minerva is close enough, she jumps on the caretaker's head, disorient
 
 The caretaker is stunned for a bit so he shouldn't be a threat for now. Minerva can now open the door and let Delphini in.
 
-![door_close](Pictures/Level/door_key_level.png)
+![door_close](Pictures/Level/Door_key_level.png)
 
 | Dialogue 7                                                   |
 | ------------------------------------------------------------ |
@@ -491,7 +491,7 @@ If Delphini or Minerva (in human form) are caught by a prefect, he will force th
 
 If Delphini or Minerva (in human form) are caught by the caretaker, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
 
-![Map 2](Pictures/Level/map_2_level.png)
+![](Pictures/Level/Map_door_open_level.png)
 
 If Minerva is caught in her cat form by the caretaker, she must try to run or hide, as the caretaker will
  - the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
