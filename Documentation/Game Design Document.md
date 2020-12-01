@@ -10,14 +10,14 @@
 
 ## 1. High concept and themes
 
-### High concept
+### 1.1 High concept
 
 "The dark lady awaknes" is a 2D-Rpg single player game. The game is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
 Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
 Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: you can take sides with Delphini or with Dumbledore
 
 
-### Themes
+### 1.2 Themes
 - Friendship is powerful
   - Bonding with others is essential in order to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety or the early demise of the Wizarding World as we know it.
 - Question everything
@@ -29,11 +29,11 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 
 ## 2. Game world & settings
 
-### World Diagram
+### 2.1 World Diagram
 
 ![](Pictures/Maps/World_diagram.png)
 
-### World Maps
+### 2.2 World Maps
 <img src="Pictures\Maps\Diagon_Alley_map.png" alt="Maps" style="zoom: 25%;" />
 
 <img src="Pictures\Maps\Hogwarts_map.png" alt="Hogwarts_Map" style="zoom:33%;" />
@@ -47,7 +47,7 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 | 5        | Hogsmeade        |
 | 6        | Diagon Alley     |
 
-## Settings
+## 2.3 Settings
 
 ####  Hogwarts
 
@@ -478,3 +478,56 @@ If the mission succeeds, the friendship level with Delphini increases a lot.
 | **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
 
 Minerva is then able to sneak into her dorm as a cat and the level ends.
+
+
+
+## 6. Gameplay Mechanics 
+### 6.1 Gameplay elements 
+
+### Camera and Graphics 
+### Exploration mode
+### Combat mode
+### Player rewards 
+### Experience points
+### Checkpoints 
+### Saving 
+### items 
+	### Consumablres 
+	### Collectibles
+### Weapons and Armor
+### Shops
+	### Ollivander's Wand store
+	### Zonko's jokes 
+	### The Three Broomsticks
+
+### 6.2 Gameplay characters 
+### Abilities
+### Secondary Abilities
+### Stats
+### Skills 
+ ### Skill colldowns
+ ### Skill tree
+ ### Skill charts
+ ### Special skill tree
+### Friendship
+### Enemies 
+### Enemies chart 
+
+### 6.3 Combact mode
+### roba
+
+
+### 6.4 Minerva base stats
+### 6.5 Cerberus mechanics 
+
+# Level design section
+
+## 1. Detailed level diagram
+## 2.  Detailed level description
+ ### 2.1 Puzzles
+ ### 2.2 Rewarding and teaching systems
+## 3. Level flowchart(s
+## 4. Event diagrams
+## 5. Reference images, concept art, audio 
+
+​	
