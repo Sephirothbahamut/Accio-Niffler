@@ -35,12 +35,12 @@ Last Modification: 18/11/2020
 
 #### Asset Editing Software
 
-- RPGMaker VX ACE 1.02a
+- RPGMaker MV 1.5
 - Piskel 0.14.0
 - Audacity 2.4.2
 
 #### Development Software
-- RPGMaker VX ACE 1.02a
+- RPGMaker MV 1.5
   - Prototype
 - Unity 2019.1.15f1 (Long Term Support)
   - Release
