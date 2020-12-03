@@ -512,23 +512,76 @@ Minerva is then able to sneak into her dorm as a cat and the level ends.
 
 
 ## 6. Gameplay Mechanics 
+
+In questa sezione vedremo più nel dettaglio tutti gli aspetti che rendono questo videogioco unico nel suo genere. Il videogioco è un RPG 2D in terza persona, il giocatore 
+
+giocherà con il personaggio di Minerva Mc qualcosa, sia in forma umana che in forma "gatto". Il combattimento è a turni e la formulazione delle statistiche del player sono basate 
+
+sulle regole di D&D 
+
 ### 6.1 Gameplay elements 
 
 ### Camera and Graphics 
 ### Exploration mode
 ### Combat mode
+
+ A turni come final fantasy
+
 ### Player rewards 
+
+Ti droppa un botto di soldi nel combattimento con il Cerberus
+
 ### Experience points
+
+Il giocatore per poter avanzare di livello e aumentare le proprie statistiche deve ottenere i punti esperienza, che si ottengono tramite:
+
+\- Vincite nel combattimento
+
+\- Risoluzione di enigmi 
+
+\- Minigiochi risolti con successo
+
 ### Checkpoints 
+
+I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler che con la spell Lumos si accende. E’ anche possibile curare le proprie ferite con un offerta.
+
 ### Saving 
-### items 
-#### Consumablres 
-#### Collectibles
-### Weapons and Armor
-### Shops
-#### Ollivander's Wand store
-#### Zonko's jokes 
-#### The Three Broomsticks
+
+Il giocatore può salvare dalla schermata di Home e potrà iniziare a giocare nuovamente da quel punto. Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
+
+\### items 
+
+Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono gli item consumabili servono per poter potenziare la propria bacchetta o creare posizioni, e poi ci sono gli item collezionabili come le foto, reperti rari o oggetti che possono servire al giocatore.
+
+\#Key items 
+
+[Calderone](https://harrypotter.fandom.com/it/wiki/Calderone) 
+
+ \### Consumablres 
+
+-Galleon, Sickle, and Knut
+
+-Ingredienti 
+
+[Aconito](https://harrypotter.fandom.com/it/wiki/Aconito) - [Bezoar](https://harrypotter.fandom.com/it/wiki/Bezoar) - [Corno di unicorno](https://harrypotter.fandom.com/it/wiki/Corno_di_unicorno) - [Fegato di drago](https://harrypotter.fandom.com/it/wiki/Fegato_di_drago) - [Fungo saltellante](https://harrypotter.fandom.com/it/wiki/Fungo_saltellante) - [Infuso di artemisia](https://harrypotter.fandom.com/it/wiki/Infuso_di_artemisia) - [Lavanda](https://harrypotter.fandom.com/it/wiki/Lavanda) - [Mandragola](https://harrypotter.fandom.com/it/wiki/Mandragola) - [Sangue di salamandra](https://harrypotter.fandom.com/it/wiki/Sangue_di_salamandra) - [Sangue di unicorno](https://harrypotter.fandom.com/it/wiki/Sangue_di_unicorno)
+
+-Crafted
+
+Pozioni
+
+\### Collectibles
+
+Obj unici che puoi trovare in giro 
+
+\### Weapons and Armor
+
+\- Bacchetta
+
+\### Wand upgrades
+
+Potenziali potenziamenti della bacchetta.
+
+#### 
 
 ### 6.2 Gameplay characters 
 ### Abilities
@@ -546,9 +599,11 @@ Minerva is then able to sneak into her dorm as a cat and the level ends.
 ### 6.3 Combact mode
 ### roba
 
+### 6.5 Minerva base stats
 
-### 6.4 Minerva base stats
-### 6.5 Cerberus mechanics 
+6.6 Delphini base stats
+
+### 6.7 Cerberus mechanics 
 
 # Level design section
 
