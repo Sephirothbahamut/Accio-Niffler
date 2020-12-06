@@ -413,7 +413,9 @@ The girls follow the path that goes back to the castle, until as they're about t
 
 ![](Pictures/Level/Cerberus_level.jpg)
 
-Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. In the end, they manage to defeat the Cerberus; but the battle took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
+Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. While fighting, Delphini suddenly remembers the weak point of the three-headed dog: a particular melody can be played in order to put the beast to sleep, making quick work of it.
+
+In the end, they manage to defeat the Cerberus, either by putting it to sleep or by making him faint with other spells; the battle, however, took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
 
 They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by the caretaker or by the prefects.
 
