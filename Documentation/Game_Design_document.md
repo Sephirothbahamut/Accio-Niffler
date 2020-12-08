@@ -515,75 +515,235 @@ Minerva is then able to sneak into her dorm as a cat and the level ends.
 
 ## 6. Gameplay Mechanics 
 
-In questa sezione vedremo più nel dettaglio tutti gli aspetti che rendono questo videogioco unico nel suo genere. Il videogioco è un RPG 2D in terza persona, il giocatore 
+In this section we will see in more detail all the aspect that make this video games unique in its genre. The game is a 2D single player third person game, the player will play with the character of Minerva, both in her human form and in "cat" form. The combat is turn-based and the formulation of the player's stats are based on the D&D rules.
 
-giocherà con il personaggio di Minerva Mc qualcosa, sia in forma umana che in forma "gatto". Il combattimento è a turni e la formulazione delle statistiche del player sono basate 
-
-sulle regole di D&D 
+In questa sezione vedremo più nel dettaglio tutti gli aspetti che rendono questo videogioco unico nel suo genere. Il videogioco è un RPG 2D in terza persona, il giocatore  giocherà con il personaggio di Minerva, sia in forma umana che in forma "gatto". Il combattimento è a turni e la formulazione delle statistiche del player sono basate sulle regole di D&D 
 
 ### 6.1 Gameplay elements 
 
-### Camera and Graphics 
 ### Exploration mode
+
+The player is free to move around  the map in both human form that cat form. If Delphini is also in the player's party, she will follow the player in his every move, but if he is in cat form and enters a place not accessible to humans, Delphini will remain waiting for him When the player is faced with a obstacle, mysterious object or secret passage, he can: 
+
+- Use the spells that he has learning to solve the puzzle.
+- Has the possibility of being able to use the transfiguration to transform small objects into somethings that is needed at the moment.
+- Transform into cat form and reach places inaccessible to human.
+
+The player can interact with NPCs:
+
+- In human form he can talk to them, they can make funny story or riddles.
+- In cat form he can be stroked.
+
+Il player è libero di muoversi nella mappa sia in forma gatto che umana. Se nel party del giocatore c'è anche Delphini, lei seguirà il player in ogni suo movimento, ma se sarà in forma gatto ed entra in un posto non accessibile per gli umani, Delphini resterà ferma ad aspettarlo. Quando il player si trovat di fronte ad uno stacolo, un oggetto misterioso o un passaggio segreto può:
+
+- Sfruttare gli incantesimi che ha imparato pe rpoter risolvere quel puzzle
+- ha la possibilità di poter usare la trasfigurazione per poter trasformare piccolo oggetti in qualcoa di cui si ha bisogno in quel momento 
+- potrà trasformarsi in forma gatto e raggiungere posti in casseibili normalmente.
+
+Il player può interagire con gli altri NPC, in forma umana può parlare con gli NPC, i quali possono fare battute, discorsi senza senso oppure degli indovinelli, in fomra gatto può farsi accarezzare.
+
+![Doom&Destiny](Pictures/Gameplay/Dialogue_gameplay.jpg)
+
+
+
 ### Combat mode
 
- A turni come final fantasy
+The combat system is turn-based with only once battler authorized to perform one action at time. At the beginning of the fight, characters and monsters are added to the scene and then according of to their statistic the order of attack is chosen. The order of action (spells, attacks, defense, us of potion) are traced through of queue. Also, the combat use D&D's rules,but the rules have been slightly changed to make the game smooth and fun.
 
-### Player rewards 
+Il sistema di combattimento è a turni con un solo cobattente autorizzato a compiere un'azione alla volta. All'inizio del combattimento personaggi e mostri vengono aggiunti alla scena e poi in base alle proprie statistiche viene scelto l'ordine di attacco. L'ordine delle azioni (magia, attacco, difesa, uso di una pozione) veongo tracciate tramite una coda. Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente modificate per rendere il gioco fluibile e divertente.
 
-Ti droppa un botto di soldi nel combattimento con il Cerberus
+![](Pictures\Gameplay\Combat_gameplay.png)
+
+### Player rewards
+
+The player's reward are obtainable in every fight. In the specific combat with Cerberus the player can get: 60 Galleon, 80 Sickle and 100 Knut
+
+![](Pictures/Gameplay/Rewards_gameplay.jpg)
 
 ### Experience points
 
-Il giocatore per poter avanzare di livello e aumentare le proprie statistiche deve ottenere i punti esperienza, che si ottengono tramite:
-
-\- Vincite nel combattimento
-
-\- Risoluzione di enigmi 
-
-\- Minigiochi risolti con successo
+###############################
 
 ### Checkpoints 
 
-I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler che con la spell Lumos si accende. E’ anche possibile curare le proprie ferite con un offerta.
+The ckeckpoints are save points that the player can return in the event of defeat in a battle. It is a statue of a Niffler whose operation is activated when the player offers the Galleons.
+
+I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta in denaro.
+
+![](Pictures\Gameplay\Statue_niffler_gameplay.jpg)
+
+
 
 ### Saving 
 
 Il giocatore può salvare dalla schermata di Home e potrà iniziare a giocare nuovamente da quel punto. Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
 
-\### items 
+\### **items** 
 
 Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono gli item consumabili servono per poter potenziare la propria bacchetta o creare posizioni, e poi ci sono gli item collezionabili come le foto, reperti rari o oggetti che possono servire al giocatore.
 
-\#Key items 
+\### **Key items** 
 
-[Calderone](https://harrypotter.fandom.com/it/wiki/Calderone) 
+- **Cauldron** 
 
- \### Consumablres 
+  Un recipente usato per preparare gli incantesimi. Costa 25 galeoni quello "portatile".
 
--Galleon, Sickle, and Knut
+  ![](Pictures/Gameplay/Items/Key/Cauldron_key.png)
 
--Ingredienti 
+  
 
-[Aconito](https://harrypotter.fandom.com/it/wiki/Aconito) - [Bezoar](https://harrypotter.fandom.com/it/wiki/Bezoar) - [Corno di unicorno](https://harrypotter.fandom.com/it/wiki/Corno_di_unicorno) - [Fegato di drago](https://harrypotter.fandom.com/it/wiki/Fegato_di_drago) - [Fungo saltellante](https://harrypotter.fandom.com/it/wiki/Fungo_saltellante) - [Infuso di artemisia](https://harrypotter.fandom.com/it/wiki/Infuso_di_artemisia) - [Lavanda](https://harrypotter.fandom.com/it/wiki/Lavanda) - [Mandragola](https://harrypotter.fandom.com/it/wiki/Mandragola) - [Sangue di salamandra](https://harrypotter.fandom.com/it/wiki/Sangue_di_salamandra) - [Sangue di unicorno](https://harrypotter.fandom.com/it/wiki/Sangue_di_unicorno)
+ \### **Consumablres** 
 
--Crafted
+- **Money:**
+  - **Galleon**
+  - **Sickle**
+  - **Knut**
 
-Pozioni
+- **Ingredients** 
 
-\### Collectibles
+  - **Bezoar**
 
-Obj unici che puoi trovare in giro 
+  - **Standard ingredient** 
 
-\### Weapons and Armor
+  - **Unicorn horn**
 
-\- Bacchetta
+  - **Mistletoe berries**
 
-\### Wand upgrades
+  - **Re'em blood**
 
-Potenziali potenziamenti della bacchetta.
+  - **Granian hair**
 
-#### 
+  -  **Snowdrop** 
+
+  - **Bitter root**
+
+  - **Flobberworm Mucus**
+
+  - **Lavender**
+
+  - **Valerian Sprigs**
+
+  - **Ashwinder egg**
+
+  - **Squill builb**
+
+  - **Murtlap tentacle**
+
+  - **Tincture of thyme**
+
+  - **Occamy eggshell**
+
+  - **Powdered common rue**
+
+  - **Cherries**
+
+  - **Chicken**
+
+  -  **Spiders**
+
+    
+
+### Crafted
+
+- **Potions**
+
+  Le pozioni usante in battaglia, sono considerati come un attacco, ciò significa che quando il giocatore usa una pozione in quel turno non può attaccare.
+
+  
+
+  - **Antidote common poisons**
+
+    Neutralizza i veleni comuni come morsi o punture di creature magiche. E' possibile usarla sia in battaglia e durante l'esplorazione.
+
+    Gli ingredienti di questa pozione sono: Bezoar, Standard ingredient, Unicorn horn and Mistletoe berries
+
+    
+
+  ![](Pictures/Gameplay/Items/Potions/Antidote_common_poisons_potions.png)
+
+  
+
+  - **Exstimulo Potion** 
+
+    Aumenta la potenza magica di un incantesimo lanciato dal giocatore. La pozione si attiverà al turno successivo e dura per quattro turni.
+
+    Gli ingedienti di questa pozione sono: Re'em blood, Granian hair, Snowdrop and Bitter root
+
+    ![](Pictures/Gameplay/Items/Potions/Exstimulo_potions.png)
+
+  - **Drowsiness Draught** 
+
+    Provoca temporaneamente il sonno. (Lancio dei dadi per rendere la pozione piu forte?)
+
+    Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient 
+
+    ![](Pictures/Gameplay/Items/Potions/Drowsiness_draught_potions.jpg)
+
+    
+
+    - **Felix Felicis**
+
+    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa e aumenta le ricompense ottenute durante l'esplorazione.
+
+    Gli ingredienti di questa pozione sono: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
+
+    
+
+  ![](Pictures/Gameplay/Items/Potions/Felix_felicis_potions.png)
+
+  
+
+  
+
+  - **Healing Potion**
+
+    Permette di ripristinare i propri punti salute. Questo tipo di pozione può variare la sua efficacia in base alla quantità di ingredienti usati per prepararla. Per sapere quanti punti salute sono stati recuperari, occore lanciare vari dadi e se si è sotto l'incantesimo della pozione Felix Feicis si ottiene l'effetto masismo.
+
+    | Rarity   | PH   | Luck |
+    | -------- | ---- | ---- |
+    | Normal   | 2d4  | 8    |
+    | Medium   | 4d4  | 16   |
+    | Superior | 8d4  | 32   |
+
+    
+
+  
+
+  ![](Pictures/Gameplay/Items/Potions/Healing_potions.png)
+
+  
+
+- **Invisibility Potion**
+
+  Quando si beve questa pozione, per 2 minuti si diventa invisibili. Mentre si è sotto l'effetto della pozione, tutto ciò che si trasporta o si indossa resta anch’esso invisibile. L’effetto ha termine qualora si attacca o si esegue un incantesimo.
+
+  Gli ingredienti di questa pozione sono: Cherries, Chicken, Spiders
+
+![](Pictures/Gameplay/Items/Potions/Invisibily_potions.png)
+
+
+
+\### **Collectibles**
+
+- **Book of Potions**
+
+  Una copia di questo libro costa due galeoni e contiene gli incantesimi base, il giocatore può apprendere nuovi incantesimi e inserirli nel proprio libro
+
+  ![](Pictures/Gameplay/Items/Collectibles/Book_potions_collectibles.png)
+
+### **Weapons and Armor**
+
+###############################
+
+- **Wand**
+
+  E' uno strumento magico con il quale il mago o la strega incanala i suoi poteri magici ed evocare incantesimi. Ogni bacchetta è composta da diversi materiali, generalmente legno, e da un nucleo che può provenire da diverse creature magiche.
+
+  ![](Pictures/Gameplay/Items/Weapons/Wand_weapons.jpg)
+
+\### **Wand upgrades**
+
+###############################
 
 ### 6.2 Gameplay characters 
 ### Abilities
