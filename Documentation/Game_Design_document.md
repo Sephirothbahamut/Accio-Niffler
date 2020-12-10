@@ -544,15 +544,22 @@ Il player può interagire con gli altri NPC, in forma umana può parlare con gli
 
 ![Doom&Destiny](Pictures/Gameplay/Dialogue_gameplay.jpg)
 
+*Game: Doom & Destiy*
+
 
 
 ### Combat mode
 
-The combat system is turn-based with only once battler authorized to perform one action at time. At the beginning of the fight, characters and monsters are added to the scene and then according of to their statistic the order of attack is chosen. The order of action (spells, attacks, defense, us of potion) are traced through of queue. Also, the combat use D&D's rules,but the rules have been slightly changed to make the game smooth and fun.
+Il sistema di combattimento è a turni con un solo cobattente autorizzato a compiere un'azione alla volta. All'inizio del combattimento personaggi e mostri vengono aggiunti alla scena e poi in base alle proprie statistiche viene scelto l'ordine di attacco. Quando nel party è presente anche Delphini il player può decidere solo l'azione di questo NPC, ovvero se attaccare oppure farle usare uno strumento. Quando il player decide l'azione di attacco per Delphini possono esserci due casi:
 
-Il sistema di combattimento è a turni con un solo cobattente autorizzato a compiere un'azione alla volta. All'inizio del combattimento personaggi e mostri vengono aggiunti alla scena e poi in base alle proprie statistiche viene scelto l'ordine di attacco. L'ordine delle azioni (magia, attacco, difesa, uso di una pozione) veongo tracciate tramite una coda. Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente modificate per rendere il gioco fluibile e divertente.
+- Se il livello di amicizia è basso, l'attacco di Dlephini è randomico.
+- Se il livello di amicizia è alto, Delphini userà una spell per l'attacco combinato.
+
+Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente modificate per rendere il gioco fluibile e divertente.
 
 ![](Pictures\Gameplay\Combat_gameplay.png)
+
+*Game: Octopath traveler*
 
 ### Player rewards
 
@@ -560,15 +567,17 @@ The player's reward are obtainable in every fight. In the specific combat with C
 
 ![](Pictures/Gameplay/Rewards_gameplay.jpg)
 
-### Experience points
+### Experience points and friendship experience
 
-###############################
+As your character goes on Adventures and overcomes challenges, he or she gains experience, represented by Experience Points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**. 
+
+Per quanto rigurarda friendship experience, aumenta quando vengono portate con successo missioni che riguardono Delphini e Minerva, ma se le missioni sono state fallite il livello di amicizia diminuisce.
 
 ### Checkpoints 
 
 The ckeckpoints are save points that the player can return in the event of defeat in a battle. It is a statue of a Niffler whose operation is activated when the player offers the Galleons.
 
-I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta in denaro.
+I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta con una moneta particolare chiamanta "Niffler Galleon"
 
 ![](Pictures\Gameplay\Statue_niffler_gameplay.jpg)
 
@@ -588,7 +597,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
   Un recipente usato per preparare gli incantesimi. Costa 25 galeoni quello "portatile".
 
-  ![](Pictures/Gameplay/Items/Key/Cauldron_key.png)
+  ![](Pictures/Gameplay/Items/Cauldron_items.png)
 
   
 
@@ -598,48 +607,121 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
   - **Galleon**
   - **Sickle**
   - **Knut**
-
+- **Niffler Galleon**
+  
+  ![](Pictures/Gameplay/Items/Niffler_money_back_items.png)
+  
+  ![](Pictures/Gameplay/Items/Niffler_money_front_items.png)
+  
 - **Ingredients** 
-
-  - **Bezoar**
-
-  - **Standard ingredient** 
-
-  - **Unicorn horn**
-
-  - **Mistletoe berries**
-
-  - **Re'em blood**
-
-  - **Granian hair**
-
-  -  **Snowdrop** 
-
-  - **Bitter root**
-
-  - **Flobberworm Mucus**
-
-  - **Lavender**
-
-  - **Valerian Sprigs**
 
   - **Ashwinder egg**
 
-  - **Squill builb**
+    Ashwinder eggs are the eggs of the Ashwinder , a magical serpent  which is born from the embers of an unattended magical fire.
+
+    ![](Pictures/Gameplay/Items/ingredients/Ashwinder_eggs_ingredients.png)
+
+    
+
+  - **Bezoar**
+
+    A bezoar is a stone-like mass taken from the stomach of a goat, that acts as an antitode to most potions.
+
+    ![](Pictures/Gameplay/Items/Ingredients/Bezoar_ingredients.jpg)
+
+  - **Bitter root**
+
+    Bitter root (alternatively spelled **bitterroot**) is a plant that can be used as a potion ingredient.
+
+    ![](Pictures/Gameplay/Items/ingredients/Bitter_root_ingredients.png)
+
+  - **Flobberworm Mucus**
+
+    Flobberworm mucus, alternatively spelled **Flobberworm mucous** or **Flobber Mucus** for short, is the slimy green mucus exuded from the Flobberoworm, often used to thicken potions.
+
+    ![](Pictures/Gameplay/Items/ingredients/Flobberworm_mucus_ingredients.png)
+
+  - **Granian hair**
+
+    Granian hair is hair taken from a Granian Winged horse, which can be used as a potion ingredient.
+
+    ![](Pictures/Gameplay/Items/ingredients/Granian_hair_ingredients.png)
+
+  - **Lavender**
+
+    Lavender is a flower noted for its "beautiful colour" and "calming fragrance. It can be used as an ingredient in a variety of potions.
+
+    ![](Pictures/Gameplay/Items/Ingredients/Lavender_ingredients.png)
+
+  - **Mistletoe berries**
+
+    The berry of the mistletoe is small, white, and waxy. It is used as an ingredient in potion.
+
+    ![](Pictures/Gameplay/Items/ingredients/Mistletoe_berries_ingredients.png)
 
   - **Murtlap tentacle**
 
-  - **Tincture of thyme**
+    A Murtlap tentacle is a rare potion ingredient that can be obtained from the growth on the back of a Murtlap.
+
+    ![](Pictures/Gameplay/Items/ingredients/Murtlap_tentacle_ingredients.png)
 
   - **Occamy eggshell**
 
-  - **Powdered common rue**
+    The eggof the Occamy has a shell made of puresilvwe, which accounts for why it is so much sought after.
 
-  - **Cherries**
+    ![](Pictures/Gameplay/Items/ingredients/Occamy_egg_ingredients.png)
 
-  - **Chicken**
+  - **Re'em blood**
 
-  -  **Spiders**
+    Re'em blood is the blood of a Re'em, which gives the drinker immense strength for a short time. This in turn makes Re'em blood a highly desired substance, and a useful potion.
+
+    ![](Pictures/Gameplay/Items/ingredients/Reem_blood_ingredients.png)
+
+    
+
+  - **Rue**
+
+    Rue, also known as **common rue**, is a kind of evergreen shrubs native to the Mediterranean region, Macaronesia and southwest Asia, with a distinctive bitter taste.
+
+    ![](Pictures/Gameplay/Items/ingredients/Rue_ingredients.png)
+
+  - **Snowdrop** 
+
+    This plant can be used in potion-making.
+
+    ![](Pictures/Gameplay/Items/ingredients/Snowdrop_ingredients.png)
+
+  - **Standard ingredient** 
+
+    The Standard Ingredient is a herb, or mixture of dried herbs, with many magical applications and properties that is used as an ingredient in potion-making. 
+
+    ![](Pictures/Gameplay/Items/ingredients/Standard_ingredient_ingredients.png)
+
+  - **Squill builb**
+
+    The bulb of the squill is a structure that functions as food storage organs during the dormant state of the plant. Squill bulbs have potion-making properties and are best harvested just after the plants flower.
+
+    ![](Pictures/Gameplay/Items/ingredients/Squill_bulbs_ingredients.png)
+
+  - **Tincture of thyme**
+
+    Thyme is a common herb with culinary and medicinal uses. Thyme can be used as a potion ingredient.
+
+    ![](Pictures/Gameplay/Items/ingredients/tincture_of_thyme_ingredients.png)
+
+  - **Unicorn horn**
+
+    The horn of a unicorn had magical properties that made it a useful ingredient in potions.
+
+    ![](Pictures/Gameplay/Items/ingredients/Unicorn_horm_ingredients.png)
+
+  - **Valerian Sprigs**
+
+    Valerian is a plant with magical properties.
+
+    ![](Pictures/Gameplay/Items/Ingredients/Valerian_ingredients.png)
+
+    
 
     
 
@@ -671,54 +753,45 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     ![](Pictures/Gameplay/Items/Potions/Exstimulo_potions.png)
 
-  - **Drowsiness Draught** 
-
-    Provoca temporaneamente il sonno. (Lancio dei dadi per rendere la pozione piu forte?)
-
-    Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient 
-
-    ![](Pictures/Gameplay/Items/Potions/Drowsiness_draught_potions.jpg)
-
     
 
     - **Felix Felicis**
 
-    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa e aumenta le ricompense ottenute durante l'esplorazione.
+    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa, aumenta le ricompense ottenute durante l'esplorazione e da la possibilità di fare due attacchi, verrà scelto quello che farà più danno.
 
     Gli ingredienti di questa pozione sono: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
 
     
 
-  ![](Pictures/Gameplay/Items/Potions/Felix_felicis_potions.png)
-
+  
+![](Pictures/Gameplay/Items/Potions/Felix_felicis_potions.png)
   
 
   
 
-  - **Healing Potion**
-
-    Permette di ripristinare i propri punti salute. Questo tipo di pozione può variare la sua efficacia in base alla quantità di ingredienti usati per prepararla. Per sapere quanti punti salute sono stati recuperari, occore lanciare vari dadi e se si è sotto l'incantesimo della pozione Felix Feicis si ottiene l'effetto masismo.
-
-    | Rarity   | PH   | Luck |
+  
+- **Healing Potion**
+  
+  Permette di ripristinare i propri punti salute. Questo tipo di pozione può variare la sua efficacia in base alla quantità di ingredienti usati per prepararla. Per sapere quanti punti salute sono stati recuperari, occore lanciare vari dadi e se si è sotto l'incantesimo della pozione Felix Feicis si ottiene l'effetto masismo.
+  
+  | Rarity   | HP   | Luck |
     | -------- | ---- | ---- |
-    | Normal   | 2d4  | 8    |
+  | Normal   | 2d4  | 8    |
     | Medium   | 4d4  | 16   |
-    | Superior | 8d4  | 32   |
-
-    
-
+  | Superior | 8d4  | 32   |
   
-
+  
+  
+  
+  
   ![](Pictures/Gameplay/Items/Potions/Healing_potions.png)
-
   
-
 - **Invisibility Potion**
-
-  Quando si beve questa pozione, per 2 minuti si diventa invisibili. Mentre si è sotto l'effetto della pozione, tutto ciò che si trasporta o si indossa resta anch’esso invisibile. L’effetto ha termine qualora si attacca o si esegue un incantesimo.
-
-  Gli ingredienti di questa pozione sono: Cherries, Chicken, Spiders
-
+  
+L'effetto della pozione in combattimento dura per due turni mentre per l'esplorazione dura un minuto. Mentre si è sotto l'effetto della pozione, tutto ciò che si trasporta o si indossa resta anch’esso invisibile. L’effetto ha termine qualora si attacca, ci si trafroma in forma gatto o si esegue un incantesimo.
+  
+Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
+  
 ![](Pictures/Gameplay/Items/Potions/Invisibily_potions.png)
 
 
@@ -727,19 +800,17 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
 - **Book of Potions**
 
-  Una copia di questo libro costa due galeoni e contiene gli incantesimi base, il giocatore può apprendere nuovi incantesimi e inserirli nel proprio libro
+  Un quaderno costa due galeoni, il player quando apprende una nuova pozione e il suo funzionamento la scriverà nel suo quaderno.
 
-  ![](Pictures/Gameplay/Items/Collectibles/Book_potions_collectibles.png)
+  ![](Pictures/Gameplay/Items/Book_potions_items.png)
 
 ### **Weapons and Armor**
-
-###############################
 
 - **Wand**
 
   E' uno strumento magico con il quale il mago o la strega incanala i suoi poteri magici ed evocare incantesimi. Ogni bacchetta è composta da diversi materiali, generalmente legno, e da un nucleo che può provenire da diverse creature magiche.
 
-  ![](Pictures/Gameplay/Items/Weapons/Wand_weapons.jpg)
+  ![](Pictures/Gameplay/Items/Wand_items.jpg)
 
 \### **Wand upgrades**
 
