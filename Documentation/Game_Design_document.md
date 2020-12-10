@@ -619,7 +619,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Ashwinder eggs are the eggs of the Ashwinder , a magical serpent  which is born from the embers of an unattended magical fire.
 
-    ![](Pictures/Gameplay/Items/ingredients/Ashwinder_eggs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Ashwinder_eggs_ingredients.png)
 
     
 
@@ -633,19 +633,19 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Bitter root (alternatively spelled **bitterroot**) is a plant that can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/ingredients/Bitter_root_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Bitter_root_ingredients.png)
 
   - **Flobberworm Mucus**
 
     Flobberworm mucus, alternatively spelled **Flobberworm mucous** or **Flobber Mucus** for short, is the slimy green mucus exuded from the Flobberoworm, often used to thicken potions.
 
-    ![](Pictures/Gameplay/Items/ingredients/Flobberworm_mucus_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Flobberworm_mucus_ingredients.png)
 
   - **Granian hair**
 
     Granian hair is hair taken from a Granian Winged horse, which can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/ingredients/Granian_hair_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Granian_hair_ingredients.png)
 
   - **Lavender**
 
@@ -657,25 +657,25 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     The berry of the mistletoe is small, white, and waxy. It is used as an ingredient in potion.
 
-    ![](Pictures/Gameplay/Items/ingredients/Mistletoe_berries_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Mistletoe_berries_ingredients.png)
 
   - **Murtlap tentacle**
 
     A Murtlap tentacle is a rare potion ingredient that can be obtained from the growth on the back of a Murtlap.
 
-    ![](Pictures/Gameplay/Items/ingredients/Murtlap_tentacle_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Murtlap_tentacle_ingredients.png)
 
   - **Occamy eggshell**
 
     The eggof the Occamy has a shell made of puresilvwe, which accounts for why it is so much sought after.
 
-    ![](Pictures/Gameplay/Items/ingredients/Occamy_egg_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Occamy_egg_ingredients.png)
 
   - **Re'em blood**
 
     Re'em blood is the blood of a Re'em, which gives the drinker immense strength for a short time. This in turn makes Re'em blood a highly desired substance, and a useful potion.
 
-    ![](Pictures/Gameplay/Items/ingredients/Reem_blood_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Reem_blood_ingredients.png)
 
     
 
@@ -683,37 +683,37 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Rue, also known as **common rue**, is a kind of evergreen shrubs native to the Mediterranean region, Macaronesia and southwest Asia, with a distinctive bitter taste.
 
-    ![](Pictures/Gameplay/Items/ingredients/Rue_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Rue_ingredients.png)
 
   - **Snowdrop** 
 
     This plant can be used in potion-making.
 
-    ![](Pictures/Gameplay/Items/ingredients/Snowdrop_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Snowdrop_ingredients.png)
 
   - **Standard ingredient** 
 
     The Standard Ingredient is a herb, or mixture of dried herbs, with many magical applications and properties that is used as an ingredient in potion-making. 
 
-    ![](Pictures/Gameplay/Items/ingredients/Standard_ingredient_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Standard_ingredient_ingredients.png)
 
   - **Squill builb**
 
     The bulb of the squill is a structure that functions as food storage organs during the dormant state of the plant. Squill bulbs have potion-making properties and are best harvested just after the plants flower.
 
-    ![](Pictures/Gameplay/Items/ingredients/Squill_bulbs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Squill_bulbs_ingredients.png)
 
   - **Tincture of thyme**
 
     Thyme is a common herb with culinary and medicinal uses. Thyme can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/ingredients/tincture_of_thyme_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/tincture_of_thyme_ingredients.png)
 
   - **Unicorn horn**
 
     The horn of a unicorn had magical properties that made it a useful ingredient in potions.
 
-    ![](Pictures/Gameplay/Items/ingredients/Unicorn_horm_ingredients.png)
+    ![](Pictures/Gameplay/Items/Ingredients/Unicorn_horm_ingredients.png)
 
   - **Valerian Sprigs**
 
@@ -764,20 +764,21 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
     
 
   
+
 ![](Pictures/Gameplay/Items/Potions/Felix_felicis_potions.png)
-  
 
-  
 
-  
+
+
+
 - **Healing Potion**
   
   Permette di ripristinare i propri punti salute. Questo tipo di pozione può variare la sua efficacia in base alla quantità di ingredienti usati per prepararla. Per sapere quanti punti salute sono stati recuperari, occore lanciare vari dadi e se si è sotto l'incantesimo della pozione Felix Feicis si ottiene l'effetto masismo.
   
   | Rarity   | HP   | Luck |
-    | -------- | ---- | ---- |
+  | -------- | ---- | ---- |
   | Normal   | 2d4  | 8    |
-    | Medium   | 4d4  | 16   |
+  | Medium   | 4d4  | 16   |
   | Superior | 8d4  | 32   |
   
   
@@ -788,10 +789,11 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
   
 - **Invisibility Potion**
   
+
 L'effetto della pozione in combattimento dura per due turni mentre per l'esplorazione dura un minuto. Mentre si è sotto l'effetto della pozione, tutto ciò che si trasporta o si indossa resta anch’esso invisibile. L’effetto ha termine qualora si attacca, ci si trafroma in forma gatto o si esegue un incantesimo.
-  
+
 Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
-  
+
 ![](Pictures/Gameplay/Items/Potions/Invisibily_potions.png)
 
 
