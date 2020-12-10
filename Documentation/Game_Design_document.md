@@ -814,12 +814,47 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
 \### **Wand upgrades**
 
+The wand...
+
+Wood (base): (bonus def on hit/dmg from a type of spells)
+
+- Holly
+- Vine
+- Hornbeam
+- Hawthorn
+- Cherry
+- Brown
+- Cedar
+- Mahogany
+
+Cores: (bonus atk on hit/dmg for a type of spells)
+
+- Dragon Heart String 
+- Phoenix Feather
+- Unicorn Hair
+- Veela Hair
+- Rougarou Hair
+- Troll moustache Hair
+- Thestral Hair
+
+Amulet: (bonus stats and proficiency on skills)
+
+- Ruby
+- ...
+
 ###############################
 
 ### 6.2 Gameplay characters 
 ### Abilities
 ### Secondary Abilities
 ### Stats
+
+### Spells
+
+4 types:
+
+- 
+
 ### Skills 
 #### Skill colldowns
 #### Skill tree
