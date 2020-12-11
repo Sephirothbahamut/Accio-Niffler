@@ -544,7 +544,7 @@ Il player può interagire con gli altri NPC, in forma umana può parlare con gli
 
 ![Doom&Destiny](Pictures/Gameplay/Dialogue_gameplay.jpg)
 
-*Game: Doom & Destiy*
+*Game: Doom & Destiny*
 
 
 
@@ -552,7 +552,7 @@ Il player può interagire con gli altri NPC, in forma umana può parlare con gli
 
 Il sistema di combattimento è a turni con un solo cobattente autorizzato a compiere un'azione alla volta. All'inizio del combattimento personaggi e mostri vengono aggiunti alla scena e poi in base alle proprie statistiche viene scelto l'ordine di attacco. Quando nel party è presente anche Delphini il player può decidere solo l'azione di questo NPC, ovvero se attaccare oppure farle usare uno strumento. Quando il player decide l'azione di attacco per Delphini possono esserci due casi:
 
-- Se il livello di amicizia è basso, l'attacco di Dlephini è randomico.
+- Se il livello di amicizia è basso, l'attacco di Delphini è randomico.
 - Se il livello di amicizia è alto, Delphini userà una spell per l'attacco combinato.
 
 Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente modificate per rendere il gioco fluibile e divertente.
@@ -575,9 +575,7 @@ Per quanto rigurarda friendship experience, aumenta quando vengono portate con s
 
 ### Checkpoints 
 
-The ckeckpoints are save points that the player can return in the event of defeat in a battle. It is a statue of a Niffler whose operation is activated when the player offers the Galleons.
-
-I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta con una moneta particolare chiamanta "Niffler Galleon"
+I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta con una moneta particolare chiamanta "Niffler Galleon" (riferimento a item later)
 
 ![](Pictures\Gameplay\Statue_niffler_gameplay.jpg)
 
@@ -585,7 +583,9 @@ I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in 
 
 ### Saving 
 
-Il giocatore può salvare dalla schermata di Home e potrà iniziare a giocare nuovamente da quel punto. Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
+Il saving è automatico ogni volta che si dona alla statua del Niffler. Puoi comunque salvare in qualsiasi momento dal menu, ma al momento del ricaricamento del gioco, il giocatore si troverà di fronte all'ultima statua Niffler a cui ha donato.
+
+Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
 
 \### **items** 
 
@@ -595,7 +595,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
 - **Cauldron** 
 
-  Un recipente usato per preparare gli incantesimi. Costa 25 galeoni quello "portatile".
+  Un recipente usato per preparare gli incantesimi. Costa 25 galeoni quello "portatile". E' incantato e permette di essere rimpicciolito per portarlo in tasca comodamente e tirarlo fuori per creare pozioni al volo senza visitare l'aula di alchimia (pozioni).
 
   ![](Pictures/Gameplay/Items/Cauldron_items.png)
 
@@ -609,9 +609,9 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
   - **Knut**
 - **Niffler Galleon**
   
-  ![](Pictures/Gameplay/Items/Niffler_money_back_items.png)
+  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_back_items.png)
   
-  ![](Pictures/Gameplay/Items/Niffler_money_front_items.png)
+  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_front_items.png)
   
 - **Ingredients** 
 
@@ -619,7 +619,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Ashwinder eggs are the eggs of the Ashwinder , a magical serpent  which is born from the embers of an unattended magical fire.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Ashwinder_eggs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Ashwinder_eggs_ingredients.png)
 
     
 
@@ -627,55 +627,55 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     A bezoar is a stone-like mass taken from the stomach of a goat, that acts as an antitode to most potions.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Bezoar_ingredients.jpg)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bezoar_ingredients.jpg)
 
   - **Bitter root**
 
     Bitter root (alternatively spelled **bitterroot**) is a plant that can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Bitter_root_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bitter_root_ingredients.png)
 
   - **Flobberworm Mucus**
 
     Flobberworm mucus, alternatively spelled **Flobberworm mucous** or **Flobber Mucus** for short, is the slimy green mucus exuded from the Flobberoworm, often used to thicken potions.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Flobberworm_mucus_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Flobberworm_mucus_ingredients.png)
 
   - **Granian hair**
 
     Granian hair is hair taken from a Granian Winged horse, which can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Granian_hair_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Granian_hair_ingredients.png)
 
   - **Lavender**
 
     Lavender is a flower noted for its "beautiful colour" and "calming fragrance. It can be used as an ingredient in a variety of potions.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Lavender_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Lavender_ingredients.png)
 
   - **Mistletoe berries**
 
     The berry of the mistletoe is small, white, and waxy. It is used as an ingredient in potion.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Mistletoe_berries_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Mistletoe_berries_ingredients.png)
 
   - **Murtlap tentacle**
 
     A Murtlap tentacle is a rare potion ingredient that can be obtained from the growth on the back of a Murtlap.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Murtlap_tentacle_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Murtlap_tentacle_ingredients.png)
 
   - **Occamy eggshell**
 
     The eggof the Occamy has a shell made of puresilvwe, which accounts for why it is so much sought after.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Occamy_egg_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Occamy_egg_ingredients.png)
 
   - **Re'em blood**
 
     Re'em blood is the blood of a Re'em, which gives the drinker immense strength for a short time. This in turn makes Re'em blood a highly desired substance, and a useful potion.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Reem_blood_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Reem_blood_ingredients.png)
 
     
 
@@ -683,43 +683,43 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Rue, also known as **common rue**, is a kind of evergreen shrubs native to the Mediterranean region, Macaronesia and southwest Asia, with a distinctive bitter taste.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Rue_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Rue_ingredients.png)
 
   - **Snowdrop** 
 
     This plant can be used in potion-making.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Snowdrop_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Snowdrop_ingredients.png)
 
   - **Standard ingredient** 
 
     The Standard Ingredient is a herb, or mixture of dried herbs, with many magical applications and properties that is used as an ingredient in potion-making. 
 
-    ![](Pictures/Gameplay/Items/Ingredients/Standard_ingredient_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Standard_ingredient_ingredients.png)
 
   - **Squill builb**
 
     The bulb of the squill is a structure that functions as food storage organs during the dormant state of the plant. Squill bulbs have potion-making properties and are best harvested just after the plants flower.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Squill_bulbs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Squill_bulbs_ingredients.png)
 
   - **Tincture of thyme**
 
     Thyme is a common herb with culinary and medicinal uses. Thyme can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Ingredients/tincture_of_thyme_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/tincture_of_thyme_ingredients.png)
 
   - **Unicorn horn**
 
     The horn of a unicorn had magical properties that made it a useful ingredient in potions.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Unicorn_horm_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Unicorn_horm_ingredients.png)
 
   - **Valerian Sprigs**
 
     Valerian is a plant with magical properties.
 
-    ![](Pictures/Gameplay/Items/Ingredients/Valerian_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Valerian_ingredients.png)
 
     
 
@@ -729,7 +729,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
 - **Potions**
 
-  Le pozioni usante in battaglia, sono considerati come un attacco, ciò significa che quando il giocatore usa una pozione in quel turno non può attaccare.
+  Le pozioni usante in battaglia, sono considerati come una azione, ciò significa che quando il giocatore usa una pozione usa una azione.
 
   
 
@@ -741,7 +741,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     
 
-  ![](Pictures/Gameplay/Items/Potions/Antidote_common_poisons_potions.png)
+  ![](Pictures/Gameplay/Items/Consumables/Potions/Antidote_common_poisons_potions.png)
 
   
 
@@ -751,13 +751,13 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     Gli ingedienti di questa pozione sono: Re'em blood, Granian hair, Snowdrop and Bitter root
 
-    ![](Pictures/Gameplay/Items/Potions/Exstimulo_potions.png)
+    ![](Pictures/Gameplay/Items/Consumables/Potions/Exstimulo_potions.png)
 
     
 
     - **Felix Felicis**
 
-    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa, aumenta le ricompense ottenute durante l'esplorazione e da la possibilità di fare due attacchi, verrà scelto quello che farà più danno.
+    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa, aumenta le ricompense ottenute durante l'esplorazione e i tuoi attacchi saranno in vantaggio, verrà scelto quello che ha più probabilità di colpire.
 
     Gli ingredienti di questa pozione sono: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
 
@@ -765,7 +765,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
   
 
-![](Pictures/Gameplay/Items/Potions/Felix_felicis_potions.png)
+![](Pictures/Gameplay/Items/Consumables/Potions/Felix_felicis_potions.png)
 
 
 
@@ -794,7 +794,7 @@ L'effetto della pozione in combattimento dura per due turni mentre per l'esplora
 
 Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
 
-![](Pictures/Gameplay/Items/Potions/Invisibily_potions.png)
+![](Pictures/Gameplay/Items/Consumables/Potions/Invisibily_potions.png)
 
 
 
