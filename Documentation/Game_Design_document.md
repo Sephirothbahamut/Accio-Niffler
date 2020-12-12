@@ -487,6 +487,17 @@ If option B:
 | ------------------------------------------------------------ |
 | **Delphini**: I knew I could count on you. We must absolutely watch out for the mastiff, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory. I guess we have to follow their directions until they lose us. *~Now go, show me the path, and I shall be your shadow.*~ |
 
+| Dialogue 9                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
+| **Minerva**: \*meows angrily\*                               |
+| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
+
+Then Minerva has to go back to Gryffindor's dorm.
+
+A special bonus room contains one of the rare ingredients required for the Felix Felicis potion.
+
+#### Puzzle Mechanics
 Prefects won't be distinguishable from the caretaker from afar, as they all will wear a hood. Minerva can order Delphini to reach her by waving her tail or stop where she already is by keeping the tail still. Additionally she can distract the patrols to let Delphini move unnoticed.
 
 If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
@@ -495,23 +506,14 @@ If Delphini or Minerva (in human form) are caught by the caretaker, he will pers
 
 ![](Pictures/Level/Map_door_open_level.png)
 
-If Minerva is caught in her cat form by the caretaker, she must try to run or hide, as the caretaker will
- - the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
+If Minerva is seen in her cat form by the caretaker the other instances will be disabled and the caretaker starts following you until you go out of his field of view.
+If Minerva is caught the caretaker will
+- the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
 - the second time, hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over her animagus form. At the point, the mission fails with Minerva being dragged in her room, and the friendship level with Delphini decreasing.
 
-If Minerva is caught in cat form by a prefect he will be distracted, focusing only on her until he pats her head. During that time, Delphini can move unnoticed.
+If Minerva is caught in cat form by a prefect he will reach her and start petting her; during this time Minerva's cat-form points won't decrease and the prefect will be unable to see Delphini moving.
 
 If the mission succeeds, the friendship level with Delphini increases a lot.
-
-| Dialogue 9                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
-| **Minerva**: \*meows angrily\*                               |
-| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
-
-Minerva is then able to sneak into her dorm as a cat and the level ends.
-
-
 
 ## 6. Gameplay Mechanics 
 
