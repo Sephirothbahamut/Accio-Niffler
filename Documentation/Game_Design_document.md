@@ -573,6 +573,10 @@ As your character goes on Adventures and overcomes challenges, he or she gains e
 
 Per quanto rigurarda friendship experience, aumenta quando vengono portate con successo missioni che riguardono Delphini e Minerva, ma se le missioni sono state fallite il livello di amicizia diminuisce.
 
+### Gryffindor points
+
+I punti della casata si ottengono quando vengono svolti con successo i minigiochi, ma al contrario vengono tolti quando i minigiochi vengono falliti. Chi avrà più punti avrà la possibilità di vedere il castello addobbato con lo stemma della propia casata.
+
 ### Checkpoints 
 
 I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta con una moneta particolare chiamanta "Niffler Galleon" (riferimento a item later)
@@ -799,6 +803,12 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
 
 \### **Collectibles**
+
+- Book of Spells 
+
+  Un quaderno che costa due galeoni, il player grazie a questo quaderno tiene traccia di tutti gli incantesimi che apprende. 
+
+  ![](Pictures/Gameplay/Items/Book_spells_items.png)
 
 - **Book of Potions**
 
