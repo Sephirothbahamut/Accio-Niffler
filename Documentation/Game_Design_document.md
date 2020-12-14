@@ -976,8 +976,8 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
 #### Skill charts
 #### Special skill tree
 ### Friendship
-### Enemies 
-### Enemies chart 
+### Enemies chart
+### ![](Pictures/Gameplay/Enemies_chart_gameplay.JPG)
 
 ### 6.3 Combact mode
 ### roba
@@ -987,6 +987,12 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
 6.6 Delphini base stats
 
 ### 6.7 Cerberus mechanics 
+
+
+
+![](Pictures/Gameplay/Cerberus_exploration_mode_FSM_gameplay.png)
+
+![](Pictures/Gameplay/Cerberus_comand_mode_FSM_gameplay.png)
 
 # Level design section
 
