@@ -810,45 +810,87 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
 ### **Weapons and Armor**
 
-- **Wand**
+In Hogwarts, everything is based on wizardry and spells: for this reason the wand, together with protective jewelry, will play an important role in combat, enhancing the magical capabilities of our characters in different ways.
 
-  E' uno strumento magico con il quale il mago o la strega incanala i suoi poteri magici ed evocare incantesimi. Ogni bacchetta è composta da diversi materiali, generalmente legno, e da un nucleo che può provenire da diverse creature magiche.
+#### Wands
 
-  ![](Pictures/Gameplay/Items/Wand_items.jpg)
+The wand is the most important tool in a wizard's life: inner magical power is channeled through it and, by precise and swift movements, cast any kind of spell. Each wand is made of wood and contain an enchanted core, a special material usually coming from magical creatures.
 
-\### **Wand upgrades**
+![](Pictures/Gameplay/Items/Wand_items.jpg)
 
-The wand...
+There are several types of wand wood and cores, which will alter and enhance the capabilities of the wielder accordingly.
 
-Wood (base): (bonus def on hit/dmg from a type of spells)
+##### Wood
 
-- Holly
-- Vine
-- Hornbeam
-- Hawthorn
-- Cherry
-- Brown
-- Cedar
-- Mahogany
+- **Holly**
+  - Holly will boost **defensive** spells, naturally meant for casters who think that a good defense is the best offense. 
+- **Alder**
+  - Alder will boost **buff** spells, aiding mages who seek to help and empower others.
+- **Cedar**
+  - Cedar will boost **debuff** spells, perfect for wizards who prefer to weaken their enemies before striking.
+- **Cherry**
+  - Cherry will boost **attack** spells, favored by sorcerers who follow the rule "strike first, strike hard"
+- **Pine**
+  - Pine will boost **utility** spells, preferred by creative enchanters and out-of-the-box thinkers
 
-Cores: (bonus atk on hit/dmg for a type of spells)
+The **wood** will grant a bonus to its particular category of spells: 
 
-- Dragon Heart String 
-- Phoenix Feather
-- Unicorn Hair
-- Veela Hair
-- Rougarou Hair
-- Troll moustache Hair
-- Thestral Hair
+- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable). 
+- The bonus for Utility category will grant an extra spell slot for each spell level (usable only by Utility spells)
 
-Amulet: (bonus stats and proficiency on skills)
+##### Cores
 
-- Ruby
-- ...
+Cores will grant an unique bonus feat
 
-###############################
+- **Dragon Heartstring** (***Dual wielder***)
+  - You can equip a second wand in your holster. You get the bonus from the wood of that wand, but not from its core.
+- **Phoenix Feather** (***Alert***)
+  - Adds +5 to Initiative
+- **Unicorn Hair** (***Resilient***)
+  - Adds +1 in one ability and you gain proficiency in saving throws using this ability.
+- **Veela Hair** (***Healer***)
+  - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it. Max once per day on the same creature.
+- **Thestral Tail Hair** (***Lucky***)
+  - You can reroll one d20 or force to reroll an attack roll against you (3 times per day)
+
+#### Amulets
+
+Amulets will grant a bonus to the character ability scores. One can wear only an amulet at once of its choice.
+
+- **Amber**
+  - Adds +1 STR
+- **Jade**
+  - Adds +1 DEX
+- **Lapis**
+  - Adds +1 INT
+- **Paua**
+  - Adds +1 WIS
+- **Coral**
+  - Adds +1 CON
+- **Gold**
+  - Adds +1 CHA
+- **Onyx** (Rare)
+  - Adds +1 to all attributes
+
+#### Rings
+
+Rings will grant an unique bonus to the wearer. One can wear maximum two rings at once.
+
+- **Paua**
+  - Gives 1 additional spell slot, usable by any spell of any level
+- **Coral**
+  - Adds +8 HP
+- **Moonstone**
+  - Adds +2 CA when defending against spell attacks.
+- **Diamond**
+  - Adds +2 CA wen defending against physical attacks
 
 ### 6.2 Gameplay characters 
+
+
+
+
+
 ### Abilities
 ### Secondary Abilities
 ### Stats
