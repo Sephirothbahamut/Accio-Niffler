@@ -589,11 +589,11 @@ Il saving è automatico ogni volta che si dona alla statua del Niffler. Puoi com
 
 Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
 
-\### **items** 
+### Items
 
 Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono gli item consumabili servono per poter potenziare la propria bacchetta o creare posizioni, e poi ci sono gli item collezionabili come le foto, reperti rari o oggetti che possono servire al giocatore.
 
-\### **Key items** 
+#### Key items
 
 - **Cauldron** 
 
@@ -603,9 +603,10 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
   
 
- \### **Consumablres** 
+#### Consumables 
 
 - **Money:**
+  
   - **Galleon**
   - **Sickle**
   - **Knut**
@@ -727,7 +728,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     
 
-### Crafted
+#### Craftables
 
 - **Potions**
 
@@ -800,7 +801,7 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
 
 
-\### **Collectibles**
+#### **Collectibles**
 
 - **Book of Potions**
 
@@ -808,7 +809,7 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
   ![](Pictures/Gameplay/Items/Book_potions_items.png)
 
-### **Weapons and Armor**
+### Weapons and Armor
 
 In Hogwarts, everything is based on wizardry and spells: for this reason the wand, together with protective jewelry, will play an important role in combat, enhancing the magical capabilities of our characters in different ways.
 
@@ -823,14 +824,33 @@ There are several types of wand wood and cores, which will alter and enhance the
 ##### Wood
 
 - **Holly**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Holly_wood_icon.png)
+  
   - Holly will boost **defensive** spells, naturally meant for casters who think that a good defense is the best offense. 
+  
 - **Alder**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Alder_wood_icon.png)
+  
   - Alder will boost **buff** spells, aiding mages who seek to help and empower others.
+  
 - **Cedar**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cedar_wood_icon.png)
+  
   - Cedar will boost **debuff** spells, perfect for wizards who prefer to weaken their enemies before striking.
+  
 - **Cherry**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cherry_wood_icon.png)
+  
   - Cherry will boost **attack** spells, favored by sorcerers who follow the rule "strike first, strike hard"
+  
 - **Pine**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Pine_wood_icon.png)
+  
   - Pine will boost **utility** spells, preferred by creative enchanters and out-of-the-box thinkers
 
 The **wood** will grant a bonus to its particular category of spells: 
@@ -843,47 +863,86 @@ The **wood** will grant a bonus to its particular category of spells:
 Cores will grant an unique bonus feat
 
 - **Dragon Heartstring** (***Dual wielder***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Dragon_heartstring_icon.png)
+  
   - You can equip a second wand in your holster. You get the bonus from the wood of that wand, but not from its core.
+  
 - **Phoenix Feather** (***Alert***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Phoenix_feather_icon.png)
+  
   - Adds +5 to Initiative
+  
 - **Unicorn Hair** (***Resilient***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Unicorn_hair_icon.png)
+  
   - Adds +1 in one ability and you gain proficiency in saving throws using this ability.
+  
 - **Veela Hair** (***Healer***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Veela_hair_icon.png)
+  
   - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it. Max once per day on the same creature.
+  
 - **Thestral Tail Hair** (***Lucky***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Thestral_tail_hair_icon.png)
+  
   - You can reroll one d20 or force to reroll an attack roll against you (3 times per day)
 
 #### Amulets
 
 Amulets will grant a bonus to the character ability scores. One can wear only an amulet at once of its choice.
 
-- **Amber**
-  - Adds +1 STR
-- **Jade**
-  - Adds +1 DEX
-- **Lapis**
-  - Adds +1 INT
-- **Paua**
-  - Adds +1 WIS
-- **Coral**
-  - Adds +1 CON
-- **Gold**
-  - Adds +1 CHA
-- **Onyx** (Rare)
-  - Adds +1 to all attributes
+- **Amber**, adds +1 STR
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Amber_amulet_icon.png)
+
+- **Jade**, adds +1 DEX
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Jade_amulet_icon.png)
+
+- **Lapis**, adds +1 INT
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Lapis_amulet_icon.png)
+
+- **Paua**, adds +1 WIS
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Paua_amulet_icon.png)
+
+- **Coral**, adds +1 CON
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Coral_amulet_icon.png)
+
+- **Gold**, adds +1 CHA
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Gold_amulet_icon.png)
+
+- **Onyx** (Rare), adds +1 to all ability scores
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Onyx_amulet_icon.png)
 
 #### Rings
 
 Rings will grant an unique bonus to the wearer. One can wear maximum two rings at once.
 
-- **Paua**
-  - Gives 1 additional spell slot, usable by any spell of any level
-- **Coral**
-  - Adds +8 HP
-- **Moonstone**
-  - Adds +2 CA when defending against spell attacks.
-- **Diamond**
-  - Adds +2 CA wen defending against physical attacks
+- **Paua**, gives 1 additional spell slot, usable by any spell of any level
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Paua_ring_icon.png)
+
+- **Coral**, adds +8 HP
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Coral_ring_icon.png)
+
+- **Moonstone**, adds +2 CA when defending against spell attacks.
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Moonstone_ring_icon.png)
+
+- **Diamond**, adds +2 CA wen defending against physical attacks
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Diamond_ring_icon.png)
 
 ### 6.2 Gameplay characters 
 
