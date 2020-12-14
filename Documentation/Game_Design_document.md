@@ -487,6 +487,17 @@ If option B:
 | ------------------------------------------------------------ |
 | **Delphini**: I knew I could count on you. We must absolutely watch out for the mastiff, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory. I guess we have to follow their directions until they lose us. *~Now go, show me the path, and I shall be your shadow.*~ |
 
+| Dialogue 9                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
+| **Minerva**: \*meows angrily\*                               |
+| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
+
+Then Minerva has to go back to Gryffindor's dorm.
+
+A special bonus room contains one of the rare ingredients required for the Felix Felicis potion.
+
+#### Puzzle Mechanics
 Prefects won't be distinguishable from the caretaker from afar, as they all will wear a hood. Minerva can order Delphini to reach her by waving her tail or stop where she already is by keeping the tail still. Additionally she can distract the patrols to let Delphini move unnoticed.
 
 If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
@@ -495,23 +506,14 @@ If Delphini or Minerva (in human form) are caught by the caretaker, he will pers
 
 ![](Pictures/Level/Map_door_open_level.png)
 
-If Minerva is caught in her cat form by the caretaker, she must try to run or hide, as the caretaker will
- - the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
+If Minerva is seen in her cat form by the caretaker the other instances will be disabled and the caretaker starts following you until you go out of his field of view.
+If Minerva is caught the caretaker will
+- the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
 - the second time, hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over her animagus form. At the point, the mission fails with Minerva being dragged in her room, and the friendship level with Delphini decreasing.
 
-If Minerva is caught in cat form by a prefect he will be distracted, focusing only on her until he pats her head. During that time, Delphini can move unnoticed.
+If Minerva is caught in cat form by a prefect he will reach her and start petting her; during this time Minerva's cat-form points won't decrease and the prefect will be unable to see Delphini moving.
 
 If the mission succeeds, the friendship level with Delphini increases a lot.
-
-| Dialogue 9                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
-| **Minerva**: \*meows angrily\*                               |
-| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
-
-Minerva is then able to sneak into her dorm as a cat and the level ends.
-
-
 
 ## 6. Gameplay Mechanics 
 
@@ -591,11 +593,11 @@ Il saving è automatico ogni volta che si dona alla statua del Niffler. Puoi com
 
 Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
 
-\### **items** 
+### Items
 
 Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono gli item consumabili servono per poter potenziare la propria bacchetta o creare posizioni, e poi ci sono gli item collezionabili come le foto, reperti rari o oggetti che possono servire al giocatore.
 
-\### **Key items** 
+#### Key items
 
 - **Cauldron** 
 
@@ -605,9 +607,10 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
   
 
- \### **Consumablres** 
+#### Consumables 
 
 - **Money:**
+  
   - **Galleon**
   - **Sickle**
   - **Knut**
@@ -729,7 +732,7 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 
     
 
-### Crafted
+#### Craftables
 
 - **Potions**
 
@@ -802,7 +805,7 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
 
 
-\### **Collectibles**
+#### **Collectibles**
 
 - Book of Spells 
 
@@ -816,47 +819,147 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 
   ![](Pictures/Gameplay/Items/Book_potions_items.png)
 
-### **Weapons and Armor**
+### Weapons and Armor
 
-- **Wand**
+In Hogwarts, everything is based on wizardry and spells: for this reason the wand, together with protective jewelry, will play an important role in combat, enhancing the magical capabilities of our characters in different ways.
 
-  E' uno strumento magico con il quale il mago o la strega incanala i suoi poteri magici ed evocare incantesimi. Ogni bacchetta è composta da diversi materiali, generalmente legno, e da un nucleo che può provenire da diverse creature magiche.
+#### Wands
 
-  ![](Pictures/Gameplay/Items/Wand_items.jpg)
+The wand is the most important tool in a wizard's life: inner magical power is channeled through it and, by precise and swift movements, cast any kind of spell. Each wand is made of wood and contain an enchanted core, a special material usually coming from magical creatures.
 
-\### **Wand upgrades**
+![](Pictures/Gameplay/Items/Wand_items.jpg)
 
-The wand...
+There are several types of wand wood and cores, which will alter and enhance the capabilities of the wielder accordingly.
 
-Wood (base): (bonus def on hit/dmg from a type of spells)
+##### Wood
 
-- Holly
-- Vine
-- Hornbeam
-- Hawthorn
-- Cherry
-- Brown
-- Cedar
-- Mahogany
+- **Holly**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Holly_wood_icon.png)
+  
+  - Holly will boost **defensive** spells, naturally meant for casters who think that a good defense is the best offense. 
+  
+- **Alder**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Alder_wood_icon.png)
+  
+  - Alder will boost **buff** spells, aiding mages who seek to help and empower others.
+  
+- **Cedar**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cedar_wood_icon.png)
+  
+  - Cedar will boost **debuff** spells, perfect for wizards who prefer to weaken their enemies before striking.
+  
+- **Cherry**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cherry_wood_icon.png)
+  
+  - Cherry will boost **attack** spells, favored by sorcerers who follow the rule "strike first, strike hard"
+  
+- **Pine**
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Pine_wood_icon.png)
+  
+  - Pine will boost **utility** spells, preferred by creative enchanters and out-of-the-box thinkers
 
-Cores: (bonus atk on hit/dmg for a type of spells)
+The **wood** will grant a bonus to its particular category of spells: 
 
-- Dragon Heart String 
-- Phoenix Feather
-- Unicorn Hair
-- Veela Hair
-- Rougarou Hair
-- Troll moustache Hair
-- Thestral Hair
+- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable). 
+- The bonus for Utility category will grant an extra spell slot for each spell level (usable only by Utility spells)
 
-Amulet: (bonus stats and proficiency on skills)
+##### Cores
 
-- Ruby
-- ...
+Cores will grant an unique bonus feat
 
-###############################
+- **Dragon Heartstring** (***Dual wielder***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Dragon_heartstring_icon.png)
+  
+  - You can equip a second wand in your holster. You get the bonus from the wood of that wand, but not from its core.
+  
+- **Phoenix Feather** (***Alert***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Phoenix_feather_icon.png)
+  
+  - Adds +5 to Initiative
+  
+- **Unicorn Hair** (***Resilient***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Unicorn_hair_icon.png)
+  
+  - Adds +1 in one ability and you gain proficiency in saving throws using this ability.
+  
+- **Veela Hair** (***Healer***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Veela_hair_icon.png)
+  
+  - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it. Max once per day on the same creature.
+  
+- **Thestral Tail Hair** (***Lucky***)
+  
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Thestral_tail_hair_icon.png)
+  
+  - You can reroll one d20 or force to reroll an attack roll against you (3 times per day)
+
+#### Amulets
+
+Amulets will grant a bonus to the character ability scores. One can wear only an amulet at once of its choice.
+
+- **Amber**, adds +1 STR
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Amber_amulet_icon.png)
+
+- **Jade**, adds +1 DEX
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Jade_amulet_icon.png)
+
+- **Lapis**, adds +1 INT
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Lapis_amulet_icon.png)
+
+- **Paua**, adds +1 WIS
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Paua_amulet_icon.png)
+
+- **Coral**, adds +1 CON
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Coral_amulet_icon.png)
+
+- **Gold**, adds +1 CHA
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Gold_amulet_icon.png)
+
+- **Onyx** (Rare), adds +1 to all ability scores
+
+  ![](Pictures/Gameplay/Items/Wearables/Amulets/Onyx_amulet_icon.png)
+
+#### Rings
+
+Rings will grant an unique bonus to the wearer. One can wear maximum two rings at once.
+
+- **Paua**, gives 1 additional spell slot, usable by any spell of any level
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Paua_ring_icon.png)
+
+- **Coral**, adds +8 HP
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Coral_ring_icon.png)
+
+- **Moonstone**, adds +2 CA when defending against spell attacks.
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Moonstone_ring_icon.png)
+
+- **Diamond**, adds +2 CA wen defending against physical attacks
+
+  ![](Pictures/Gameplay/Items/Wearables/Rings/Diamond_ring_icon.png)
 
 ### 6.2 Gameplay characters 
+
+
+
+
+
 ### Abilities
 ### Secondary Abilities
 ### Stats
