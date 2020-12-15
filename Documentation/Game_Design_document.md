@@ -946,11 +946,11 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
 
   ![](Pictures/Gameplay/Items/Wearables/Rings/Coral_ring_icon.png)
 
-- **Moonstone**, adds +2 CA when defending against spell attacks.
+- **Moonstone**, adds +2 on CA and +2 on Saving Throws when defending against spell attacks.
 
   ![](Pictures/Gameplay/Items/Wearables/Rings/Moonstone_ring_icon.png)
 
-- **Diamond**, adds +2 CA wen defending against physical attacks
+- **Diamond**, adds +2 CA when defending against physical attacks
 
   ![](Pictures/Gameplay/Items/Wearables/Rings/Diamond_ring_icon.png)
 

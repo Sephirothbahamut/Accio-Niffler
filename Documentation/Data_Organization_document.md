@@ -203,10 +203,11 @@ List of types to identify files:
 - \_portrait
 - \_relmap
 - \_map
-- \_location
-- \_level
+- \_picture
 - \_document
 - \_logo
+- _sheet
+- _icon
 
 Each diagram or flowchart must be **paired** with its source that generated it.
 
