@@ -571,31 +571,36 @@ The player's reward are obtainable in every fight. In the specific combat with C
 
 ### Experience points and friendship experience
 
+//TODO *come complicarsi la vita:*
 As your character goes on Adventures and overcomes challenges, he or she gains experience, represented by Experience Points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**. 
+*come non complicarsela*
+Characters gain Experience Points by completing challenges, missions and minigames (lessons). When Experience Points reach a certain treshold, the Character's level rises.
 
-Per quanto rigurarda friendship experience, aumenta quando vengono portate con successo missioni che riguardono Delphini e Minerva, ma se le missioni sono state fallite il livello di amicizia diminuisce.
+Delphini has an stat in Frienship Points. These increase and decrease depending on the player's choices and successes in missions involving Delphini.
+//TODO *describe how delphini acts depending on friendship points*
 
 ### Gryffindor points
 
+//TODO *concept changed from*
 I punti della casata si ottengono quando vengono svolti con successo i minigiochi, ma al contrario vengono tolti quando i minigiochi vengono falliti. Chi avrà più punti avrà la possibilità di vedere il castello addobbato con lo stemma della propia casata.
+*to*
+When the player completes a task really well (perfect score in minigames, extremely good timing in timed tasks etcc) or when he fails terribly, some points are added to or removed from the player's House. Sometimes player choices can affect the points of other houses as well.
 
 ### Checkpoints 
 
-I checkpoints sono dei punti di salvataggio dove il giocatore può ritornare in caso di sconfitta in una battaglia. Si tratta di una statua di un Niffler il cui funzionamento si attiva quando il player fa un offerta con una moneta particolare chiamanta "Niffler Galleon" (riferimento a item later)
-
+Checkpoints are save points where the player can go back after a defeat. They appear as a Niffler statue which activates when the player makes an offer with a special coine called "Niffler Galleon".
 ![](Pictures\Gameplay\Statue_niffler_gameplay.jpg)
-
-
 
 ### Saving 
 
+Checkpoints also save the game. The player can still save at anytime through the main menu //TODO *come far bestemmiare i giocatori e farsi chiedere un rimborso completo più i danni morali* "ma al momento del ricaricamento del gioco, il giocatore si troverà di fronte all'ultima statua Niffler a cui ha donato."
 Il saving è automatico ogni volta che si dona alla statua del Niffler. Puoi comunque salvare in qualsiasi momento dal menu, ma al momento del ricaricamento del gioco, il giocatore si troverà di fronte all'ultima statua Niffler a cui ha donato.
 
-Quando il giocatore vuole salvare durante una battaglia il tasto di salvataggio è disabilitato ma si potrà mettere il gioco in pausa.
+During battles saving is disabled.
 
 ### Items
 
-Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono gli item consumabili servono per poter potenziare la propria bacchetta o creare posizioni, e poi ci sono gli item collezionabili come le foto, reperti rari o oggetti che possono servire al giocatore.
+There are various items in the game. Some consumables to empower your wand, and some collectables like photos, rares, and story-related items.
 
 #### Key items
 
@@ -735,52 +740,31 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
 #### Craftables
 
 - **Potions**
-
-  Le pozioni usante in battaglia, sono considerati come una azione, ciò significa che quando il giocatore usa una pozione usa una azione.
-
-  
+  Using a potion in battle requires an Action.
 
   - **Antidote common poisons**
-
-    Neutralizza i veleni comuni come morsi o punture di creature magiche. E' possibile usarla sia in battaglia e durante l'esplorazione.
-
-    Gli ingredienti di questa pozione sono: Bezoar, Standard ingredient, Unicorn horn and Mistletoe berries
-
-    
+  
+	Neutralizes poisonous effects from magical creatures. Can be used both in battle and outside.
+	Ingredients: Bezoar, Standard Ingredient, Unicorn Horn, Mistletoe Berries
 
   ![](Pictures/Gameplay/Items/Consumables/Potions/Antidote_common_poisons_potions.png)
 
-  
-
   - **Exstimulo Potion** 
 
-    Aumenta la potenza magica di un incantesimo lanciato dal giocatore. La pozione si attiverà al turno successivo e dura per quattro turni.
-
-    Gli ingedienti di questa pozione sono: Re'em blood, Granian hair, Snowdrop and Bitter root
+	Increases the power of spells casted in the next 4 turns.
+	Ingredients: Re'em blood, Granian hair, Snowdrop and Bitter root
 
     ![](Pictures/Gameplay/Items/Consumables/Potions/Exstimulo_potions.png)
 
-    
-
-    - **Felix Felicis**
-
-    Rende più fortunato chi la beve. Aumenta le ricompense quando si vince un combattimento, aumenta l'efficacia della pozione curativa, aumenta le ricompense ottenute durante l'esplorazione e i tuoi attacchi saranno in vantaggio, verrà scelto quello che ha più probabilità di colpire.
-
-    Gli ingredienti di questa pozione sono: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
-
-    
-
-  
+  - **Felix Felicis**
+	
+	Makes who drinks it extremely lucky. Combat rewards are increased, healing potions effect is increased, and all rolls are rolled with advantage.
+    Ingredients: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
 
 ![](Pictures/Gameplay/Items/Consumables/Potions/Felix_felicis_potions.png)
 
-
-
-
-
 - **Healing Potion**
-  
-  Permette di ripristinare i propri punti salute. Questo tipo di pozione può variare la sua efficacia in base alla quantità di ingredienti usati per prepararla. Per sapere quanti punti salute sono stati recuperari, occore lanciare vari dadi e se si è sotto l'incantesimo della pozione Felix Feicis si ottiene l'effetto masismo.
+  Recovers health points. This potion's effect varies based on the amount of ingredients used to prepare it. //TODO: how many ingredients define normal/medium/superior?
   
   | Rarity   | HP   | Luck |
   | -------- | ---- | ---- |
@@ -788,18 +772,12 @@ Ci sono diversi oggetti che si possono trovare all’interno del gioco. Ci sono 
   | Medium   | 4d4  | 16   |
   | Superior | 8d4  | 32   |
   
-  
-  
-  
-  
   ![](Pictures/Gameplay/Items/Potions/Healing_potions.png)
   
 - **Invisibility Potion**
   
-
-L'effetto della pozione in combattimento dura per due turni mentre per l'esplorazione dura un minuto. Mentre si è sotto l'effetto della pozione, tutto ciò che si trasporta o si indossa resta anch’esso invisibile. L’effetto ha termine qualora si attacca, ci si trafroma in forma gatto o si esegue un incantesimo.
-
-Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
+Makes the user invisible. In battle the potion lasts 3 turns, out of battle it lasts one minute. The potion affects the user and everything he's carrying; it terminates when the user attacks, casts a spell, or shifts form.
+Ingredients: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
 
 ![](Pictures/Gameplay/Items/Consumables/Potions/Invisibily_potions.png)
 
@@ -808,13 +786,14 @@ Gli ingredienti di questa pozione sono: Flobberworm Mucus, Lavender, Valerian Sp
 #### **Collectibles**
 
 - Book of Spells 
-
+	A book worth 2 galleons, is used to keep track of the learnt spells.
+	//TODO 2 galeoni wtf?
   Un quaderno che costa due galeoni, il player grazie a questo quaderno tiene traccia di tutti gli incantesimi che apprende. 
 
   ![](Pictures/Gameplay/Items/Book_spells_items.png)
 
 - **Book of Potions**
-
+	A book worth 2 galleons, is used to keep track of the learnt potion.
   Un quaderno costa due galeoni, il player quando apprende una nuova pozione e il suo funzionamento la scriverà nel suo quaderno.
 
   ![](Pictures/Gameplay/Items/Book_potions_items.png)
@@ -825,11 +804,11 @@ In Hogwarts, everything is based on wizardry and spells: for this reason the wan
 
 #### Wands
 
-The wand is the most important tool in a wizard's life: inner magical power is channeled through it and, by precise and swift movements, cast any kind of spell. Each wand is made of wood and contain an enchanted core, a special material usually coming from magical creatures.
+The wand is the most important tool in a wizard's life: inner magical power is channeled through it and it can cast any kind of spell. Each wand is made of wood and contains an enchanted core, a special material usually coming from magical creatures.
 
 ![](Pictures/Gameplay/Items/Wand_items.jpg)
 
-There are several types of wand wood and cores, which will alter and enhance the capabilities of the wielder accordingly.
+There are several types of wand wood and cores, which will alter and enhance the capabilities of the wielder.
 
 ##### Wood
 
@@ -865,8 +844,8 @@ There are several types of wand wood and cores, which will alter and enhance the
 
 The **wood** will grant a bonus to its particular category of spells: 
 
-- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable). 
-- The bonus for Utility category will grant an extra spell slot for each spell level (usable only by Utility spells)
+- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable). //TODO if not applicable it's worthless?
+- The bonus for Utility category will grant an extra spell slot reserved to Utility spells for each spell level the character has access to.
 
 ##### Cores
 
@@ -876,7 +855,7 @@ Cores will grant an unique bonus feat
   
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Dragon_heartstring_icon.png)
   
-  - You can equip a second wand in your holster. You get the bonus from the wood of that wand, but not from its core.
+  - You can equip a second wand. You get the bonus from the wood of that wand, but not from its core.
   
 - **Phoenix Feather** (***Alert***)
   
@@ -888,19 +867,19 @@ Cores will grant an unique bonus feat
   
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Unicorn_hair_icon.png)
   
-  - Adds +1 in one ability and you gain proficiency in saving throws using this ability.
+  - Adds +1 in one ability and you gain proficiency in saving throws using this ability. //TODO saving throws - abilities?
   
 - **Veela Hair** (***Healer***)
   
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Veela_hair_icon.png)
   
-  - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it. Max once per day on the same creature.
+  - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it; can't be used more than once per day on the same creature.
   
 - **Thestral Tail Hair** (***Lucky***)
   
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Thestral_tail_hair_icon.png)
   
-  - You can reroll one d20 or force to reroll an attack roll against you (3 times per day)
+  - You can reroll a d20 or force to reroll an attack roll against you. Can be used up to 3 times per day.
 
 #### Amulets
 
