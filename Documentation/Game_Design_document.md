@@ -571,20 +571,16 @@ The player's reward are obtainable in every fight. In the specific combat with C
 
 ### Experience points and friendship experience
 
-//TODO *come complicarsi la vita:*
-As your character goes on Adventures and overcomes challenges, he or she gains experience, represented by Experience Points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**. 
-*come non complicarsela*
-Characters gain Experience Points by completing challenges, missions and minigames (lessons). When Experience Points reach a certain treshold, the Character's level rises.
+Characters gain Experience Points by completing challenges, missions and minigames (lessons). When Experience Points reach a certain treshold, the Character's level rises. 
+Each level grants all the spells of that level which have already been seen during a lesson.
 
 Delphini has an stat in Frienship Points. These increase and decrease depending on the player's choices and successes in missions involving Delphini.
 //TODO *describe how delphini acts depending on friendship points*
 
 ### Gryffindor points
 
-//TODO *concept changed from*
-I punti della casata si ottengono quando vengono svolti con successo i minigiochi, ma al contrario vengono tolti quando i minigiochi vengono falliti. Chi avrà più punti avrà la possibilità di vedere il castello addobbato con lo stemma della propia casata.
-*to*
 When the player completes a task really well (perfect score in minigames, extremely good timing in timed tasks etcc) or when he fails terribly, some points are added to or removed from the player's House. Sometimes player choices can affect the points of other houses as well.
+Grants an achievement on the chosen game platform.
 
 ### Checkpoints 
 
@@ -593,10 +589,7 @@ Checkpoints are save points where the player can go back after a defeat. They ap
 
 ### Saving 
 
-Checkpoints also save the game. The player can still save at anytime through the main menu //TODO *come far bestemmiare i giocatori e farsi chiedere un rimborso completo più i danni morali* "ma al momento del ricaricamento del gioco, il giocatore si troverà di fronte all'ultima statua Niffler a cui ha donato."
-Il saving è automatico ogni volta che si dona alla statua del Niffler. Puoi comunque salvare in qualsiasi momento dal menu, ma al momento del ricaricamento del gioco, il giocatore si troverà di fronte all'ultima statua Niffler a cui ha donato.
-
-During battles saving is disabled.
+Checkpoints also save the game. The player can still save at anytime through the main menu. During battles saving is disabled.
 
 ### Items
 
@@ -610,7 +603,15 @@ There are various items in the game. Some consumables to empower your wand, and 
 
   ![](Pictures/Gameplay/Items/Cauldron_items.png)
 
-  
+- Book of Spells 
+	A book worth 2 galleons, is used to keep track of the learnt spells.
+
+  ![](Pictures/Gameplay/Items/Book_spells_items.png)
+
+- **Book of Potions**
+	A book worth 2 galleons, is used to keep track of the learnt potion.
+
+  ![](Pictures/Gameplay/Items/Book_potions_items.png)
 
 #### Consumables 
 
@@ -766,11 +767,11 @@ There are various items in the game. Some consumables to empower your wand, and 
 - **Healing Potion**
   Recovers health points. This potion's effect varies based on the amount of ingredients used to prepare it. //TODO: how many ingredients define normal/medium/superior?
   
-  | Rarity   | HP   | Luck |
-  | -------- | ---- | ---- |
-  | Normal   | 2d4  | 8    |
-  | Medium   | 4d4  | 16   |
-  | Superior | 8d4  | 32   |
+  | Rarity   | HP   | Luck | # |
+  | -------- | ---- | ---- | - |
+  | Normal   | 2d4  | 8    | 1 |
+  | Medium   | 4d4  | 16   | 3 |
+  | Superior | 8d4  | 32   | 5 |
   
   ![](Pictures/Gameplay/Items/Potions/Healing_potions.png)
   
@@ -784,19 +785,6 @@ Ingredients: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
 
 
 #### **Collectibles**
-
-- Book of Spells 
-	A book worth 2 galleons, is used to keep track of the learnt spells.
-	//TODO 2 galeoni wtf?
-  Un quaderno che costa due galeoni, il player grazie a questo quaderno tiene traccia di tutti gli incantesimi che apprende. 
-
-  ![](Pictures/Gameplay/Items/Book_spells_items.png)
-
-- **Book of Potions**
-	A book worth 2 galleons, is used to keep track of the learnt potion.
-  Un quaderno costa due galeoni, il player quando apprende una nuova pozione e il suo funzionamento la scriverà nel suo quaderno.
-
-  ![](Pictures/Gameplay/Items/Book_potions_items.png)
 
 ### Weapons and Armor
 
@@ -844,7 +832,7 @@ There are several types of wand wood and cores, which will alter and enhance the
 
 The **wood** will grant a bonus to its particular category of spells: 
 
-- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable). //TODO if not applicable it's worthless?
+- The bonus for non-Utility category will make spells of that category cast as 1 level higher (if applicable).
 - The bonus for Utility category will grant an extra spell slot reserved to Utility spells for each spell level the character has access to.
 
 ##### Cores
@@ -867,7 +855,7 @@ Cores will grant an unique bonus feat
   
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Unicorn_hair_icon.png)
   
-  - Adds +1 in one ability and you gain proficiency in saving throws using this ability. //TODO saving throws - abilities?
+  - Adds +1 in one ability score and you gain proficiency in saving throws using that ability. 
   
 - **Veela Hair** (***Healer***)
   
@@ -945,9 +933,7 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
 
 ### Spells
 
-4 types:
-
-- 
+ 
 
 ### Skills 
 #### Skill colldowns
