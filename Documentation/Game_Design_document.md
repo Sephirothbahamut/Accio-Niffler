@@ -10,7 +10,7 @@
 
   | **What**                                     | **When**    | **Who**                  |
   | -------------------------------------------- | ----------- | ------------------------ |
-  | Document  created                            | 16/10/ 2020 | Michael                  |
+  | Document created                             | 16/10/ 2020 | Michael                  |
   | Added High  concept                          | 16/10/2020  | Giuliana                 |
   | Added DOD                                    | 18/10/2020  | Michael                  |
   | Added settings                               | 18/10/ 2020 | Giuliana                 |
@@ -40,14 +40,14 @@
 
 ## 1. High concept and themes
 
-### 1.1 High concept
+### High concept
 
 "The dark lady awaknes" is a 2D-Rpg single player game. The game is set in the Hogwarts's school and its surroundings. The story revolves around Minerva McGonagall, a young promising witch studying hard to become a master of Transfiguration. During her seventh year, she will become friends with a peculiar student, Delphini Lestrange, whose life seems to be wrapped in mystery until her arrival at Hogwarts. Delphini's true goal, which Minerva is unaware of, is to find a promising student in order to help her father Tom Riddle win the First Wizarding War, hoping that will prevent the death of her parents.
 Minerva will be shaken when her dear friend Myrtle is found dead in the girls' bathroom, with no suspect. With a void in her heart overwhelmed by sorrow and grief, she cries for help: Delphini and the professor Albus Dumbledore come to her aid in order to discover the truth and find the culprit. However, there was bad blood between Dumbledore and Delphini, since her very arrival at Hogwarts, leading to distrust amongst each other.
 Minerva is forced to choose who to believe and discover the truth behind the crime through player's choices: you can take sides with Delphini or with Dumbledore
 
 
-### 1.2 Themes
+### Themes
 - Friendship is powerful
   - Bonding with others is essential in order to overcome great obstacles and grow in one's life. In our case, the relationship between Minerva and Delphini can make the difference between the safety or the early demise of the Wizarding World as we know it.
 - Question everything
@@ -59,11 +59,11 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 
 ## 2. Game world & settings
 
-### 2.1 World Diagram
+### World Diagram
 
 ![](Pictures/Maps/World_diagram.png)
 
-### 2.2 World Maps
+### World Maps
 <img src="Pictures/Maps/Diagon_Alley_map.png" alt="Maps" style="zoom: 25%;" />
 
 <img src="Pictures/Maps/Hogwarts_map.png" alt="Hogwarts_Map" style="zoom:33%;" />
@@ -77,30 +77,30 @@ Minerva is forced to choose who to believe and discover the truth behind the cri
 | 5        | Hogsmeade        |
 | 6        | Diagon Alley     |
 
-## 2.3 Settings
+### Settings
 
 ####  Hogwarts
 
 Hogwarts is a School of Witchcraft and Wizardry. It islocated in the Highlands Scots, in the United Kingdom. Surrounded by the Black Lake and the Forbidden Forest, the school's castle has its roots at the end of 10th century, which grandeur made it one of the most important schools in the magical world. On the outside, many towers connect the various rooms and halls. In addition, it is surrounded by a green meadow, a Quidditch pitch and other annexed structures, such as the "Keeper of the keys" hut, game and grounds and the green house, where Herbology lessons are held. On the inside, there are seven floors that host classrooms, four dormitories, one Great Hall, and other mysterious rooms. The school has 142 stairways, which each of them seems to have a life of its own as they have fun to change their position and cause poor students to go astray. It is wrapped by many magical protections, making it invisible to muggles: only wizards can live in this castle. 
 
-<img src="Pictures/Locations/Hogwarts/Castle_location.png" alt="Hogwarts" style="zoom: 33%;" />
+<img src="Pictures/Locations/Hogwarts/Castle_picture.png" alt="Hogwarts" style="zoom: 33%;" />
 
 #### Great Hall
 
 The Great Hall is a common place, where all students, the professors, the principal and other staff members of the school gather for the various meals of the day. Furthermore, it acts as a study room, leisure room and ceremonies room. It is composed by four large tables placed vertically, one for each of the houses present in the school, and one large table placed horizontally for the professors and the principal. The Hall is illuminated by thousands of candles that make it cozy and warm for the students. On the ceiling, there is a sky created by a magic spell which mimics the outside. For each recurrence, the hall is embellished, like for Christmas or the Yule Ball. 
 
-<img src="Pictures/Locations/Hogwarts/Great_Hall_location.jpg" alt="GreatHall" style="zoom: 67%;" />
+<img src="Pictures/Locations/Hogwarts/Great_Hall_picture.jpg" alt="GreatHall" style="zoom: 67%;" />
 
 #### Classrooms
 
 The classrooms are in various areas of the castle, both inside and outside. The lessons are usually divided into theoretical and practical: the classrooms hosting the practical lessons were embellished according to the topic of the lesson. A great example is Potion-Mixing Room, which has for each bench a cauldron where the student can mix up concoctions and other recipes. The classrooms outside the castle are the Herbology greenhouse and the Quidditch pitch for the Flying Broom lessons.
 
-<img src="Pictures/Locations/Hogwarts/Classrooms_location.jpg" alt="Classrooms" style="zoom: 67%;" />
+<img src="Pictures/Locations/Hogwarts/Classrooms_picture.jpg" alt="Classrooms" style="zoom: 67%;" />
 
 
 #### Dormitories
 
-The students are sorted in one of the four Houses present at Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, Slytherin. The Dormitories serve as bedrooms and as a meeting place for students from the same house. Each House is different from the other, in colors and values, and this is represented through decorations and through the students' uniforms.  The dormitories are entrusted to a professor and two prefects (two last year students chosen to enforce the rules within their house). The bedrooms are shared for multiple students with four-poster beds, except for the prefects who have their own private room.<img src="Pictures/Locations/Hogwarts/Dorms_location.png" alt="Dorms" style="zoom: 25%;" />
+The students are sorted in one of the four Houses present at Hogwarts: Gryffindor, Hufflepuff, Ravenclaw, Slytherin. The Dormitories serve as bedrooms and as a meeting place for students from the same house. Each House is different from the other, in colors and values, and this is represented through decorations and through the students' uniforms.  The dormitories are entrusted to a professor and two prefects (two last year students chosen to enforce the rules within their house). The bedrooms are shared for multiple students with four-poster beds, except for the prefects who have their own private room.<img src="Pictures/Locations/Hogwarts/Dorms_picture.png" alt="Dorms" style="zoom: 25%;" />
 
 
 
@@ -108,41 +108,41 @@ The students are sorted in one of the four Houses present at Hogwarts: Gryffindo
 
 A huge pitch where students can play Quidditch and train themselves. It is oval in shape and is about 165 meters long by 60 meters wide. At each side there are three goal points of different heights, while below there is a sand area used to soften the falls of the goalkeepers. The surface of the pitch is usually grass, but in some cases, it can be sand or even water. There are several towers for spectators.
 
-<img src="Pictures/Locations/Hogwarts/Quidditch_Field_location.jpg" alt="QuidditchField" style="zoom:33%;" />
+<img src="Pictures/Locations/Hogwarts/Quidditch_Field_picture.jpg" alt="QuidditchField" style="zoom:33%;" />
 
 #### Chambers of Secrets
 
 It's a secret room under the Hogwarts foundation. The entrance is in the girls' bathroom on the second floor and requires saying a secret word in parseltongue for the secret passage to open up. The room is gloomy and dark and has a long corridor where statues in the shape of a snake's head are placed on the sides. In the center stands a colossal statue by Salazar Slytherin, the ancestor and founder of the Slytherin house. 
 
-<img src="Pictures/Locations/Hogwarts/Chamber_Secrets_location.png" alt="ChambersSecrets" style="zoom:33%;" />
+<img src="Pictures/Locations/Hogwarts/Chamber_Secrets_picture.png" alt="ChambersSecrets" style="zoom:33%;" />
 
 #### Forbidden Forest
 
 It is a large woodland that surrounds part of the castle. It is an area that holds many secret and dangerous wild creatures, such as werewolves, but also beneficial ones, like unicorns. It is also home to many villages, such as the centaur one who take care of the woods. The Forbidden Forest, however, is still considered a place that houses dark entities: as a matter of fact, at night it is impractical to walk in the forest, as if the trees hold inside all the darkness. Even during the day it is very difficult to walk along the path. It is for all these reasons that students are usually denied access to it.
 
-<img src="Pictures/Locations/Hogwarts/Forbidden_Forest_location.jpg" alt="GreatHall" style="zoom: 33%;" />
+<img src="Pictures/Locations/Hogwarts/Forbidden_Forest_picture.jpg" alt="GreatHall" style="zoom: 33%;" />
 
 #### Black Lake
 
 A large obscure lake located south of the castle. It is home to various magical sea creatures such as giant squids, mermaids and many more. The seabed temperature is very low, making it a favorable place for algae and other underwater vegetation. Venturing too deep is dangerous since many were attacked and trapped by merpeople.
 
-<img src="Pictures/Locations/Hogwarts/Black_Lake_location.jpg" alt="Black Lake" style="zoom: 67%;" />
+<img src="Pictures/Locations/Hogwarts/Black_Lake_picture.jpg" alt="Black Lake" style="zoom: 67%;" />
 
 #### Hogsmeade
 
 Picturesque little village near Hogwarts, inhabited only by wizards. Students can usually frequent it during holidays or weekends; they are easily attracted to this village because there are numerous entertainment places, such as pubs, shops. The most famous are The Three Broomsticks or the Zonko's jokes and tricks shop. It is also the terminal station of the Hogwarts Express. 
 
-<img src="Pictures/Locations/Hogsmeade_location.jpg" alt="Hogsmeade" style="zoom: 67%;" />
+<img src="Pictures/Locations/Hogsmeade_picture.jpg" alt="Hogsmeade" style="zoom: 67%;" />
 
 #### Diagon Alley
 
 It's a magical side-street accessible from the muggle city London. To enter Diagon Alley, you need to give a tap on the right bricks of the wall behind Leakey Cauldron, which will move and reveal the entrance to the street. It can also be accessed via Flying Dust or dematerialization. The magic street has various important magical shops, such as Ollivander's Wand store.
 
-<img src="Pictures/Locations/DiagonAlley_location.jpg" alt="DiagonAlley" style="zoom: 67%;" />
+<img src="Pictures/Locations/DiagonAlley_picture.jpg" alt="DiagonAlley" style="zoom: 67%;" />
 
 ##  3. Game story
 
-### 3.1 Synopsis
+### Synopsis
 
 #### Introduction
 Years after the Battle of Hogwarts, Delphini Lestrange meets her stepfather, who convinces her to embark in a mission into the past in order to save her family. She goes back thanks to a gifted timeturner and meets Minerva.
@@ -160,7 +160,7 @@ Tom Riddle accuses Hagrid of keeping in secret the monster who caused all the de
 Minerva and Delphini reach Dumbledore's office, either to confront him (Minerva trusts Delphini), tell him the truth (Minerva trusts Dumbledore, Delphini's friendship is strong), or fight each other (Delphini's friendship is weak).
 
 
-### 3.2 Story
+### Story
 
 #### Background
 Few years after the Battle of Hogwarts Delphini Lestrange is visited by her step-father Rodolphus Lestrange, who escaped from Azkaban to meet her and reveal that she was Voldemort's daughter.
@@ -193,18 +193,18 @@ At that point Minerva had to make a choice:
 - **side with Dumbledore; her relationship with Delphini is weak**
 	- Delphini will follow Minerva to Dumbledore's office pretending to be on her side, only to suddenly attack them both together with Riddle as soon as he walked past the door behind them.
 
-### 3.4 Story flowchart
+### Story flowchart
 ![Story flowchart](Pictures/Story/Story_flowchart.png)
 
-## 4. Goals outline
+## 4. Levels and goals outline
 
-1. **A quick refresher (tutorial)** [Hogwarts]
+1. **A quick refresher (tutorial)** *[Hogwarts]*
    1. Reach the common hall
    2. Search for your friend Myrtle
    3. Help her revise for her next exam
       1. Practice common spells
       2. Look up on the books for basic potions and its ingredients
-2. ***A friend in need*** [Black Lake]
+2. **A friend in need** *[Black Lake]*
    1. Reach the Black Lake shore to unwind a bit after all that study
    2. Approach the screaming girl
    3. Save Myrtle from the mermaid!
@@ -213,21 +213,21 @@ At that point Minerva had to make a choice:
       3. Reach the cave for clues
       4. Release Myrtle and fight the mermaid
    4. Bring Myrtle back to the infirmary
-3. **Classes (minigames), exploration, shopping** [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
+3. **Classes (minigames), exploration, shopping** *[Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]*
    1. Follow mandatory Transfiguration and Quidditch classes
-4. **A night in the woods** [Forbidden Forest]
+4. **A night in the woods** *[Forbidden Forest]*
    1. Sneak past the professors and the prefects to get out the castle
    2. Meet up with Delphini and reach the Forbidden Forest
    3. Practice with her new spells
    4. Fight the enraged centaurs on the way back
-5. **Preparing for greatness** [Hogwarts]
+5. **Preparing for greatness** *[Hogwarts]*
    1. Meet with Dumbledore in his office
    2. Scout for ingredients
       1. Get a mandrake leaf from the Herbology Lab
       2. Get a teaspoon of "unscathed" dew
       3. Get a chrysalis of a Death's-head Hawk Moth
-6. **Classes (minigames), exploration, shopping** [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
-7. **A cat-call**  [Hogwarts]
+6. **Classes (minigames), exploration, shopping** *[Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]*
+7. **A cat-call**  *[Forbidden Forest, Hogwarts]*
    1. Complete the Animagus ritual in the Forbidden Forest
       1. Wait for the storm to begin
       2. Recite the incantation
@@ -236,17 +236,17 @@ At that point Minerva had to make a choice:
       1. Steal keys from the caretaker
       2. Sneak past the caretaker and the prefects
       3. (Optional) Help Delphini to return to her dorm unseen
-8. **A ghastly moan** - **classes (minigames), exploration, shopping**  [Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]
+8. **A ghastly moan** - **classes (minigames), exploration, shopping**  *[Hogwarts, Quidditch Pitch, Hogsmeade, Diagon Alley]*
    1. (Optional) Attend to the Quidditch tournament
    2. Look for Myrtle in the bathrooms in cat form to surprise her
       1. Escape and avoid the mysterious shadow
    3. Inform Dumbledore and Delphini of the incident
-9. **Gnawing uncertainty** [Hogwarts]
+9. **Gnawing uncertainty** *[Hogwarts]*
    1. Investigate the bathrooms with Delphini for clues
    2. Confront Dumbledore on what happened to Hagrid
    3. Gather information on him with Delphini
    4. Discuss with Delphini
-10. **The last stand** [Dumbledore's office, Hogwarts]
+10. **The last stand** *[Dumbledore's office, Hogwarts]*
        1. Confront Dumbledore with the found clues
        2. Choose to believe Dumbledore or Delphini
 
@@ -386,142 +386,11 @@ She was born in a rather normal muggle family, discovering in time about her mag
 
 ![](Pictures/Characters/Relationship_maps/Myrtle_relmap.png)
 
-
-# Level Script
-
-#### A cat-call
-The sun is setting, and a storm is raging: the perfect climate to complete the Animagus ritual. Minerva and Delphini had reached the Forbidden Forest, a peaceful and isolated enough place for that purpose. Minerva casts the final spell, pronouncing increasingly loudly "Amato Animo Animato Animagus", with the wand pointing at her heart.
-
-Finally, Minerva drinks the potion.
-
-![Minerva_cat](Pictures/Level/Minerva_cat_level.jpg)
-
-| Dialogue 1                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: I can't believe it! It really worked!          |
-| **Minerva**: *Meow*                                          |
-| **Delphini**: Aww... would you look at this cute cat! I guess I've never seen this "soft side" of yours, Minerva! |
-Delphini outbursts in laughter, and looks at Minerva trying to get used to her new shape. She tries climbing on trees, jumping around the forest, to finally come back in her human form.
-
-| Dialogue 2                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: Alright then, what does it feel like to be a furball? |
-| **Minerva**: Oh come on! \*laughs\* If *anything*, as a cat I won't be forced to reply at your nonsensical provocations. |
-| **Delphini**: As if, I'm fully aware you can't live without my Irish irony; and you know that too. |
-| **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
-The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
-
-![](Pictures/Level/Cerberus_level.jpg)
-
-Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. While fighting, Delphini suddenly remembers the weak point of the three-headed dog: a particular melody can be played in order to put the beast to sleep, making quick work of it.
-
-In the end, they manage to defeat the Cerberus, either by putting it to sleep or by making him faint with other spells; the battle, however, took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
-
-They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by the caretaker or by the prefects.
-
-| Dialogue 3                                                   |
-| ------------------------------------------------------------ |
-| **Minerva:** It's too late! It's already closed!             |
-| **Delphini:** As if we didn't know it! Move, I'll show you how it's done! |
-
-Delphini tries to cast the Alohomora spell, but the spell is deflected by a counter charm (the Anti-Alohomora charm).
-
-![Door_closed](Pictures/Level/Door_closed_level.png)
-
-
-
-| Dialogue 4                                                   |
-| ------------------------------------------------------------ |
-| **Minerva**: Parbleu! We're in danger, we must find a way to get in without being discovered... Think Minerva, think... |
-| **Delphini**: Uhm... what about using your newly acquired powers to turn yourself into a cat and get in through the window? You should be able to open the door for me from the inside. |
-| **Minerva**: That's a good idea but... I've just got started with the basics, I'm not confident I can keep that form for long enough... |
-| **Delphini**: Let's hope it's enough. And please, for goodness' sake don't get caught! Be careful! |
-Minerva nods, as she gets as close as possible to the entrance, and jumps while shifting to her cat form, ready to go through the window.
-
-(Stamina-based puzzle)
-
-Now Minerva in her cat form is inside the castle; she must take the backdoor's key from the caretaker. A stamina bar lets the player understand how long Minerva can stay in her cat form. When the stamina bar reaches zero, she turns back into her human form, hence must seek for an hiding spot to wait for the bar to recharge.
-
-There are various corridors, some of which are dead-ends. Once the caretaker is found, Minerva must approach him in her cat form and try stealing the keys.
-
-![](Pictures/Level/Map_door_close_level.png)
-
-| Dialogue 5                                                   |
-| ------------------------------------------------------------ |
-| **Caretaker**: What a cute kitten... What are you doing here, are you lost? |
-| **Minerva**: *Nya*                                           |
-| **Caretaker**: You shouldn't wander around her-              |
-
-As soon as Minerva is close enough, she jumps on the caretaker's head, disorienting him for a bit, and steals the keys from his belt in the commotion.
-
-| Dialogue 6                                   |
-| -------------------------------------------- |
-| **Caretaker**: Come back you sneaky niffler! |
-
-The caretaker is stunned for a bit so he shouldn't be a threat for now. Minerva can now open the door and let Delphini in.
-
-![door_close](Pictures/Level/Door_key_level.png)
-
-| Dialogue 7                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: Finally you've done it! Did you find some milk on the way back? Maybe, a wool ball to play with? |
-| **Minerva**: What? No, well... *casually*... I've found these keys, so here we are! |
-| **Delphini**: Now we must head back to the dormitories. Have you noticed anyone besides the caretaker? |
-| **Minerva**: So far nothing more than a mastiff furiously seeking for a black, cute little kitten, if you get what I mean. \*winks\*​​ |
-| **Delphini**: Would you help me head back to my dormitory? *Unnoticed*, of course. |
-
-Minerva has two options:
-
-| Options                                                      |
-| ------------------------------------------------------------ |
-| **Option A**: "I'm not sure I can maintain my cat form long enough... I think we'll be safer if we just split here and head directly to our respective dormitories." |
-| **Option B**: "Of course I will, you shouldn't even have asked! I'll let you know when the path is clear and you can reach me." |
-
-Option A leads to an extremely easier level, as Minerva has to slip through the patrols as in the previous part; however this choice drastically decreases the friendship level with Delphini.
-Option B leads to a longer and harder level, as Minerva has to first guide Delphini through the patrols up to Slytherin's dormitory, and then head back to her own one. If the player succeeds, the friendship level with Delphini increases.
-
-
-If option B:
-
-| Dialogue 8                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: I knew I could count on you. We must absolutely watch out for the mastiff, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory. I guess we have to follow their directions until they lose us. *~Now go, show me the path, and I shall be your shadow.*~ |
-
-| Dialogue 9                                                   |
-| ------------------------------------------------------------ |
-| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
-| **Minerva**: \*meows angrily\*                               |
-| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
-
-Then Minerva has to go back to Gryffindor's dorm.
-
-A special bonus room contains one of the rare ingredients required for the Felix Felicis potion.
-
-#### Puzzle Mechanics
-Prefects won't be distinguishable from the caretaker from afar, as they all will wear a hood. Minerva can order Delphini to reach her by waving her tail or stop where she already is by keeping the tail still. Additionally she can distract the patrols to let Delphini move unnoticed.
-
-If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
-
-If Delphini or Minerva (in human form) are caught by the caretaker, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
-
-![](Pictures/Level/Map_door_open_level.png)
-
-If Minerva is seen in her cat form by the caretaker the other instances will be disabled and the caretaker starts following you until you go out of his field of view.
-If Minerva is caught the caretaker will
-- the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
-- the second time, hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over her animagus form. At the point, the mission fails with Minerva being dragged in her room, and the friendship level with Delphini decreasing.
-
-If Minerva is caught in cat form by a prefect he will reach her and start petting her; during this time Minerva's cat-form points won't decrease and the prefect will be unable to see Delphini moving.
-
-If the mission succeeds, the friendship level with Delphini increases a lot.
-
-## 6. Gameplay Mechanics 
+## 6. Gameplay Elements
 
 In this section we will see in more detail all the aspect that make this video games unique in its genre. The game is a 2D single player third person game, the player will play with the character of Minerva, both in her human form and in "cat" form. The combat is turn-based and the formulation of the player's stats are based on the D&D rules.
 
 In questa sezione vedremo più nel dettaglio tutti gli aspetti che rendono questo videogioco unico nel suo genere. Il videogioco è un RPG 2D in terza persona, il giocatore  giocherà con il personaggio di Minerva, sia in forma umana che in forma "gatto". Il combattimento è a turni e la formulazione delle statistiche del player sono basate sulle regole di D&D 
-
-### 6.1 Gameplay elements 
 
 ### Exploration mode
 
@@ -544,11 +413,9 @@ Il player è libero di muoversi nella mappa sia in forma gatto che umana. Se nel
 
 Il player può interagire con gli altri NPC, in forma umana può parlare con gli NPC, i quali possono fare battute, discorsi senza senso oppure degli indovinelli, in fomra gatto può farsi accarezzare.
 
-![Doom&Destiny](Pictures/Gameplay/Dialogue_gameplay.jpg)
+![Doom&Destiny](Pictures/Gameplay/Dialogue_picture.jpg)
 
 *Game: Doom & Destiny*
-
-
 
 ### Combat mode
 
@@ -559,7 +426,7 @@ Il sistema di combattimento è a turni con un solo cobattente autorizzato a comp
 
 Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente modificate per rendere il gioco fluibile e divertente.
 
-![](Pictures\Gameplay\Combat_gameplay.png)
+![](Pictures\Gameplay\Combat_picture.png)
 
 *Game: Octopath traveler*
 
@@ -567,7 +434,7 @@ Il combattimento inoltre è in stile D&D, ma le regole sono state leggermente mo
 
 The player's reward are obtainable in every fight. In the specific combat with Cerberus the player can get: 60 Galleon, 80 Sickle and 100 Knut
 
-![](Pictures/Gameplay/Rewards_gameplay.jpg)
+![](Pictures/Gameplay/Rewards_picture.jpg)
 
 ### Experience points and friendship experience
 
@@ -585,7 +452,7 @@ Grants an achievement on the chosen game platform.
 ### Checkpoints 
 
 Checkpoints are save points where the player can go back after a defeat. They appear as a Niffler statue which activates when the player makes an offer with a special coine called "Niffler Galleon".
-![](Pictures\Gameplay\Statue_niffler_gameplay.jpg)
+![](Pictures\Gameplay\Statue_niffler_picture.jpg)
 
 ### Saving 
 
@@ -601,38 +468,39 @@ There are various items in the game. Some consumables to empower your wand, and 
 
   Un recipente usato per preparare gli incantesimi. Costa 25 galeoni quello "portatile". E' incantato e permette di essere rimpicciolito per portarlo in tasca comodamente e tirarlo fuori per creare pozioni al volo senza visitare l'aula di alchimia (pozioni).
 
-  ![](Pictures/Gameplay/Items/Cauldron_items.png)
+  ![](Pictures/Gameplay/Items/Cauldron_picture.png)
 
 - Book of Spells 
-	A book worth 2 galleons, is used to keep track of the learnt spells.
+  A book worth 2 galleons, is used to keep track of the learnt spells.
 
-  ![](Pictures/Gameplay/Items/Book_spells_items.png)
+  ![](Pictures/Gameplay/Items/Book_spells_picture.png)
 
 - **Book of Potions**
-	A book worth 2 galleons, is used to keep track of the learnt potion.
+  A book worth 2 galleons, is used to keep track of the learnt potion.
 
-  ![](Pictures/Gameplay/Items/Book_potions_items.png)
+  ![](Pictures/Gameplay/Items/Book_potions_picture.png)
 
 #### Consumables 
 
 - **Money:**
-  
+
   - **Galleon**
   - **Sickle**
   - **Knut**
+
 - **Niffler Galleon**
-  
-  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_back_items.png)
-  
-  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_front_items.png)
-  
+
+  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_back_picture.png)
+
+  ![](Pictures/Gameplay/Items/Consumables/Niffler_money_front_picture.png)
+
 - **Ingredients** 
 
   - **Ashwinder egg**
 
     Ashwinder eggs are the eggs of the Ashwinder , a magical serpent  which is born from the embers of an unattended magical fire.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Ashwinder_eggs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Ashwinder_eggs_picture.png)
 
     
 
@@ -640,55 +508,55 @@ There are various items in the game. Some consumables to empower your wand, and 
 
     A bezoar is a stone-like mass taken from the stomach of a goat, that acts as an antitode to most potions.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bezoar_ingredients.jpg)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bezoar_picture.jpg)
 
   - **Bitter root**
 
     Bitter root (alternatively spelled **bitterroot**) is a plant that can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bitter_root_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Bitter_root_picture.png)
 
   - **Flobberworm Mucus**
 
     Flobberworm mucus, alternatively spelled **Flobberworm mucous** or **Flobber Mucus** for short, is the slimy green mucus exuded from the Flobberoworm, often used to thicken potions.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Flobberworm_mucus_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Flobberworm_mucus_picture.png)
 
   - **Granian hair**
 
     Granian hair is hair taken from a Granian Winged horse, which can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Granian_hair_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Granian_hair_picture.png)
 
   - **Lavender**
 
     Lavender is a flower noted for its "beautiful colour" and "calming fragrance. It can be used as an ingredient in a variety of potions.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Lavender_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Lavender_picture.png)
 
   - **Mistletoe berries**
 
     The berry of the mistletoe is small, white, and waxy. It is used as an ingredient in potion.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Mistletoe_berries_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Mistletoe_berries_picture.png)
 
   - **Murtlap tentacle**
 
     A Murtlap tentacle is a rare potion ingredient that can be obtained from the growth on the back of a Murtlap.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Murtlap_tentacle_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Murtlap_tentacle_picture.png)
 
   - **Occamy eggshell**
 
     The eggof the Occamy has a shell made of puresilvwe, which accounts for why it is so much sought after.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Occamy_egg_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Occamy_egg_picture.png)
 
   - **Re'em blood**
 
     Re'em blood is the blood of a Re'em, which gives the drinker immense strength for a short time. This in turn makes Re'em blood a highly desired substance, and a useful potion.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Reem_blood_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Reem_blood_picture.png)
 
     
 
@@ -696,37 +564,37 @@ There are various items in the game. Some consumables to empower your wand, and 
 
     Rue, also known as **common rue**, is a kind of evergreen shrubs native to the Mediterranean region, Macaronesia and southwest Asia, with a distinctive bitter taste.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Rue_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Rue_picture.png)
 
   - **Snowdrop** 
 
     This plant can be used in potion-making.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Snowdrop_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Snowdrop_picture.png)
 
   - **Standard ingredient** 
 
     The Standard Ingredient is a herb, or mixture of dried herbs, with many magical applications and properties that is used as an ingredient in potion-making. 
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Standard_ingredient_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Standard_ingredient_picture.png)
 
   - **Squill builb**
 
     The bulb of the squill is a structure that functions as food storage organs during the dormant state of the plant. Squill bulbs have potion-making properties and are best harvested just after the plants flower.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Squill_bulbs_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Squill_bulbs_picture.png)
 
   - **Tincture of thyme**
 
     Thyme is a common herb with culinary and medicinal uses. Thyme can be used as a potion ingredient.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/tincture_of_thyme_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Tincture_of_thyme_picture.png)
 
   - **Unicorn horn**
 
     The horn of a unicorn had magical properties that made it a useful ingredient in potions.
 
-    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Unicorn_horm_ingredients.png)
+    ![](Pictures/Gameplay/Items/Consumables/Ingredients/Unicorn_horn_picture.png)
 
   - **Valerian Sprigs**
 
@@ -744,47 +612,49 @@ There are various items in the game. Some consumables to empower your wand, and 
   Using a potion in battle requires an Action.
 
   - **Antidote common poisons**
-  
-	Neutralizes poisonous effects from magical creatures. Can be used both in battle and outside.
-	Ingredients: Bezoar, Standard Ingredient, Unicorn Horn, Mistletoe Berries
 
-  ![](Pictures/Gameplay/Items/Consumables/Potions/Antidote_common_poisons_potions.png)
+  Neutralizes poisonous effects from magical creatures. Can be used both in battle and outside.
+  Ingredients: Bezoar, Standard Ingredient, Unicorn Horn, Mistletoe Berries
+
+  ![](Pictures/Gameplay/Items/Consumables/Potions/Antidote_potion_picture.png)
 
   - **Exstimulo Potion** 
 
-	Increases the power of spells casted in the next 4 turns.
-	Ingredients: Re'em blood, Granian hair, Snowdrop and Bitter root
+  Increases the power of spells casted in the next 4 turns.
+  Ingredients: Re'em blood, Granian hair, Snowdrop and Bitter root
 
-    ![](Pictures/Gameplay/Items/Consumables/Potions/Exstimulo_potions.png)
+    ![](Pictures/Gameplay/Items/Consumables/Potions/Exstimulo_potion_picture.png)
 
   - **Felix Felicis**
-	
-	Makes who drinks it extremely lucky. Combat rewards are increased, healing potions effect is increased, and all rolls are rolled with advantage.
+
+  Makes who drinks it extremely lucky. Combat rewards are increased, healing potions effect is increased, and all rolls are rolled with advantage.
     Ingredients: Ashwinder egg, Squill builb, Murtlap tentacle, Tincture of thyme, Occamy eggshell, Powdered common rue.
 
-![](Pictures/Gameplay/Items/Consumables/Potions/Felix_felicis_potions.png)
+![](Pictures/Gameplay/Items/Consumables/Potions/Felix_felicis_potion_picture.png)
 
 - **Healing Potion**
   Recovers health points. This potion's effect varies based on the amount of ingredients used to prepare it. //TODO: how many ingredients define normal/medium/superior?
-  
-  | Rarity   | HP   | Luck | # |
-  | -------- | ---- | ---- | - |
-  | Normal   | 2d4  | 8    | 1 |
-  | Medium   | 4d4  | 16   | 3 |
-  | Superior | 8d4  | 32   | 5 |
-  
-  ![](Pictures/Gameplay/Items/Potions/Healing_potions.png)
-  
+
+  | Rarity   | HP   | Luck | #    |
+  | -------- | ---- | ---- | ---- |
+  | Normal   | 2d4  | 8    | 1    |
+  | Medium   | 4d4  | 16   | 3    |
+  | Superior | 8d4  | 32   | 5    |
+
+  ![](Pictures/Gameplay/Items/Consumables/Potions/Healing_potions.png)
+
 - **Invisibility Potion**
-  
+
 Makes the user invisible. In battle the potion lasts 3 turns, out of battle it lasts one minute. The potion affects the user and everything he's carrying; it terminates when the user attacks, casts a spell, or shifts form.
 Ingredients: Flobberworm Mucus, Lavender, Valerian Sprigs, Standard ingredient
 
-![](Pictures/Gameplay/Items/Consumables/Potions/Invisibily_potions.png)
+![](Pictures/Gameplay/Items/Consumables/Potions/Invisibility_potion_picture.png)
 
 
 
 #### **Collectibles**
+
+....
 
 ### Weapons and Armor
 
@@ -794,40 +664,40 @@ In Hogwarts, everything is based on wizardry and spells: for this reason the wan
 
 The wand is the most important tool in a wizard's life: inner magical power is channeled through it and it can cast any kind of spell. Each wand is made of wood and contains an enchanted core, a special material usually coming from magical creatures.
 
-![](Pictures/Gameplay/Items/Wand_items.jpg)
+![](Pictures/Gameplay/Items/Wand_picture.jpg)
 
 There are several types of wand wood and cores, which will alter and enhance the capabilities of the wielder.
 
 ##### Wood
 
 - **Holly**
-  
-  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Holly_wood_icon.png)
-  
+
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Holly_wood_picture.png)
+
   - Holly will boost **defensive** spells, naturally meant for casters who think that a good defense is the best offense. 
-  
+
 - **Alder**
-  
-  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Alder_wood_icon.png)
-  
+
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Alder_wood_picture.png)
+
   - Alder will boost **buff** spells, aiding mages who seek to help and empower others.
-  
+
 - **Cedar**
-  
-  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cedar_wood_icon.png)
-  
+
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cedar_wood_picture.png)
+
   - Cedar will boost **debuff** spells, perfect for wizards who prefer to weaken their enemies before striking.
-  
+
 - **Cherry**
-  
-  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cherry_wood_icon.png)
-  
+
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Cherry_wood_picture.png)
+
   - Cherry will boost **attack** spells, favored by sorcerers who follow the rule "strike first, strike hard"
-  
+
 - **Pine**
-  
-  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Pine_wood_icon.png)
-  
+
+  ![](Pictures/Gameplay/Items/Wearables/Wand/Wood/Pine_wood_picture.png)
+
   - Pine will boost **utility** spells, preferred by creative enchanters and out-of-the-box thinkers
 
 The **wood** will grant a bonus to its particular category of spells: 
@@ -840,33 +710,33 @@ The **wood** will grant a bonus to its particular category of spells:
 Cores will grant an unique bonus feat
 
 - **Dragon Heartstring** (***Dual wielder***)
-  
+
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Dragon_heartstring_icon.png)
-  
+
   - You can equip a second wand. You get the bonus from the wood of that wand, but not from its core.
-  
+
 - **Phoenix Feather** (***Alert***)
-  
+
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Phoenix_feather_icon.png)
-  
+
   - Adds +5 to Initiative
-  
+
 - **Unicorn Hair** (***Resilient***)
-  
+
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Unicorn_hair_icon.png)
-  
+
   - Adds +1 in one ability score and you gain proficiency in saving throws using that ability. 
-  
+
 - **Veela Hair** (***Healer***)
-  
+
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Veela_hair_icon.png)
-  
+
   - You can stabilize a creature and restore it to 1 hp, or restore [1d6+4+its number of Hit Dice] hp to it; can't be used more than once per day on the same creature.
-  
+
 - **Thestral Tail Hair** (***Lucky***)
-  
+
   ![](Pictures/Gameplay/Items/Wearables/Wand/Cores/Thestral_tail_hair_icon.png)
-  
+
   - You can reroll a d20 or force to reroll an attack roll against you. Can be used up to 3 times per day.
 
 #### Amulets
@@ -928,7 +798,9 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
 
 
 ### Abilities
+
 ### Secondary Abilities
+
 ### Stats
 
 ### Spells
@@ -936,30 +808,194 @@ Rings will grant an unique bonus to the wearer. One can wear maximum two rings a
  
 
 ### Skills 
+
 #### Skill colldowns
+
 #### Skill tree
+
 #### Skill charts
+
 #### Special skill tree
+
 ### Friendship
+
 ### Enemies chart
-### ![](Pictures/Gameplay/Enemies_chart_gameplay.JPG)
+
+![](Pictures/Gameplay/Enemies_chart.jpg)
 
 ### 6.3 Combact mode
+
 ### roba
 
 ### 6.5 Minerva base stats
 
-6.6 Delphini base stats
+### 6.6 Delphini base stats
 
 ### 6.7 Cerberus mechanics 
 
 
 
-![](Pictures/Gameplay/Cerberus_exploration_mode_FSM_gameplay.png)
+![](Pictures/Gameplay/FSM/Cerberus_exploration_FSM.png)
 
-![](Pictures/Gameplay/Cerberus_comand_mode_FSM_gameplay.png)
+![](Pictures/Gameplay/FSM/Cerberus_battle_FSM.png)
 
-# Level design section
+# Level Design Section : "A cat-call"
+
+In this section, we're going to describe in detail the seventh level of our game, named "A cat-call". 
+
+## Level world
+
+### Forbidden forest
+
+The level is set in two different areas of the world: firstly, Minerva and Delphini go into the **Forbidden Forest** to complete the Animagus ritual together. 
+
+The place is a thick forest, gloom in the day and even darker in the night. It could seem a quiet and calm place, but it hosts many dangerous creatures and inhabitants, as well as uncovered and, perhaps, wondrous secrets.
+
+![](Pictures/Level/World/Forbidden_forest_picture.png)
+
+The creaky and crumpled trees, with their convoluted and gnarly branches, give an eerie feeling when paired with the *buzz* and *creaks* of various insects that dwell inside of them.
+
+It is no mystery why this area was prohibited to normal students: yet, some of them still wander inside of it for sheer curiosity or in search for unturned, concealed secrets.
+
+### Hogwarts' backdoor
+
+![](Pictures/Level/World/Hogwarts_courtyard_picture.jpg)
+
+After that, they need to return to **Hogwarts** because the night is falling, especially they will sneak into the **castle's backdoor** and try to reach their **own House dormitory**.
+
+![](Pictures/Level/World/Night_corridor_picture.jpg)
+
+At night, the two protagonists will try to slip through the corridors of the medieval castle, trying to evade the prefects and the caretaker patrolling them.
+
+![](Pictures/Level/World/Hogwarts_staircase_picture.jpg)
+
+## Level Script
+
+The sun is setting, and a storm is raging: the perfect climate to complete the Animagus ritual. Minerva and Delphini had reached the Forbidden Forest, a peaceful and isolated enough place for that purpose. Minerva casts the final spell, pronouncing increasingly loudly "Amato Animo Animato Animagus", with the wand pointing at her heart.
+
+Finally, Minerva drinks the potion.
+
+![Minerva_cat](Pictures/Level/Script/Minerva_cat_picture.jpg)
+
+| Dialogue 1                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: I can't believe it! It really worked!          |
+| **Minerva**: *Meow*                                          |
+| **Delphini**: Aww... would you look at this cute cat! I guess I've never seen this "soft side" of yours, Minerva! |
+Delphini outbursts in laughter, and looks at Minerva trying to get used to her new shape. She tries climbing on trees, jumping around the forest, to finally come back in her human form.
+
+| Dialogue 2                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: Alright then, what does it feel like to be a furball? |
+| **Minerva**: Oh come on! \*laughs\* If *anything*, as a cat I won't be forced to reply at your nonsensical provocations. |
+| **Delphini**: As if, I'm fully aware you can't live without my Irish irony; and you know that too. |
+| **Minerva**: You'd be surprised... Anyways, it's getting late, we should head back to the castle before it's night-time. |
+The girls follow the path that goes back to the castle, until as they're about to leave the borders of the Forest, they're ambushed by a vicious three-headed dog, a Cerberus!
+
+![](Pictures/Level/Script/Cerberus_picture.jpg)
+
+Quickly Minerva and Delphini prepare to fight it, wand in hand. Minerva tries to make her best use of spells and transfigurations, while Delphini tries to combine her spells with Minerva's. While fighting, Delphini suddenly remembers the weak point of the three-headed dog: a particular melody can be played in order to put the beast to sleep, making quick work of it.
+
+In the end, they manage to defeat the Cerberus, either by putting it to sleep or by making him faint with other spells; the battle, however, took longer than expected: it's too late to get back in the Castle through the main gate, as the students are expected to not leave it during the night.
+
+They rush up to the back entrance of the castle, where they discuss a plan to proceed without being caught by the caretaker or by the prefects.
+
+| Dialogue 3                                                   |
+| ------------------------------------------------------------ |
+| **Minerva:** It's too late! It's already closed!             |
+| **Delphini:** As if we didn't know it! Move, I'll show you how it's done! |
+
+Delphini tries to cast the Alohomora spell, but the spell is deflected by a counter charm (the Anti-Alohomora charm).
+
+![Door_closed](Pictures/Level/Script/Door_closed_picture.png)
+
+
+
+| Dialogue 4                                                   |
+| ------------------------------------------------------------ |
+| **Minerva**: Parbleu! We're in danger, we must find a way to get in without being discovered... Think Minerva, think... |
+| **Delphini**: Uhm... what about using your newly acquired powers to turn yourself into a cat and get in through the window? You should be able to open the door for me from the inside. |
+| **Minerva**: That's a good idea but... I've just got started with the basics, I'm not confident I can keep that form for long enough... |
+| **Delphini**: Let's hope it's enough. And please, for goodness' sake don't get caught! Be careful! |
+Minerva nods, as she gets as close as possible to the entrance, and jumps while shifting to her cat form, ready to go through the window.
+
+(Stamina-based puzzle)
+
+Now Minerva in her cat form is inside the castle; she must take the backdoor's key from the caretaker. A stamina bar lets the player understand how long Minerva can stay in her cat form. When the stamina bar reaches zero, she turns back into her human form, hence must seek for an hiding spot to wait for the bar to recharge.
+
+There are various corridors, some of which are dead-ends. Once the caretaker is found, Minerva must approach him in her cat form and try stealing the keys.
+
+![](Pictures/Level/Script/Map_door_close_picture.png)
+
+| Dialogue 5                                                   |
+| ------------------------------------------------------------ |
+| **Caretaker**: What a cute kitten... What are you doing here, are you lost? |
+| **Minerva**: *Nya*                                           |
+| **Caretaker**: You shouldn't wander around her-              |
+
+As soon as Minerva is close enough, she jumps on the caretaker's head, disorienting him for a bit, and steals the keys from his belt in the commotion.
+
+| Dialogue 6                                   |
+| -------------------------------------------- |
+| **Caretaker**: Come back you sneaky niffler! |
+
+The caretaker is stunned for a bit so he shouldn't be a threat for now. Minerva can now open the door and let Delphini in.
+
+![door_close](Pictures/Level/Script/Door_key_picture.png)
+
+| Dialogue 7                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: Finally you've done it! Did you find some milk on the way back? Maybe, a wool ball to play with? |
+| **Minerva**: What? No, well... *casually*... I've found these keys, so here we are! |
+| **Delphini**: Now we must head back to the dormitories. Have you noticed anyone besides the caretaker? |
+| **Minerva**: So far nothing more than a mastiff furiously seeking for a black, cute little kitten, if you get what I mean. \*winks\*​​ |
+| **Delphini**: Would you help me head back to my dormitory? *Unnoticed*, of course. |
+
+Minerva has two options:
+
+| Options                                                      |
+| ------------------------------------------------------------ |
+| **Option A**: "I'm not sure I can maintain my cat form long enough... I think we'll be safer if we just split here and head directly to our respective dormitories." |
+| **Option B**: "Of course I will, you shouldn't even have asked! I'll let you know when the path is clear and you can reach me." |
+
+Option A leads to an extremely easier level, as Minerva has to slip through the patrols as in the previous part; however this choice drastically decreases the friendship level with Delphini.
+Option B leads to a longer and harder level, as Minerva has to first guide Delphini through the patrols up to Slytherin's dormitory, and then head back to her own one. If the player succeeds, the friendship level with Delphini increases.
+
+
+If option B:
+
+| Dialogue 8                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: I knew I could count on you. We must absolutely watch out for the mastiff, if he finds us it's over. We should avoid the prefects too, but I doubt they'll do anything more than directing us to the dormitory. I guess we have to follow their directions until they lose us. *~Now go, show me the path, and I shall be your shadow.*~ |
+
+| Dialogue 9                                                   |
+| ------------------------------------------------------------ |
+| **Delphini**: You're good as a cat, are you sure you plan on keep studying magic? \*laughs\* |
+| **Minerva**: \*meows angrily\*                               |
+| **Delphini**: Geez, there's no need to take it personally... Thanks for the help, and good luck on the way back. See you tomorrow, *furball!* |
+
+Then Minerva has to go back to Gryffindor's dorm.
+
+A special bonus room contains one of the rare ingredients required for the Felix Felicis potion.
+
+#### Puzzle Mechanics
+Prefects won't be distinguishable from the caretaker from afar, as they all will wear a hood. Minerva can order Delphini to reach her by waving her tail or stop where she already is by keeping the tail still. Additionally she can distract the patrols to let Delphini move unnoticed.
+
+If Delphini or Minerva (in human form) are caught by a prefect, he will force them to take different directions to each other's dormitories, proceeding until they're both out of the prefect's line of sight. That way Minerva will have to find another way to reach back to Delphini. Delphini after breaking LOS with prefects will hide in the nearest hiding spot, waiting for Minerva to find her and guide her towards safety.
+
+If Delphini or Minerva (in human form) are caught by the caretaker, he will personally escort them to their rooms; the mission is considered failed, and the friendship level with Delphini will slightly decrease.
+
+![](Pictures/Level/Script/Map_door_open_picture.png)
+
+If Minerva is seen in her cat form by the caretaker the other instances will be disabled and the caretaker starts following you until you go out of his field of view.
+If Minerva is caught the caretaker will
+
+- the first time, throw her out of the castle (making her restart from the beginning). Delphini will hide in the nearest hiding spot from the location we left her.
+- the second time, hit the cat with a wood log, subsequently causing Minerva to turn back in her human form as she doesn't have strong enough control over her animagus form. At the point, the mission fails with Minerva being dragged in her room, and the friendship level with Delphini decreasing.
+
+If Minerva is caught in cat form by a prefect he will reach her and start petting her; during this time Minerva's cat-form points won't decrease and the prefect will be unable to see Delphini moving.
+
+If the mission succeeds, the friendship level with Delphini increases a lot.
 
 ## 1. Detailed level diagram
 ## 2.  Detailed level description

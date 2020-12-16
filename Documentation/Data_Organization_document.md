@@ -208,6 +208,7 @@ List of types to identify files:
 - \_logo
 - _sheet
 - _icon
+- _chart
 
 Each diagram or flowchart must be **paired** with its source that generated it.
 
