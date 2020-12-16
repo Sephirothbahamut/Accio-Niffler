@@ -1,0 +1,7 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}GD}{2}{}%
+\contentsline {paragraph}{ asfasgasg asf assa asd asd asd sad asd sa dasd sa dsa }{2}{}%
+\contentsline {paragraph}{ asfasgasg asf assa asd asd asd sad asd sa dasd sa dsa }{2}{}%
+\contentsline {section}{\numberline {2}LD}{3}{}%
+\contentsline {paragraph}{ asfasgasg asf assa asd asd asd sad asd sa dasd sa dsa }{3}{}%
+\contentsline {paragraph}{ asfasgasg asf assa asd asd asd sad asd sa dasd sa dsa }{3}{}%
