@@ -1,20 +1,16 @@
-\documentclass[titlepage]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{graphicx}
-\usepackage{placeins}
-\usepackage{float}
-\usepackage{titlepic}
-\usepackage[T1]{fontenc}
-\usepackage{babel}
-
+\documentclass[12pt, a4paper, titlepage]{article}
+\input{Packages}
 
 \begin{document}
 \include{First_page}
 
+\include{Changelog}
+\pagebreak
+
 \tableofcontents
 \pagebreak
 
-\include{GD}
-\include{LD}
+\include{Game Design}
+\include{Level Design}
 
 \end{document}
