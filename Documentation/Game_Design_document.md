@@ -218,7 +218,7 @@ At that point Minerva had to make a choice:
 4. **A night in the woods** *[Forbidden Forest]*
    1. Sneak past the professors and the prefects to get out the castle
    2. Meet up with Delphini and reach the Forbidden Forest
-   3. Practice with her new spells
+   3. Practice with her combined spells
    4. Fight the enraged centaurs on the way back
 5. **Preparing for greatness** *[Hogwarts]*
    1. Meet with Dumbledore in his office
