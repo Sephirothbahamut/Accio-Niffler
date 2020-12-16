@@ -8,6 +8,8 @@
 \usepackage[export]{adjustbox} % sets maxwidth/maxheight for pictures
 \usepackage{lipsum}
 \usepackage{wrapfig} % wrap text around figures
+\usepackage{caption} 
+\usepackage[shortlabels]{enumitem}
 
 \usepackage[shortlabels]{enumitem}
 
@@ -18,6 +20,8 @@
 \titleformat{\subsection}
   {\normalfont\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.5pt]}]
 
+\usepackage{dialogue}
+
 %%% Picture on the side, before paragraph
 %\begin{wrapfigure}[INSERT AMOUNT OF ROWS HERE]{r}{0.5\linewidth}
 %\centering
@@ -27,5 +31,5 @@
 
 %%% Picture full page width, after paragraph
 %\begin{figure}[H]
-%\includegraphics[\textwidth]{../Pictures/Locations/Hogwarts/Castle_picture.png} 
+%\includegraphics[max width=\textwidth]{../Pictures/Locations/Hogwarts/Castle_picture.png} 
 %\end{figure}
