@@ -43,11 +43,26 @@
 	\includegraphics[width=\textwidth]{#1} 
 	\end{figure}
 	}
+\newcommand{\fullwidthgraphicscaption}[2]
+	{
+	\begin{figure}[H]
+	\includegraphics[width=\textwidth]{#1} 
+	\caption{#2}
+	\end{figure}
+	}
 \newcommand{\centeredgraphics}[1]
 	{
 	\begin{figure}[H]
 	\centering
 	\includegraphics[max width=\textwidth]{#1} 
+	\end{figure}
+	}
+\newcommand{\centeredgraphicscaption}[2]
+	{
+	\begin{figure}[H]
+	\centering
+	\includegraphics[max width=\textwidth]{#1} 
+	\caption{#2}
 	\end{figure}
 	}
 	
