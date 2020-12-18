@@ -1,3 +1,4 @@
 @echo off
 pdflatex LDD.tex
-clear
+pdflatex LDD.tex
+pdflatex LDD.tex
