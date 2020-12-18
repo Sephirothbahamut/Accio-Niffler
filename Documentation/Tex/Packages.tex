@@ -12,7 +12,7 @@
 \usepackage[shortlabels]{enumitem}
 \usepackage{framed}
 \usepackage[margin=2cm]{geometry}
-
+\usepackage{booktabs,tabularx}
 \usepackage{titlesec}
 
 \titleformat{\section}
@@ -72,6 +72,15 @@
 	\includegraphics[max width=\textwidth]{#1} 
 	\caption{#2}
 	\end{figure}
+	}
+	
+% #1 filepath #2 img size #3 rowsamount
+\newcommand{\sidewrapgraphicsleftsize}[3]
+	{
+	\begin{wrapfigure}[#3]{l}{#2}
+	\centering
+	\raisebox{0pt}[\dimexpr\height-1.2\baselineskip\relax]{\includegraphics[width=#2]{#1}}
+	\end{wrapfigure}
 	}
 	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
