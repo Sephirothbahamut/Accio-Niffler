@@ -4,3 +4,4 @@
 *.synctex.gz
 Documentation/Data_Organization_Document/*.pdf
 Documentation/Level_Design_Document/*.pdf
+Documentation/Export/*.pdf
