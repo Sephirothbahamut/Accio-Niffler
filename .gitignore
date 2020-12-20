@@ -2,4 +2,4 @@
 *.aux
 *.toc
 *.synctex.gz
-Documentation/Tex/*.pdf
+Documentation/Level_Design_Document/*.pdf
