@@ -1,0 +1,133 @@
+\subsection{Battle Statistics}
+
+\subsubsection{Player Attacks}
+\paragraph{Expected Spells} Here we calculate the minimum, maximum and expected damage of the damage spells the player should know at this point of the game. The last two columns take into account the bonus d4 for Delphini's damage spells in case friendship is low (labeled lf).
+
+\begin{tabular}{c|c|c|c|c}
+	\textbf{Spell}         & \textbf{Lv 3}       & \textbf{Lv 4}         & \textbf{Lv 3 lf}  & \textbf{Lv4 lf}          \\ \hline
+	\textbf{Bombarda}      &        8d6          & \textbf{9d6}          &                   &                          \\
+	\textit{min}           &          8          &                 9     &                   &                          \\
+	\textit{exp}           &         28          &                31.5   &                   &                          \\
+	\textit{max}           &         48          &                54     &                   &                          \\ \hline
+	\textbf{Glacius}       & \textbf{4d8}        & \textbf{5d8}          & \textbf{4d8+d4}   & \textbf{5d8+d4}          \\
+	\textit{min}           &          4          &                 5     &           5       &                  6       \\
+	\textit{exp}           &         18          &                22.5   &          20.5     &                 25       \\
+	\textit{max}           &         32          &                40     &          36       &                 44       \\ \hline
+	\textbf{Aqua Eructo}   & \textbf{4d8}        &                       &                   &                          \\
+	\textit{min}           &          4          &                       &                   &                          \\
+	\textit{exp}           &         18          &                       &                   &                          \\
+	\textit{max}           &         32          &                       &                   &                          \\ \hline
+	\textbf{Sectumsempra}  & \textbf{5d10}       & \textbf{6d10}         & \textbf{5d10+d4}  & \textbf{6d10+d4}         \\
+	\textit{min}           &          5          &                 6     &            6      &                   7      \\
+	\textit{exp}           &         27.5        &                33     &           30      &                  35.5    \\
+	\textit{max}           &         50          &                60     &           54      &                  64      \\ \hline
+	\textbf{Baubillious}   & \textbf{4d8}        & \textbf{5d8}          & \textbf{4d8+d4}   & \textbf{5d8+d4}          \\
+	\textit{min}           &          4          &                 5     &            5      &     6                    \\
+	\textit{exp}           &         18          &                22.5   &           20.5    &    25                    \\
+	\textit{max}           &         32          &                40     &           36      &    44                    \\ \hline
+	\textbf{Incendio}      & \textbf{5d6}        & \textbf{6d6}          &                   &                          \\
+	\textit{min}           &          5          &                 6     &                   &                          \\
+	\textit{exp}           &         17.5        &                21     &                   &                          \\
+	\textit{max}           &         30          &                36     &                   &                          \\ \hline
+	\textbf{Stupeficium}   &                     & \textbf{2d10}         &                   & \textbf{2d10}            \\
+	\textit{min}           &                     &                    2  &                   &       3                  \\
+	\textit{exp}           &                     &                   11  &                   &      13.5                \\
+	\textit{max}           &                     &                   20  &                   &      24                  \\ \hline
+	\textbf{Sleep}         & \textbf{9d8}        & \textbf{11d8}         &                   &                          \\
+	\textit{min}           &          9          &                11     &                   &                          \\
+	\textit{exp}           &         40.5        &                49.5   &                   &                          \\
+	\textit{max}           &         75          &                88     &                   &                          \\ \hline
+\end{tabular}
+
+\paragraph{Hit chance and Cerberus's save throws} Here we calculate the hit chances for hit spells, and the saving throws when required.
+Calculations are simplified since both Minerva's and Delphini's \textit{Spell to hit} and \textit{Spell DC} values are equal, respectively 8 and 16.
+Cerberus's only stats relevant for the saving throws calculations are DEX (+1), CON (+4), and CA (16). \\
+
+\paragraph{Saving throw chances against spells with a Saving Throw}
+
+\begin{tabular}{c|c|c}
+	\textbf{Formula} & \textbf{Success chance} & \textbf{Fail chance} \\ \hline
+	Probability(d20 + [Cerberus's CON]) GEQ [Spell DC]      & 0.30 & 0.70 \\
+	Probability(d20 + [Cerberus's DEX]) GEQ [Spell DC]      & 0.45 & 0.55 \\ \hline
+\end{tabular} \\
+
+\paragraph{Hit chances by spells with hit}
+
+\begin{tabular}{c|c|c}
+	\textbf{Formula} & \textbf{Hit chance} & \textbf{Miss chance} \\ \hline
+	Probability(d20 + [Spell to Hit]) GEQ [Cerberus's AC]   & 0.65 & 0.35 \\ \hline
+\end{tabular}
+
+\paragraph{Expected Damage for Cerberus when hit} Here we calculate the expected damage taking into account chances to hit/miss (for spells like Sectumsempra) and chances to halve the damage (spells with saving throws). Sectumsempra is calculated also with advantage, in case the player uses Aqua Eructo the previous turn, so the enemy is prone and spells on hit throw with advantage.
+
+\begin{tabular}{c|c|c}
+	\textbf{Spell (name)} & \textbf{Expected dmg} & \textbf{Expected dmg lf} \\ \hline
+	Bombarda (4)                    & 26.78 &       \\
+	Sectumsempra (4)                & 22.28 & 23.96 \\
+	Babillious (4)                  & 17.44 &       \\
+	Glacius (4)                     & 17.44 &       \\
+	Aqua Eructo (3)                 & 13.41 &       \\
+	Sectumsempra (4 with advantage) & 17.52 & 19.92 \\
+	Bombarda (3)                    & 23.80 &       \\
+	Babillious (3)                  & 13.95 &       \\
+	Glacius (3)                     & 13.95 &       \\
+	Incendio (4)                    & 19.13 &       \\
+	Incendio (3)                    & 15.30 &       \\
+	Stupefy                         &  7.15 &  8.78 \\ \hline
+\end{tabular}
+
+
+\subsubsection{Cerberus Attacks}
+
+\paragraph{Attacks} Here we calculate the minimum, maximum and expected damage for each of the Cerberus's attacks.
+
+\begin{tabular}{c|c|c}
+	\textbf{Bite}        & \textbf{d6+4}     \\
+	\textit{min}         &          5        \\
+	\textit{exp}         &          7.5      \\
+	\textit{max}         &         10        \\ \hline
+	\textbf{Multiattack} & \textbf{(d6+4)*3} \\
+	\textit{min}         &         15        \\
+	\textit{exp}         &         22.5      \\
+	\textit{max}         &         30        \\ \hline
+	\textbf{Roar}        &  \textbf{0}       \\
+	\textit{min}         &          0        \\
+	\textit{exp}         &          0        \\
+	\textit{max}         &          0        \\ \hline
+\end{tabular}
+
+\paragraph{Hit chances with melee attacks} Here we calculate the chances the Cerberus has to hit a character. The second table performs the same calculation, but assuming the cerberus attacks with disadvantage (When affected by the Prone status) 
+
+\begin{tabular}{c|c|c|c}
+	\textbf{Target}   & \textbf{Formula} & \textbf{Hit chance} & \textbf{Miss chance} \\ \hline
+	\textbf{Minerva}  &Probability(d20 + [Bonus to Hit]) GEQ [Minerva's AC]    & 0.90 & 0.10 \\ \hline
+	\textbf{Delphini} &Probability(d20 + [Bonus to Hit]) GEQ [Delphini's AC]   & 0.85 & 0.15 \\ \hline
+\end{tabular}
+
+\begin{tabular}{c|c|c|c}
+	\textbf{Target}   & \textbf{Formula} & \textbf{Hit chance} & \textbf{Miss chance} \\ \hline
+	\textbf{Minerva}  &Probability(d20 + [Bonus to Hit]) GEQ [Minerva's AC]    & 0.81 & 0.19 \\ \hline
+	\textbf{Delphini} &Probability(d20 + [Bonus to Hit]) GEQ [Delphini's AC]   & 0.72 & 0.28 \\ \hline
+\end{tabular}
+
+\paragraph{Expected Damage dealt by Cerberus} Here we calculate the expected damage taking into account chances to hit/miss the player characters. The second column calculates the same value assuming disadvantage.
+
+\begin{tabular}{c|c|c|c}
+	\textbf{Attack} & \textbf{Target} & \textbf{Expected dmg} & \textbf{Expected dmg disadv} \\ \hline
+	Bite            & Minerva         &  6.75                 &  6.08                        \\
+	Bite            & Delphini        &  6.38                 &  5.45                        \\
+	Multiattack     & Minerva         & 20.25                 & 18.23                        \\
+	Multiattack     & Delphini        & 19.13                 & 16.26                        \\
+	Roar            & Any             &  0                    &  0                           \\ \hline
+\end{tabular}
+
+
+
+
+
+
+
+
+
+
+
