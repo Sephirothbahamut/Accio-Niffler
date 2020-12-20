@@ -2,49 +2,60 @@
 Generally, each file starts with capital letter; spaces are replaced by underscores.
 The filename represents its content in roughly two parts:
 
-		\begin{itemize}
-			\item The first part represents what is contained in the file or what it refers to (for example: Albus\_Dumbledore represents an asset concerning the character Albus Dumbledore, Black\_Lake\_ represents an asset concerning the Black Lake setting and so on). It is composed by no more than 3 words, separated by underscores.
-			\item The second part represents what type of content the file belongs to (for example: \_texture,\_sound, \_map, \_circumplex). It must be composed by only one word and it must be the final one of the filename: for this reason, abbreviations are allowed (for example: relationship map can be shortened to \_relmap) 
-	
-			\end{itemize}
+\begin{itemize}
+	\item The first part represents what is contained in the file or what it refers to (for example: Albus\_Dumbledore represents an asset concerning the character Albus Dumbledore, Black\_Lake\_ represents an asset concerning the Black Lake setting and so on). It is composed by no more than 3 words, separated by underscores.
+	\item The second part represents what type of content the file belongs to (for example: \_texture,\_sound, \_map, \_circumplex). It must be composed by only one word and it must be the final one of the filename: for this reason, abbreviations are allowed (for example: relationship map can be shortened to \_relmap).
+\end{itemize}
 
-List of types to identify files:
-		\begin{itemize}
-			\item \_source
-			\item \_diagram
-			\item \_flowchart
-			\item \_template
-			\item \_circumplex
-			\item \_portrait
-			\item \_relmap
-			\item \_map
-			\item \_picture
-			\item \_document
-			\item \_logo
-			\item \_sheet
-			\item \_icon
-			\item \_chart
-		\end{itemize}
+List of types to identify files in artistic assets:
+\begin{itemize}
+	\item \textbf{\_image} A full, independant image (portarits, backgrounds, etcc).
+	\item \textbf{\_music} Background music.
+	\item \textbf{\_sound} A sound effect.
+	\item \textbf{\_source} The modifiable file format (For example a .pdn for images, a .mid/.midi for music etcc).
+	\item \textbf{\_tile} An individual tile.
+	\item \textbf{\_tileset} An image intended to be read in tiles (environment tilesets, icon sets, face sets, etcc).
+	\item \textbf{\_video}
+	\item \textbf{\_voice} Spoken dialogue or part of a dialogue.
+\end{itemize}
+
+List of types to identify files in documentation:
+\begin{itemize}
+	\item \textbf{\_source} The modifiable file format (For example a .pdn for images, a .mid/.midi for music etcc).
+	\item \textbf{\_diagram}
+	\item \textbf{\_flowchart}
+	\item \textbf{\_template}
+	\item \textbf{\_circumplex}
+	\item \textbf{\_portrait}
+	\item \textbf{\_relmap}
+	\item \textbf{\_map}
+	\item \textbf{\_picture}
+	\item \textbf{\_document}
+	\item \textbf{\_logo}
+	\item \textbf{\_sheet}
+	\item \textbf{\_icon}
+	\item \textbf{\_chart}
+\end{itemize}
 
 Each diagram or flowchart must be paired with its source that generated it. \\
 
 E.g.
 
 \begin{itemize}
-			\item Albus\_circumplex.png represents the character circumplex of Albus Dumbledore
-			\item Myrtle\_Ghost\_portrait.png represents a portrait image of Myrtle in her ghostly form
-			\item Minerva\_after\_event\_relmap.png represents the relationship map of Minerva McGonagall after a traumatic event that happens through-out the story
+	\item Albus\_circumplex.png represents the character circumplex of Albus Dumbledore.
+	\item Myrtle\_Ghost\_portrait.png represents a portrait image of Myrtle in her ghostly form.
+	\item Minerva\_relmap.png represents the relationship map of Minerva McGonagall.
+	\item Minerva\_relmap\_source.pdn the editable source for the previous file.
 \end{itemize}
 
-Exported documents are exempt from this naming convention and will instead follow this one:
+\subsubsection*{Exceptions}
+
+Documentation .tex source files mustn't end in \textit{\_source}. Except for the root file, all the other files must have the same name as the title of the section they contain. If a file is further split in other sub-files, all those they must be inside of a folder named the same as the parent file. All those files and folders still have the spaces replaced with underscores.
+
+Final .pdf documentation files exported from the LaTeX source are named as follows:
 
 [Document Abbreviation]\_[Name of the team]
 
-For example the abbreviation of the export of the Data Organization Document (DOD) will be:
-
-\begin{itemize}
-			\item DOD\_AccioNiffler.docx
-			\item DOD\_AccioNiffler.pdf
-\end{itemize}
+For example the abbreviation of the export of the Data Organization Document (DOD) will be \textbf{DOD\_AccioNiffler.pdf}
 
 \pagebreak
