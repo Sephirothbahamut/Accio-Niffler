@@ -21,6 +21,16 @@
 \titleformat{\subsection}
   {\normalfont\Large\bfseries}{\thesubsection}{1em}{}[{\titlerule[0.5pt]}]
 
+\usepackage{fancyhdr,graphicx,lastpage}% http://ctan.org/pkg/{fancyhdr,graphicx,lastpage}
+\fancypagestyle{plain}
+	{
+	\fancyhf{}% Clear header/footer
+	\fancyhead[R]{Team Accio Niffler - Level Design Document}% Right header
+	\fancyhead[L]{\includegraphics[width=2cm]{../Pictures/Unimi_logo.png}}% Left header
+	\fancyfoot[R]{\thepage}% Right footer
+	}
+\pagestyle{plain}% Set page style to plain.
+
 \newenvironment{dialogue}[1]{\begin{leftbar}#1\begin{itemize}\setlength\itemsep{0em}}{\end{itemize}\end{leftbar}}
 \newcommand{\speak}[2]{\item[] \textbf{#1}: \textit{#2}}
 
