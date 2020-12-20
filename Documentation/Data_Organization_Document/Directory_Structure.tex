@@ -1,34 +1,93 @@
 \section{Directory Structure}
- 
-TODO non funziona porca miseria imagine di merda \fullwidthgraphics{../Pictures/Directory_structure_diagram.png}
 
-	\begin{itemize}
-		\item \textbf{Documentation} holds all the files related to the game documentation, such as the Data Organization Document and the Level Design Document. Contains the markdown sources of the documents as well as the following sub-directories:
-		\begin{itemize}
-			\item \textbf{Pictures}: holds all the pictures used in the documents. Its sub-directories serve to sort them into semantically-related sub-categories 
-				\begin{itemize}
-					\item \textbf{Story}
-					\item \textbf{Level}
-					\item \textbf{Maps}
-					\item \textbf{Locations}
-					\item \textbf{Characters}
-					\end{itemize}
-		 	\item \textbf{Export}: holds all the files generated from the markdown source of the documents, such as .docx and .pdf files 
- 	\item \textbf{Tex}: %TODO contains text file of document
-	\begin{itemize}
-					\item \textbf{Data Organization Document}
-					\item \textbf{Game Design Document}
-				\end{itemize}
+\paragraph{Documentation} Contains all the files related to the game documentation, such as the Data Organization Document and the Level Design Document.
+
+\begin{itemize}[noitemsep, nolistsep, label={-}]
+	\item \textbf{Data\_Organization\_Document} Contains LaTeX source for the Data Organization Document pdf.
+	\item \textbf{Export} Contains the .pdf files exported from LaTeX.
+	\item \textbf{Level\_Design\_Document} Contains LaTeX source for the Level Design Document pdf.
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+			\item \textbf{Game\_Design}
+			\item \textbf{Level\_Design}
 		\end{itemize}
+		
+	\item \textbf{Pictures} Contains all the images used inside the documentation and their sources (.pdn, .drawio).
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+		
+			\begin{multicols}{2}
 
-		\item \textbf{Asset}  holds all the files related to the game digital prototype. Its sub-directories serve to sort them into functionally-related sub-categories . 
-				\begin{itemize}
-					\item \textbf{Textures}
-					\item \textbf{Sounds}
-					\item \textbf{Scripts}
+				\item \textbf{Characters}
+					\begin{itemize}[noitemsep, nolistsep, label={-}]
+						\item Circumplexes
+						\item Portraits
+						\item Relationship\_maps
+						\item Stat\_sheets
+					\end{itemize}
+				\item \textbf{Gameplay}
+					\begin{itemize}[noitemsep, nolistsep, label={-}]
+						\item Items
+						\item Spells
+					\end{itemize}
+
+			\columnbreak
+				
+				\item \textbf{Maps}
+				\item \textbf{Level}
+					\begin{itemize}[noitemsep, nolistsep, label={-}]
+						\item Flowcharts
+						\item FSM
+						\item Schemes
+						\item Script
+						\item World
+					\end{itemize}
+					
+				\item \textbf{Locations}
+				\item \textbf{Story}
+				
+			\end{multicols}
+		
+		\end{itemize}
+\end{itemize}
+
+\paragraph{Asssets} Contains all the assets created by the artists
+
+\begin{itemize}[noitemsep, nolistsep, label={-}]
+	\item \textbf{Audio} Contains all audio files and possibly their modifiable sources.
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+			\item \textbf{Music}
+			\item \textbf{Sound\_effects}
+			\item \textbf{Speech}
+		\end{itemize}
+	
+	\item \textbf{Textures} Contains all the textures and tilesets and possibly their modifiable sources.
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+			\item \textbf{Charsets}
+			\item \textbf{Facesets}
+			\item \textbf{Iconsets}
+			\item \textbf{Tilesets}
+		\end{itemize}
+\end{itemize}
+
+\paragraph{Projects}
+
+\begin{itemize}[noitemsep, nolistsep, label={-}]
+	\item \textbf{Unity} Contains the main game projects
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+			\item \textbf{Assets}
+				\begin{itemize}[noitemsep, nolistsep, label={-}]
+					\item Audio (replicates the structure of root/Assets/Textures)
+					\item Prefabs
+					\item Scenes
+					\item Scripts
+					\item Textures (replicates the structure of root/Assets/Textures)
 				\end{itemize}
-					
-
-	\end{itemize}
-					
+			\item \textit{(Default and auto-generated Unity project structure and files)}
+		\end{itemize}
+	
+	\item \textbf{RPG Maker} Contains prototypes
+		\begin{itemize}[noitemsep, nolistsep, label={-}]
+			\item \textit{(Default and auto-generated RPG Maker project structure and files)}
+		\end{itemize}
+\end{itemize}
+	
 \pagebreak
